@@ -1,0 +1,10306 @@
+{
+  "1": {
+    "cui": "C0205556",
+    "mention": "Emergence"
+  },
+  "2": {
+    "cui": "C0015607",
+    "mention": "family medicine"
+  },
+  "3": {
+    "cui": "C0015024",
+    "mention": "Ethiopia"
+  },
+  "4": {
+    "cui": "C1512888",
+    "mention": "international"
+  },
+  "5": {
+    "cui": "C0282116",
+    "mention": "collaborative"
+  },
+  "6": {
+    "cui": "C3161035",
+    "mention": "education model"
+  },
+  "7": {
+    "cui": "C0015607",
+    "mention": "Family Medicine"
+  },
+  "8": {
+    "cui": "C0015607",
+    "mention": "FM"
+  },
+  "9": {
+    "cui": "C0037778",
+    "mention": "specialty"
+  },
+  "10": {
+    "cui": "C0015024",
+    "mention": "Ethiopia"
+  },
+  "11": {
+    "cui": "C1704221",
+    "mention": "first seven family physicians"
+  },
+  "12": {
+    "cui": "C0588053",
+    "mention": "graduated"
+  },
+  "13": {
+    "cui": "C3830166",
+    "mention": "February"
+  },
+  "14": {
+    "cui": "C0035182",
+    "mention": "residency"
+  },
+  "15": {
+    "cui": "C0010478",
+    "mention": "programme"
+  },
+  "16": {
+    "cui": "C0041740",
+    "mention": "Addis Ababa University"
+  },
+  "17": {
+    "cui": "C0392337",
+    "mention": "Cooperation"
+  },
+  "18": {
+    "cui": "C0239304",
+    "mention": "Ethiopian"
+  },
+  "19": {
+    "cui": "C3842568",
+    "mention": "expatriate"
+  },
+  "20": {
+    "cui": "C0554244",
+    "mention": "decision-makers"
+  },
+  "21": {
+    "cui": "C0031831",
+    "mention": "physicians"
+  },
+  "22": {
+    "cui": "C0439659",
+    "mention": "begin"
+  },
+  "23": {
+    "cui": "C0010478",
+    "mention": "programme"
+  },
+  "24": {
+    "cui": "C1512888",
+    "mention": "Intentional"
+  },
+  "25": {
+    "cui": "C0559956",
+    "mention": "replacement"
+  },
+  "26": {
+    "cui": "C3842568",
+    "mention": "expatriates"
+  },
+  "27": {
+    "cui": "C0239304",
+    "mention": "Ethiopian"
+  },
+  "28": {
+    "cui": "C1704221",
+    "mention": "family physicians"
+  },
+  "29": {
+    "cui": "C0439659",
+    "mention": "begun"
+  },
+  "30": {
+    "cui": "C0205556",
+    "mention": "Barriers"
+  },
+  "31": {
+    "cui": "C0332268",
+    "mention": "lack of"
+  },
+  "32": {
+    "cui": "C0162340",
+    "mention": "understanding"
+  },
+  "33": {
+    "cui": "C0015607",
+    "mention": "FM"
+  },
+  "34": {
+    "cui": "C0024752",
+    "mention": "human"
+  },
+  "35": {
+    "cui": "C0516918",
+    "mention": "financial resources"
+  },
+  "36": {
+    "cui": "C0392762",
+    "mention": "scaling up"
+  },
+  "37": {
+    "cui": "C0010478",
+    "mention": "programme"
+  },
+  "38": {
+    "cui": "C0205272",
+    "mention": "Regular"
+  },
+  "39": {
+    "cui": "C0010478",
+    "mention": "programme"
+  },
+  "40": {
+    "cui": "C1704362",
+    "mention": "review"
+  },
+  "41": {
+    "cui": "C1320928",
+    "mention": "resident physician"
+  },
+  "42": {
+    "cui": "C0009476",
+    "mention": "involvement"
+  },
+  "43": {
+    "cui": "C0015607",
+    "mention": "FM"
+  },
+  "44": {
+    "cui": "C0040607",
+    "mention": "training programme"
+  },
+  "45": {
+    "cui": "C0205556",
+    "mention": "adapt"
+  },
+  "46": {
+    "cui": "C2349186",
+    "mention": "fit"
+  },
+  "47": {
+    "cui": "C0239304",
+    "mention": "Ethiopian"
+  },
+  "48": {
+    "cui": "C0449255",
+    "mention": "context"
+  },
+  "49": {
+    "cui": "C0597535",
+    "mention": "successes"
+  },
+  "50": {
+    "cui": "C1274040",
+    "mention": "result"
+  },
+  "51": {
+    "cui": "C0037438",
+    "mention": "support"
+  },
+  "52": {
+    "cui": "C0150446",
+    "mention": "advocacy"
+  },
+  "53": {
+    "cui": "C0013562",
+    "mention": "Federal Ministry of Health"
+  },
+  "54": {
+    "cui": "C0239304",
+    "mention": "Ethiopian"
+  },
+  "55": {
+    "cui": "C0027567",
+    "mention": "African"
+  },
+  "56": {
+    "cui": "C1512888",
+    "mention": "international"
+  },
+  "57": {
+    "cui": "C0596660",
+    "mention": "international primary care organisations"
+  },
+  "58": {
+    "cui": "C0030705",
+    "mention": "Patient"
+  },
+  "59": {
+    "cui": "C0031831",
+    "mention": "Physician"
+  },
+  "60": {
+    "cui": "C1705242",
+    "mention": "Discordance"
+  },
+  "61": {
+    "cui": "C0281858",
+    "mention": "Global Assessment"
+  },
+  "62": {
+    "cui": "C0003873",
+    "mention": "Rheumatoid Arthritis"
+  },
+  "63": {
+    "cui": "C0220922",
+    "mention": "Systematic"
+  },
+  "64": {
+    "cui": "C0282441",
+    "mention": "Literature Review"
+  },
+  "65": {
+    "cui": "C0920317",
+    "mention": "Meta-Analysis"
+  },
+  "66": {
+    "cui": "C0030705",
+    "mention": "patient"
+  },
+  "67": {
+    "cui": "C0302350",
+    "mention": "therapeutic"
+  },
+  "68": {
+    "cui": "C0011109",
+    "mention": "decision-making"
+  },
+  "69": {
+    "cui": "C0376636",
+    "mention": "management"
+  },
+  "70": {
+    "cui": "C0003873",
+    "mention": "rheumatoid arthritis"
+  },
+  "71": {
+    "cui": "C0003873",
+    "mention": "RA"
+  },
+  "72": {
+    "cui": "C0030705",
+    "mention": "patient"
+  },
+  "73": {
+    "cui": "C0871010",
+    "mention": "opinion"
+  },
+  "74": {
+    "cui": "C0012634",
+    "mention": "disease"
+  },
+  "75": {
+    "cui": "C0449438",
+    "mention": "status"
+  },
+  "76": {
+    "cui": "C0031831",
+    "mention": "physician's"
+  },
+  "77": {
+    "cui": "C0871010",
+    "mention": "opinion"
+  },
+  "78": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "79": {
+    "cui": "C1516048",
+    "mention": "assess"
+  },
+  "80": {
+    "cui": "C0023866",
+    "mention": "published literature"
+  },
+  "81": {
+    "cui": "C0376249",
+    "mention": "frequency"
+  },
+  "82": {
+    "cui": "C0030705",
+    "mention": "patient"
+  },
+  "83": {
+    "cui": "C0031831",
+    "mention": "physician"
+  },
+  "84": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "85": {
+    "cui": "C0281858",
+    "mention": "global assessment"
+  },
+  "86": {
+    "cui": "C0003873",
+    "mention": "RA"
+  },
+  "87": {
+    "cui": "C0220922",
+    "mention": "systematic"
+  },
+  "88": {
+    "cui": "C0282441",
+    "mention": "literature review"
+  },
+  "89": {
+    "cui": "C1706852",
+    "mention": "articles"
+  },
+  "90": {
+    "cui": "C0034037",
+    "mention": "published"
+  },
+  "91": {
+    "cui": "C0025141",
+    "mention": "Medline"
+  },
+  "92": {
+    "cui": "C0282574",
+    "mention": "Embase"
+  },
+  "93": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "94": {
+    "cui": "C0003873",
+    "mention": "RA"
+  },
+  "95": {
+    "cui": "C0035173",
+    "mention": "investigators"
+  },
+  "96": {
+    "cui": "C1705242",
+    "mention": "Discordance"
+  },
+  "97": {
+    "cui": "C1705242",
+    "mention": "absolute difference"
+  },
+  "98": {
+    "cui": "C4054229",
+    "mention": "patient global"
+  },
+  "99": {
+    "cui": "C4054229",
+    "mention": "PGA"
+  },
+  "100": {
+    "cui": "C0281858",
+    "mention": "physician global assessments"
+  },
+  "101": {
+    "cui": "C0281858",
+    "mention": "PhGA"
+  },
+  "102": {
+    "cui": "C0376249",
+    "mention": "frequency"
+  },
+  "103": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "104": {
+    "cui": "C0035648",
+    "mention": "predictors"
+  },
+  "105": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "106": {
+    "cui": "C0376249",
+    "mention": "Frequencies"
+  },
+  "107": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "108": {
+    "cui": "C2349200",
+    "mention": "pooled"
+  },
+  "109": {
+    "cui": "C0920317",
+    "mention": "meta-analysis"
+  },
+  "110": {
+    "cui": "C0439605",
+    "mention": "random"
+  },
+  "111": {
+    "cui": "C1280500",
+    "mention": "effect"
+  },
+  "112": {
+    "cui": "C2603343",
+    "mention": "studies"
+  },
+  "113": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "114": {
+    "cui": "C0444504",
+    "mention": "weighted mean"
+  },
+  "115": {
+    "cui": "C0001779",
+    "mention": "age"
+  },
+  "116": {
+    "cui": "C0439234",
+    "mention": "years"
+  },
+  "117": {
+    "cui": "C0444504",
+    "mention": "weighted mean"
+  },
+  "118": {
+    "cui": "C0872146",
+    "mention": "disease duration"
+  },
+  "119": {
+    "cui": "C0439234",
+    "mention": "years"
+  },
+  "120": {
+    "cui": "C0043210",
+    "mention": "women"
+  },
+  "121": {
+    "cui": "C1522609",
+    "mention": "value"
+  },
+  "122": {
+    "cui": "C1705241",
+    "mention": "difference"
+  },
+  "123": {
+    "cui": "C4054229",
+    "mention": "PGA"
+  },
+  "124": {
+    "cui": "C0281858",
+    "mention": "PhGA"
+  },
+  "125": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "126": {
+    "cui": "C0444504",
+    "mention": "weighted mean value"
+  },
+  "127": {
+    "cui": "C2349200",
+    "mention": "pooled"
+  },
+  "128": {
+    "cui": "C0439165",
+    "mention": "percentage"
+  },
+  "129": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "130": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "131": {
+    "cui": "C0009667",
+    "mention": "confidence interval"
+  },
+  "132": {
+    "cui": "C1514721",
+    "mention": "range"
+  },
+  "133": {
+    "cui": "C4054229",
+    "mention": "PGA"
+  },
+  "134": {
+    "cui": "C0205250",
+    "mention": "higher"
+  },
+  "135": {
+    "cui": "C0281858",
+    "mention": "PhGA"
+  },
+  "136": {
+    "cui": "C4054229",
+    "mention": "PGA"
+  },
+  "137": {
+    "cui": "C0030193",
+    "mention": "pain"
+  },
+  "138": {
+    "cui": "C0205245",
+    "mention": "functional"
+  },
+  "139": {
+    "cui": "C3176592",
+    "mention": "incapacity"
+  },
+  "140": {
+    "cui": "C0281858",
+    "mention": "PhGA"
+  },
+  "141": {
+    "cui": "C0282574",
+    "mention": "joint counts"
+  },
+  "142": {
+    "cui": "C0001347",
+    "mention": "acute-phase reactants"
+  },
+  "143": {
+    "cui": "C1705242",
+    "mention": "Discordance"
+  },
+  "144": {
+    "cui": "C0281858",
+    "mention": "global assessment"
+  },
+  "145": {
+    "cui": "C0332183",
+    "mention": "frequently"
+  },
+  "146": {
+    "cui": "C1705242",
+    "mention": "difference"
+  },
+  "147": {
+    "cui": "C2825407",
+    "mention": "half"
+  },
+  "148": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "149": {
+    "cui": "C1705242",
+    "mention": "discordant"
+  },
+  "150": {
+    "cui": "C0443252",
+    "mention": "long-term"
+  },
+  "151": {
+    "cui": "C0686907",
+    "mention": "consequences"
+  },
+  "152": {
+    "cui": "C1705242",
+    "mention": "discordance"
+  },
+  "153": {
+    "cui": "C0242485",
+    "mention": "Measurement"
+  },
+  "154": {
+    "cui": "C0085415",
+    "mention": "Outcomes"
+  },
+  "155": {
+    "cui": "C1408821",
+    "mention": "Upper Limb Reconstructive Surgery"
+  },
+  "156": {
+    "cui": "C0034372",
+    "mention": "Tetraplegia"
+  },
+  "157": {
+    "cui": "C1408821",
+    "mention": "Reconstructive arm/hand surgery"
+  },
+  "158": {
+    "cui": "C0034372",
+    "mention": "tetraplegia"
+  },
+  "159": {
+    "cui": "C0884358",
+    "mention": "performed"
+  },
+  "160": {
+    "cui": "C0184511",
+    "mention": "improve"
+  },
+  "161": {
+    "cui": "C0562230",
+    "mention": "arm/hand function"
+  },
+  "162": {
+    "cui": "C1821407",
+    "mention": "personal well-being"
+  },
+  "163": {
+    "cui": "C0237401",
+    "mention": "individuals"
+  },
+  "164": {
+    "cui": "C1272684",
+    "mention": "accept"
+  },
+  "165": {
+    "cui": "C0206058",
+    "mention": "elective surgeries"
+  },
+  "166": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "167": {
+    "cui": "C0221099",
+    "mention": "impairment"
+  },
+  "168": {
+    "cui": "C0205245",
+    "mention": "functional"
+  },
+  "169": {
+    "cui": "C0034380",
+    "mention": "quality of life"
+  },
+  "170": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "171": {
+    "cui": "C0336791",
+    "mention": "multiple outcome tools"
+  },
+  "172": {
+    "cui": "C0243126",
+    "mention": "incorporate"
+  },
+  "173": {
+    "cui": "C3261286",
+    "mention": "sufficient responsiveness"
+  },
+  "174": {
+    "cui": "C0442726",
+    "mention": "detect"
+  },
+  "175": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "176": {
+    "cui": "C0562230",
+    "mention": "arm/hand function"
+  },
+  "177": {
+    "cui": "C0441655",
+    "mention": "activity"
+  },
+  "178": {
+    "cui": "C0679823",
+    "mention": "participation"
+  },
+  "179": {
+    "cui": "C0034380",
+    "mention": "quality of life"
+  },
+  "180": {
+    "cui": "C0237401",
+    "mention": "individuals"
+  },
+  "181": {
+    "cui": "C0815257",
+    "mention": "narrative review"
+  },
+  "182": {
+    "cui": "C1947946",
+    "mention": "aims"
+  },
+  "183": {
+    "cui": "C0557034",
+    "mention": "assist"
+  },
+  "184": {
+    "cui": "C0871685",
+    "mention": "clinicians"
+  },
+  "185": {
+    "cui": "C1548787",
+    "mention": "appropriate"
+  },
+  "186": {
+    "cui": "C0336791",
+    "mention": "tools"
+  },
+  "187": {
+    "cui": "C1516048",
+    "mention": "assess"
+  },
+  "188": {
+    "cui": "C1408821",
+    "mention": "reconstructive surgery"
+  },
+  "189": {
+    "cui": "C0220825",
+    "mention": "evaluate"
+  },
+  "190": {
+    "cui": "C0085415",
+    "mention": "outcomes"
+  },
+  "191": {
+    "cui": "C0018017",
+    "mention": "objectives"
+  },
+  "192": {
+    "cui": "C1552738",
+    "mention": "describe"
+  },
+  "193": {
+    "cui": "C1547011",
+    "mention": "aspects"
+  },
+  "194": {
+    "cui": "C0242485",
+    "mention": "measure"
+  },
+  "195": {
+    "cui": "C1552738",
+    "mention": "describe"
+  },
+  "196": {
+    "cui": "C0242485",
+    "mention": "measures"
+  },
+  "197": {
+    "cui": "C1512888",
+    "mention": "international"
+  },
+  "198": {
+    "cui": "C0871525",
+    "mention": "therapist"
+  },
+  "199": {
+    "cui": "C0441833",
+    "mention": "group"
+  },
+  "200": {
+    "cui": "C0443211",
+    "mention": "established"
+  },
+  "201": {
+    "cui": "C0242485",
+    "mention": "measures"
+  },
+  "202": {
+    "cui": "C2827421",
+    "mention": "construct"
+  },
+  "203": {
+    "cui": "C1533734",
+    "mention": "administration"
+  },
+  "204": {
+    "cui": "C0205210",
+    "mention": "clinical"
+  },
+  "205": {
+    "cui": "C2347946",
+    "mention": "relevance"
+  },
+  "206": {
+    "cui": "C0841296",
+    "mention": "arm/hand reconstructions"
+  },
+  "207": {
+    "cui": "C0205224",
+    "mention": "Essentially"
+  },
+  "208": {
+    "cui": "C0243161",
+    "mention": "criterion"
+  },
+  "209": {
+    "cui": "C0034925",
+    "mention": "standard"
+  },
+  "210": {
+    "cui": "C0242485",
+    "mention": "measures"
+  },
+  "211": {
+    "cui": "C0220825",
+    "mention": "evaluate"
+  },
+  "212": {
+    "cui": "C0686907",
+    "mention": "consequences of"
+  },
+  "213": {
+    "cui": "C1408821",
+    "mention": "reconstructive arm/hand surgery"
+  },
+  "214": {
+    "cui": "C0042153",
+    "mention": "use"
+  },
+  "215": {
+    "cui": "C0242485",
+    "mention": "measures"
+  },
+  "216": {
+    "cui": "C0566217",
+    "mention": "questions asked"
+  },
+  "217": {
+    "cui": "C3540678",
+    "mention": "tasks"
+  },
+  "218": {
+    "cui": "C0205197",
+    "mention": "completed"
+  },
+  "219": {
+    "cui": "C2347946",
+    "mention": "relevant"
+  },
+  "220": {
+    "cui": "C0524865",
+    "mention": "surgical reconstruction"
+  },
+  "221": {
+    "cui": "C0043227",
+    "mention": "work"
+  },
+  "222": {
+    "cui": "C1521738",
+    "mention": "field"
+  },
+  "223": {
+    "cui": "C1514873",
+    "mention": "required"
+  },
+  "224": {
+    "cui": "C0205253",
+    "mention": "immediate"
+  },
+  "225": {
+    "cui": "C0282116",
+    "mention": "collaboration"
+  },
+  "226": {
+    "cui": "C0085565",
+    "mention": "outcome's tool developers"
+  },
+  "227": {
+    "cui": "C0010992",
+    "mention": "analysis"
+  },
+  "228": {
+    "cui": "C0445204",
+    "mention": "pre"
+  },
+  "229": {
+    "cui": "C0032790",
+    "mention": "postoperative"
+  },
+  "230": {
+    "cui": "C1511726",
+    "mention": "data"
+  },
+  "231": {
+    "cui": "C1512888",
+    "mention": "international"
+  },
+  "232": {
+    "cui": "C0220825",
+    "mention": "evaluation"
+  },
+  "233": {
+    "cui": "C0242485",
+    "mention": "measures"
+  },
+  "234": {
+    "cui": "C0042153",
+    "mention": "use"
+  },
+  "235": {
+    "cui": "C0449432",
+    "mention": "components"
+  },
+  "236": {
+    "cui": "C0750502",
+    "mention": "SIGNIFICANT"
+  },
+  "237": {
+    "cui": "C0680558",
+    "mention": "HARM"
+  },
+  "238": {
+    "cui": "C0008059",
+    "mention": "RE B AND G (CHILDREN"
+  },
+  "239": {
+    "cui": "C0584988",
+    "mention": "CARE PROCEEDINGS"
+  },
+  "240": {
+    "cui": "C0683838",
+    "mention": "academic"
+  },
+  "241": {
+    "cui": "C0870392",
+    "mention": "debate"
+  },
+  "242": {
+    "cui": "C0034634",
+    "mention": "rages"
+  },
+  "243": {
+    "cui": "C0008819",
+    "mention": "male circumcision"
+  },
+  "244": {
+    "cui": "C1522427",
+    "mention": "best"
+  },
+  "245": {
+    "cui": "C0543488",
+    "mention": "interests"
+  },
+  "246": {
+    "cui": "C0008059",
+    "mention": "child"
+  },
+  "247": {
+    "cui": "C1546935",
+    "mention": "abusive"
+  },
+  "248": {
+    "cui": "C0475222",
+    "mention": "practice"
+  },
+  "249": {
+    "cui": "C0282411",
+    "mention": "commentary"
+  },
+  "250": {
+    "cui": "C2584313",
+    "mention": "discusses"
+  },
+  "251": {
+    "cui": "C0332185",
+    "mention": "recent"
+  },
+  "252": {
+    "cui": "C0868928",
+    "mention": "case"
+  },
+  "253": {
+    "cui": "C0008059",
+    "mention": "Re B and G (children)"
+  },
+  "254": {
+    "cui": "C0584988",
+    "mention": "care proceedings"
+  },
+  "255": {
+    "cui": "C0521116",
+    "mention": "current"
+  },
+  "256": {
+    "cui": "C0679924",
+    "mention": "President"
+  },
+  "257": {
+    "cui": "C0029246",
+    "mention": "Family Division of the High court"
+  },
+  "258": {
+    "cui": "C0033213",
+    "mention": "issues"
+  },
+  "259": {
+    "cui": "C0442818",
+    "mention": "raised"
+  },
+  "260": {
+    "cui": "C1287392",
+    "mention": "judgment"
+  },
+  "261": {
+    "cui": "C0679924",
+    "mention": "President"
+  },
+  "262": {
+    "cui": "C0947611",
+    "mention": "comments"
+  },
+  "263": {
+    "cui": "C1261512",
+    "mention": "attack"
+  },
+  "264": {
+    "cui": "C1301860",
+    "mention": "legally"
+  },
+  "265": {
+    "cui": "C1272684",
+    "mention": "accepted"
+  },
+  "266": {
+    "cui": "C3266814",
+    "mention": "act"
+  },
+  "267": {
+    "cui": "C0008819",
+    "mention": "male circumcision"
+  },
+  "268": {
+    "cui": "C2348205",
+    "mention": "similar"
+  },
+  "269": {
+    "cui": "C1262865",
+    "mention": "nature"
+  },
+  "270": {
+    "cui": "C3242151",
+    "mention": "illegal"
+  },
+  "271": {
+    "cui": "C3266814",
+    "mention": "act"
+  },
+  "272": {
+    "cui": "C0403893",
+    "mention": "female genital mutilation"
+  },
+  "273": {
+    "cui": "C0403893",
+    "mention": "FGM"
+  },
+  "274": {
+    "cui": "C0008819",
+    "mention": "male circumcision"
+  },
+  "275": {
+    "cui": "C1705535",
+    "mention": "suggestion"
+  },
+  "276": {
+    "cui": "C0008819",
+    "mention": "male circumcision"
+  },
+  "277": {
+    "cui": "C0750502",
+    "mention": "significant"
+  },
+  "278": {
+    "cui": "C0680558",
+    "mention": "harm"
+  },
+  "279": {
+    "cui": "C0868928",
+    "mention": "case"
+  },
+  "280": {
+    "cui": "C0558058",
+    "mention": "reflects"
+  },
+  "281": {
+    "cui": "C4082133",
+    "mention": "unprepared"
+  },
+  "282": {
+    "cui": "C0348080",
+    "mention": "condition"
+  },
+  "283": {
+    "cui": "C0041700",
+    "mention": "UK"
+  },
+  "284": {
+    "cui": "C0814933",
+    "mention": "medical profession"
+  },
+  "285": {
+    "cui": "C0403893",
+    "mention": "FGM"
+  },
+  "286": {
+    "cui": "C1148433",
+    "mention": "Survival status"
+  },
+  "287": {
+    "cui": "C0205245",
+    "mention": "functional"
+  },
+  "288": {
+    "cui": "C1274040",
+    "mention": "outcome"
+  },
+  "289": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "290": {
+    "cui": "C1514873",
+    "mention": "required"
+  },
+  "291": {
+    "cui": "C0439590",
+    "mention": "prolonged"
+  },
+  "292": {
+    "cui": "C0085559",
+    "mention": "intensive care"
+  },
+  "293": {
+    "cui": "C0018821",
+    "mention": "cardiac surgery"
+  },
+  "294": {
+    "cui": "C0008059",
+    "mention": "Children"
+  },
+  "295": {
+    "cui": "C0439590",
+    "mention": "prolonged"
+  },
+  "296": {
+    "cui": "C0085559",
+    "mention": "intensive care"
+  },
+  "297": {
+    "cui": "C0018821",
+    "mention": "cardiac surgery"
+  },
+  "298": {
+    "cui": "C1444641",
+    "mention": "at risk"
+  },
+  "299": {
+    "cui": "C0205848",
+    "mention": "high mortality"
+  },
+  "300": {
+    "cui": "C0443252",
+    "mention": "long-term"
+  },
+  "301": {
+    "cui": "C1148433",
+    "mention": "survival"
+  },
+  "302": {
+    "cui": "C0205245",
+    "mention": "functional"
+  },
+  "303": {
+    "cui": "C1274040",
+    "mention": "outcome"
+  },
+  "304": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "305": {
+    "cui": "C1522508",
+    "mention": "detail"
+  },
+  "306": {
+    "cui": "C0008059",
+    "mention": "Children"
+  },
+  "307": {
+    "cui": "C2706919",
+    "mention": "stayed"
+  },
+  "308": {
+    "cui": "C0085559",
+    "mention": "intensive care"
+  },
+  "309": {
+    "cui": "C0439228",
+    "mention": "days"
+  },
+  "310": {
+    "cui": "C0018821",
+    "mention": "cardiac surgery"
+  },
+  "311": {
+    "cui": "C2607850",
+    "mention": "institution"
+  },
+  "312": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "313": {
+    "cui": "C0205396",
+    "mention": "identified"
+  },
+  "314": {
+    "cui": "C1510829",
+    "mention": "year of age"
+  },
+  "315": {
+    "cui": "C2959602",
+    "mention": "univentricular physiology"
+  },
+  "316": {
+    "cui": "C0021149",
+    "mention": "incidence"
+  },
+  "317": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "318": {
+    "cui": "C0439590",
+    "mention": "prolonged"
+  },
+  "319": {
+    "cui": "C0085559",
+    "mention": "intensive care"
+  },
+  "320": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "321": {
+    "cui": "C0018821",
+    "mention": "cardiac surgery"
+  },
+  "322": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "323": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "324": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "325": {
+    "cui": "C0237753",
+    "mention": "number"
+  },
+  "326": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "327": {
+    "cui": "C0152101",
+    "mention": "hypoplastic left heart syndrome"
+  },
+  "328": {
+    "cui": "C0439590",
+    "mention": "prolonged"
+  },
+  "329": {
+    "cui": "C0085559",
+    "mention": "intensive care"
+  },
+  "330": {
+    "cui": "C1948053",
+    "mention": "period"
+  },
+  "331": {
+    "cui": "C1148433",
+    "mention": "Survival"
+  },
+  "332": {
+    "cui": "C0021710",
+    "mention": "pediatric intensive care unit"
+  },
+  "333": {
+    "cui": "C0021710",
+    "mention": "PICU"
+  },
+  "334": {
+    "cui": "C0030685",
+    "mention": "discharge"
+  },
+  "335": {
+    "cui": "C0009667",
+    "mention": "confidence interval"
+  },
+  "336": {
+    "cui": "C0009667",
+    "mention": "CI"
+  },
+  "337": {
+    "cui": "C0009667",
+    "mention": "CI"
+  },
+  "338": {
+    "cui": "C0439234",
+    "mention": "years"
+  },
+  "339": {
+    "cui": "C1521761",
+    "mention": "Factors"
+  },
+  "340": {
+    "cui": "C0332281",
+    "mention": "associated with"
+  },
+  "341": {
+    "cui": "C0205848",
+    "mention": "mortality"
+  },
+  "342": {
+    "cui": "C1961051",
+    "mention": "univentricular repair"
+  },
+  "343": {
+    "cui": "C2985465",
+    "mention": "hazard ratio"
+  },
+  "344": {
+    "cui": "C2985465",
+    "mention": "HR"
+  },
+  "345": {
+    "cui": "C0009667",
+    "mention": "CI"
+  },
+  "346": {
+    "cui": "C0022660",
+    "mention": "acute renal failure"
+  },
+  "347": {
+    "cui": "C2985465",
+    "mention": "HR"
+  },
+  "348": {
+    "cui": "C0009667",
+    "mention": "CI"
+  },
+  "349": {
+    "cui": "C4054723",
+    "mention": "influence"
+  },
+  "350": {
+    "cui": "C0205848",
+    "mention": "mortality"
+  },
+  "351": {
+    "cui": "C0021710",
+    "mention": "PICU"
+  },
+  "352": {
+    "cui": "C0206194",
+    "mention": "survivors"
+  },
+  "353": {
+    "cui": "C0439234",
+    "mention": "year"
+  },
+  "354": {
+    "cui": "C1148433",
+    "mention": "survival"
+  },
+  "355": {
+    "cui": "C1279919",
+    "mention": "early"
+  },
+  "356": {
+    "cui": "C0035110",
+    "mention": "reoperation"
+  },
+  "357": {
+    "cui": "C0009667",
+    "mention": "CI"
+  },
+  "358": {
+    "cui": "C1707455",
+    "mention": "compared"
+  },
+  "359": {
+    "cui": "C0009667",
+    "mention": "CI"
+  },
+  "360": {
+    "cui": "C1514873",
+    "mention": "required"
+  },
+  "361": {
+    "cui": "C1279919",
+    "mention": "early"
+  },
+  "362": {
+    "cui": "C0035110",
+    "mention": "reoperation"
+  },
+  "363": {
+    "cui": "C0206194",
+    "mention": "survivors"
+  },
+  "364": {
+    "cui": "C0424989",
+    "mention": "moderate"
+  },
+  "365": {
+    "cui": "C0424990",
+    "mention": "severe disability"
+  },
+  "366": {
+    "cui": "C3686815",
+    "mention": "poor quality of life"
+  },
+  "367": {
+    "cui": "C0021149",
+    "mention": "incidence"
+  },
+  "368": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "369": {
+    "cui": "C0439590",
+    "mention": "prolonged"
+  },
+  "370": {
+    "cui": "C0085559",
+    "mention": "intensive care"
+  },
+  "371": {
+    "cui": "C0018821",
+    "mention": "cardiac surgery"
+  },
+  "372": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "373": {
+    "cui": "C2607850",
+    "mention": "institution"
+  },
+  "374": {
+    "cui": "C1511726",
+    "mention": "data"
+  },
+  "375": {
+    "cui": "C1705535",
+    "mention": "suggest"
+  },
+  "376": {
+    "cui": "C0443252",
+    "mention": "long-term"
+  },
+  "377": {
+    "cui": "C1274040",
+    "mention": "outcome"
+  },
+  "378": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "379": {
+    "cui": "C2700379",
+    "mention": "poor"
+  },
+  "380": {
+    "cui": "C1961051",
+    "mention": "univentricular repair"
+  },
+  "381": {
+    "cui": "C0043210",
+    "mention": "Women's"
+  },
+  "382": {
+    "cui": "C2362503",
+    "mention": "Sexual Issues"
+  },
+  "383": {
+    "cui": "C0027051",
+    "mention": "Myocardial Infarction"
+  },
+  "384": {
+    "cui": "C0282441",
+    "mention": "Literature Review"
+  },
+  "385": {
+    "cui": "C0036864",
+    "mention": "Sexual activity"
+  },
+  "386": {
+    "cui": "C0027051",
+    "mention": "myocardial infarction"
+  },
+  "387": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "388": {
+    "cui": "C2699424",
+    "mention": "concern"
+  },
+  "389": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "390": {
+    "cui": "C1704312",
+    "mention": "health care professionals"
+  },
+  "391": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "392": {
+    "cui": "C1522384",
+    "mention": "sexes"
+  },
+  "393": {
+    "cui": "C0856619",
+    "mention": "sexual problems"
+  },
+  "394": {
+    "cui": "C2699424",
+    "mention": "concerns"
+  },
+  "395": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "396": {
+    "cui": "C0025266",
+    "mention": "men"
+  },
+  "397": {
+    "cui": "C0043210",
+    "mention": "women"
+  },
+  "398": {
+    "cui": "C0043210",
+    "mention": "Women"
+  },
+  "399": {
+    "cui": "C2699424",
+    "mention": "sexual concerns"
+  },
+  "400": {
+    "cui": "C0018724",
+    "mention": "health care providers"
+  },
+  "401": {
+    "cui": "C0443189",
+    "mention": "conceal"
+  },
+  "402": {
+    "cui": "C1948141",
+    "mention": "cultural barriers"
+  },
+  "403": {
+    "cui": "C1947946",
+    "mention": "aim"
+  },
+  "404": {
+    "cui": "C2603343",
+    "mention": "current study"
+  },
+  "405": {
+    "cui": "C0282441",
+    "mention": "review of the literature"
+  },
+  "406": {
+    "cui": "C0043210",
+    "mention": "women's"
+  },
+  "407": {
+    "cui": "C2362503",
+    "mention": "sexual issues"
+  },
+  "408": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "409": {
+    "cui": "C0023866",
+    "mention": "literature"
+  },
+  "410": {
+    "cui": "C0242356",
+    "mention": "international databases"
+  },
+  "411": {
+    "cui": "C1138432",
+    "mention": "PubMed"
+  },
+  "412": {
+    "cui": "C0025141",
+    "mention": "Medline"
+  },
+  "413": {
+    "cui": "C0282574",
+    "mention": "Scopus"
+  },
+  "414": {
+    "cui": "C0282574",
+    "mention": "ScienceDirect"
+  },
+  "415": {
+    "cui": "C0282574",
+    "mention": "ProQuest"
+  },
+  "416": {
+    "cui": "C0282574",
+    "mention": "Google Scholar"
+  },
+  "417": {
+    "cui": "C1708608",
+    "mention": "keywords"
+  },
+  "418": {
+    "cui": "C3841595",
+    "mention": "Persian electronic databases"
+  },
+  "419": {
+    "cui": "C0282574",
+    "mention": "Magiran"
+  },
+  "420": {
+    "cui": "C0282574",
+    "mention": "Scientific Information Databases"
+  },
+  "421": {
+    "cui": "C0282574",
+    "mention": "Iran Medex"
+  },
+  "422": {
+    "cui": "C1706852",
+    "mention": "Articles"
+  },
+  "423": {
+    "cui": "C2362503",
+    "mention": "sexual issues"
+  },
+  "424": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "425": {
+    "cui": "C0043210",
+    "mention": "women"
+  },
+  "426": {
+    "cui": "C1706852",
+    "mention": "articles"
+  },
+  "427": {
+    "cui": "C1522384",
+    "mention": "sexes"
+  },
+  "428": {
+    "cui": "C0043210",
+    "mention": "women's"
+  },
+  "429": {
+    "cui": "C1273406",
+    "mention": "review"
+  },
+  "430": {
+    "cui": "C1706852",
+    "mention": "articles"
+  },
+  "431": {
+    "cui": "C0150098",
+    "mention": "dataset"
+  },
+  "432": {
+    "cui": "C0043210",
+    "mention": "women's"
+  },
+  "433": {
+    "cui": "C2699424",
+    "mention": "sexual concerns"
+  },
+  "434": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "435": {
+    "cui": "C1517945",
+    "mention": "loss"
+  },
+  "436": {
+    "cui": "C0547047",
+    "mention": "decrease"
+  },
+  "437": {
+    "cui": "C0036864",
+    "mention": "sexual activity"
+  },
+  "438": {
+    "cui": "C0237211",
+    "mention": "dissatisfaction of sexual relationship"
+  },
+  "439": {
+    "cui": "C0870444",
+    "mention": "doubt"
+  },
+  "440": {
+    "cui": "C1821070",
+    "mention": "resumption time"
+  },
+  "441": {
+    "cui": "C0036864",
+    "mention": "sexual activity"
+  },
+  "442": {
+    "cui": "C0015726",
+    "mention": "fear"
+  },
+  "443": {
+    "cui": "C0348593",
+    "mention": "reinfarction"
+  },
+  "444": {
+    "cui": "C0011071",
+    "mention": "sudden death"
+  },
+  "445": {
+    "cui": "C0036864",
+    "mention": "sexual activity"
+  },
+  "446": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "447": {
+    "cui": "C1998986",
+    "mention": "knowledge deficit"
+  },
+  "448": {
+    "cui": "C0036864",
+    "mention": "sexual activity"
+  },
+  "449": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "450": {
+    "cui": "C0542537",
+    "mention": "poor"
+  },
+  "451": {
+    "cui": "C0597198",
+    "mention": "performance"
+  },
+  "452": {
+    "cui": "C0018724",
+    "mention": "health care providers"
+  },
+  "453": {
+    "cui": "C0036870",
+    "mention": "sexual counseling"
+  },
+  "454": {
+    "cui": "C1273406",
+    "mention": "review"
+  },
+  "455": {
+    "cui": "C0043210",
+    "mention": "women's"
+  },
+  "456": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "457": {
+    "cui": "C0036864",
+    "mention": "sexual activity"
+  },
+  "458": {
+    "cui": "C2699424",
+    "mention": "concerns"
+  },
+  "459": {
+    "cui": "C2699424",
+    "mention": "concerns"
+  },
+  "460": {
+    "cui": "C1998986",
+    "mention": "knowledge deficit"
+  },
+  "461": {
+    "cui": "C0009818",
+    "mention": "consultation"
+  },
+  "462": {
+    "cui": "C0028661",
+    "mention": "Nurses"
+  },
+  "463": {
+    "cui": "C0085537",
+    "mention": "first-line care givers"
+  },
+  "464": {
+    "cui": "C0009818",
+    "mention": "consultation"
+  },
+  "465": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "466": {
+    "cui": "C0027051",
+    "mention": "MI"
+  },
+  "467": {
+    "cui": "C0039227",
+    "mention": "taboo"
+  },
+  "468": {
+    "cui": "C1948141",
+    "mention": "cultural barriers"
+  },
+  "469": {
+    "cui": "C0558092",
+    "mention": "lack of confidence"
+  },
+  "470": {
+    "cui": "C0009818",
+    "mention": "sexual consultation"
+  },
+  "471": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "472": {
+    "cui": "C0034380",
+    "mention": "quality of life"
+  },
+  "473": {
+    "cui": "C0013720",
+    "mention": "Ehlers-Danlos syndrome"
+  },
+  "474": {
+    "cui": "C0013720",
+    "mention": "Ehlers-Danlos syndromes"
+  },
+  "475": {
+    "cui": "C0013720",
+    "mention": "EDSs"
+  },
+  "476": {
+    "cui": "C0678257",
+    "mention": "described"
+  },
+  "477": {
+    "cui": "C0086418",
+    "mention": "Ehlers"
+  },
+  "478": {
+    "cui": "C0011318",
+    "mention": "Denmark"
+  },
+  "479": {
+    "cui": "C0086418",
+    "mention": "Danlos"
+  },
+  "480": {
+    "cui": "C0030561",
+    "mention": "Paris"
+  },
+  "481": {
+    "cui": "C0034037",
+    "mention": "published"
+  },
+  "482": {
+    "cui": "C0085973",
+    "mention": "case studies"
+  },
+  "483": {
+    "cui": "C0158359",
+    "mention": "laxity of ligaments"
+  },
+  "484": {
+    "cui": "C0086437",
+    "mention": "joint hypermobility"
+  },
+  "485": {
+    "cui": "C0241074",
+    "mention": "hyperextensibility of the skin"
+  },
+  "486": {
+    "cui": "C0027365",
+    "mention": "name"
+  },
+  "487": {
+    "cui": "C0282574",
+    "mention": "eponymous disease"
+  },
+  "488": {
+    "cui": "C0086418",
+    "mention": "Dr Parkes Weber"
+  },
+  "489": {
+    "cui": "C0023973",
+    "mention": "London"
+  },
+  "490": {
+    "cui": "C0031831",
+    "mention": "physician"
+  },
+  "491": {
+    "cui": "C3826173",
+    "mention": "penchant"
+  },
+  "492": {
+    "cui": "C0282574",
+    "mention": "eponymous diseases"
+  },
+  "493": {
+    "cui": "C0023866",
+    "mention": "computerised literature"
+  },
+  "494": {
+    "cui": "C1706202",
+    "mention": "search"
+  },
+  "495": {
+    "cui": "C0086418",
+    "mention": "Parkes Weber"
+  },
+  "496": {
+    "cui": "C0678257",
+    "mention": "description"
+  },
+  "497": {
+    "cui": "C0013720",
+    "mention": "EDS"
+  },
+  "498": {
+    "cui": "C0086418",
+    "mention": "Tchernabogov"
+  },
+  "499": {
+    "cui": "C0337816",
+    "mention": "Russian"
+  },
+  "500": {
+    "cui": "C0259831",
+    "mention": "dermatologist"
+  },
+  "501": {
+    "cui": "C0678257",
+    "mention": "description"
+  },
+  "502": {
+    "cui": "C0034037",
+    "mention": "published"
+  },
+  "503": {
+    "cui": "C0678257",
+    "mention": "descriptions"
+  },
+  "504": {
+    "cui": "C0013720",
+    "mention": "EDS"
+  },
+  "505": {
+    "cui": "C0023866",
+    "mention": "literature"
+  },
+  "506": {
+    "cui": "C1705822",
+    "mention": "Co-delivery"
+  },
+  "507": {
+    "cui": "C0210657",
+    "mention": "pemetrexed"
+  },
+  "508": {
+    "cui": "C0079925",
+    "mention": "miR-21 antisense oligonucleotide"
+  },
+  "509": {
+    "cui": "C0023779",
+    "mention": "lipid"
+  },
+  "510": {
+    "cui": "C0032521",
+    "mention": "polymer"
+  },
+  "511": {
+    "cui": "C1450054",
+    "mention": "hybrid nanoparticles"
+  },
+  "512": {
+    "cui": "C1280500",
+    "mention": "effects"
+  },
+  "513": {
+    "cui": "C0017636",
+    "mention": "glioblastoma"
+  },
+  "514": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "515": {
+    "cui": "C0009429",
+    "mention": "Combination therapy"
+  },
+  "516": {
+    "cui": "C0003392",
+    "mention": "anticancer drugs"
+  },
+  "517": {
+    "cui": "C0028606",
+    "mention": "nucleic acid"
+  },
+  "518": {
+    "cui": "C0242640",
+    "mention": "multidrug resistance"
+  },
+  "519": {
+    "cui": "C0027651",
+    "mention": "cancer"
+  },
+  "520": {
+    "cui": "C0162638",
+    "mention": "apoptosis"
+  },
+  "521": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "522": {
+    "cui": "C0023779",
+    "mention": "lipid"
+  },
+  "523": {
+    "cui": "C0032521",
+    "mention": "polymer"
+  },
+  "524": {
+    "cui": "C1450054",
+    "mention": "hybrid nanoparticles"
+  },
+  "525": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "526": {
+    "cui": "C0210657",
+    "mention": "pemetrexed"
+  },
+  "527": {
+    "cui": "C0079925",
+    "mention": "miR-21 antisense oligonucleotide"
+  },
+  "528": {
+    "cui": "C0079925",
+    "mention": "anti-miR-21"
+  },
+  "529": {
+    "cui": "C1522326",
+    "mention": "treatment"
+  },
+  "530": {
+    "cui": "C0017636",
+    "mention": "glioblastoma"
+  },
+  "531": {
+    "cui": "C2945759",
+    "mention": "aggressive"
+  },
+  "532": {
+    "cui": "C0006118",
+    "mention": "brain tumor"
+  },
+  "533": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "534": {
+    "cui": "C0030608",
+    "mention": "particle size"
+  },
+  "535": {
+    "cui": "C1704711",
+    "mention": "distribution"
+  },
+  "536": {
+    "cui": "C0597697",
+    "mention": "zeta potential"
+  },
+  "537": {
+    "cui": "C0242485",
+    "mention": "measurements"
+  },
+  "538": {
+    "cui": "C2348438",
+    "mention": "encapsulation"
+  },
+  "539": {
+    "cui": "C0013682",
+    "mention": "efficiency"
+  },
+  "540": {
+    "cui": "C1533691",
+    "mention": "in vitro"
+  },
+  "541": {
+    "cui": "C0681814",
+    "mention": "release experiments"
+  },
+  "542": {
+    "cui": "C0332437",
+    "mention": "Morphology"
+  },
+  "543": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "544": {
+    "cui": "C0678118",
+    "mention": "transmission electron microscopy"
+  },
+  "545": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "546": {
+    "cui": "C2936194",
+    "mention": "hydrodynamic"
+  },
+  "547": {
+    "cui": "C0456389",
+    "mention": "size"
+  },
+  "548": {
+    "cui": "C0391871",
+    "mention": "sustained release"
+  },
+  "549": {
+    "cui": "C0210657",
+    "mention": "pemetrexed"
+  },
+  "550": {
+    "cui": "C2348438",
+    "mention": "Encapsulation"
+  },
+  "551": {
+    "cui": "C0210657",
+    "mention": "pemetrexed"
+  },
+  "552": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "553": {
+    "cui": "C0007613",
+    "mention": "cellular uptake"
+  },
+  "554": {
+    "cui": "C0242842",
+    "mention": "confocal microscopy analysis"
+  },
+  "555": {
+    "cui": "C1705822",
+    "mention": "co-delivery"
+  },
+  "556": {
+    "cui": "C0079925",
+    "mention": "anti-miR-21"
+  },
+  "557": {
+    "cui": "C4055506",
+    "mention": "accumulation"
+  },
+  "558": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "559": {
+    "cui": "C0007610",
+    "mention": "nucleus"
+  },
+  "560": {
+    "cui": "C0007634",
+    "mention": "U87MG cells"
+  },
+  "561": {
+    "cui": "C0596402",
+    "mention": "cytotoxicity"
+  },
+  "562": {
+    "cui": "C1274040",
+    "mention": "results"
+  },
+  "563": {
+    "cui": "C0678563",
+    "mention": "concentration"
+  },
+  "564": {
+    "cui": "C0079925",
+    "mention": "anti-miR-21"
+  },
+  "565": {
+    "cui": "C1713964",
+    "mention": "LPNs"
+  },
+  "566": {
+    "cui": "C0085104",
+    "mention": "drug delivery systems"
+  },
+  "567": {
+    "cui": "C0678563",
+    "mention": "concentration"
+  },
+  "568": {
+    "cui": "C0079925",
+    "mention": "anti-miR-21"
+  },
+  "569": {
+    "cui": "C0087111",
+    "mention": "treatment"
+  },
+  "570": {
+    "cui": "C0017636",
+    "mention": "glioblastoma"
+  },
+  "571": {
+    "cui": "C1171362",
+    "mention": "Expression"
+  },
+  "572": {
+    "cui": "C2934005",
+    "mention": "Mir-133"
+  },
+  "573": {
+    "cui": "C1528442",
+    "mention": "Bcl-2"
+  },
+  "574": {
+    "cui": "C0039003",
+    "mention": "swimming"
+  },
+  "575": {
+    "cui": "C0220931",
+    "mention": "training"
+  },
+  "576": {
+    "cui": "C0018787",
+    "mention": "heart"
+  },
+  "577": {
+    "cui": "C0034693",
+    "mention": "ovariectomized rats"
+  },
+  "578": {
+    "cui": "C1705810",
+    "mention": "role"
+  },
+  "579": {
+    "cui": "C0015259",
+    "mention": "exercise"
+  },
+  "580": {
+    "cui": "C2700409",
+    "mention": "prevent"
+  },
+  "581": {
+    "cui": "C0018787",
+    "mention": "heart"
+  },
+  "582": {
+    "cui": "C0162638",
+    "mention": "apoptosis"
+  },
+  "583": {
+    "cui": "C0034693",
+    "mention": "ovariectomized rats"
+  },
+  "584": {
+    "cui": "C1704420",
+    "mention": "effects of"
+  },
+  "585": {
+    "cui": "C0039003",
+    "mention": "swimming"
+  },
+  "586": {
+    "cui": "C0220931",
+    "mention": "training"
+  },
+  "587": {
+    "cui": "C0018787",
+    "mention": "cardiac"
+  },
+  "588": {
+    "cui": "C1171362",
+    "mention": "expression"
+  },
+  "589": {
+    "cui": "C1528442",
+    "mention": "Bcl-2"
+  },
+  "590": {
+    "cui": "C2934005",
+    "mention": "Mir-133"
+  },
+  "591": {
+    "cui": "C0441889",
+    "mention": "levels"
+  },
+  "592": {
+    "cui": "C0017911",
+    "mention": "glycogen"
+  },
+  "593": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "594": {
+    "cui": "C0225828",
+    "mention": "myocyte"
+  },
+  "595": {
+    "cui": "C0003062",
+    "mention": "animals"
+  },
+  "596": {
+    "cui": "C0441833",
+    "mention": "groups"
+  },
+  "597": {
+    "cui": "C0009932",
+    "mention": "control"
+  },
+  "598": {
+    "cui": "C0441833",
+    "mention": "sham"
+  },
+  "599": {
+    "cui": "C0441833",
+    "mention": "ovariectomy"
+  },
+  "600": {
+    "cui": "C0441833",
+    "mention": "OVX"
+  },
+  "601": {
+    "cui": "C0441833",
+    "mention": "ovariectomized group"
+  },
+  "602": {
+    "cui": "C0439230",
+    "mention": "weeks"
+  },
+  "603": {
+    "cui": "C0039003",
+    "mention": "swimming"
+  },
+  "604": {
+    "cui": "C0220931",
+    "mention": "training"
+  },
+  "605": {
+    "cui": "C0220931",
+    "mention": "Training"
+  },
+  "606": {
+    "cui": "C1280500",
+    "mention": "effects"
+  },
+  "607": {
+    "cui": "C0022885",
+    "mention": "lipid profiles"
+  },
+  "608": {
+    "cui": "C1528442",
+    "mention": "Bcl-2"
+  },
+  "609": {
+    "cui": "C2934005",
+    "mention": "Mir-133"
+  },
+  "610": {
+    "cui": "C3244092",
+    "mention": "expression levels"
+  },
+  "611": {
+    "cui": "C1272575",
+    "mention": "cardiac tissue"
+  },
+  "612": {
+    "cui": "C0332835",
+    "mention": "Grafts"
+  },
+  "613": {
+    "cui": "C0599161",
+    "mention": "reverse transcription-polymerase chain reaction"
+  },
+  "614": {
+    "cui": "C0376515",
+    "mention": "Bcl-2 mRNA"
+  },
+  "615": {
+    "cui": "C2825314",
+    "mention": "Mir-133"
+  },
+  "616": {
+    "cui": "C0005863",
+    "mention": "Western blot"
+  },
+  "617": {
+    "cui": "C1528442",
+    "mention": "Bcl-2 protein"
+  },
+  "618": {
+    "cui": "C0029936",
+    "mention": "Ovariectomy"
+  },
+  "619": {
+    "cui": "C0013081",
+    "mention": "down-regulated"
+  },
+  "620": {
+    "cui": "C1528442",
+    "mention": "Bcl-2"
+  },
+  "621": {
+    "cui": "C2934005",
+    "mention": "Mir-133"
+  },
+  "622": {
+    "cui": "C3244092",
+    "mention": "expression levels"
+  },
+  "623": {
+    "cui": "C1272575",
+    "mention": "cardiac tissue"
+  },
+  "624": {
+    "cui": "C0039003",
+    "mention": "swimming"
+  },
+  "625": {
+    "cui": "C0220931",
+    "mention": "training"
+  },
+  "626": {
+    "cui": "C0041904",
+    "mention": "up-regulated"
+  },
+  "627": {
+    "cui": "C1171362",
+    "mention": "expression"
+  },
+  "628": {
+    "cui": "C0015259",
+    "mention": "exercise"
+  },
+  "629": {
+    "cui": "C0279033",
+    "mention": "physical replacement therapy"
+  },
+  "630": {
+    "cui": "C2700409",
+    "mention": "prevent"
+  },
+  "631": {
+    "cui": "C1704420",
+    "mention": "effects of"
+  },
+  "632": {
+    "cui": "C0853662",
+    "mention": "estrogen deficiency"
+  },
+  "633": {
+    "cui": "C0018787",
+    "mention": "cardia"
+  },
+  "634": {
+    "cui": "C2826293",
+    "mention": "Clinical value"
+  },
+  "635": {
+    "cui": "C4086729",
+    "mention": "pathologic examination"
+  },
+  "636": {
+    "cui": "C0022646",
+    "mention": "non-neoplastic kidney"
+  },
+  "637": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "638": {
+    "cui": "C1278977",
+    "mention": "upper urinary tract"
+  },
+  "639": {
+    "cui": "C4282132",
+    "mention": "malignancies"
+  },
+  "640": {
+    "cui": "C0728940",
+    "mention": "surgical resection"
+  },
+  "641": {
+    "cui": "C1947933",
+    "mention": "care"
+  },
+  "642": {
+    "cui": "C0087111",
+    "mention": "treatment"
+  },
+  "643": {
+    "cui": "C1278977",
+    "mention": "upper urinary tract"
+  },
+  "644": {
+    "cui": "C4282132",
+    "mention": "malignancies"
+  },
+  "645": {
+    "cui": "C0027695",
+    "mention": "nephrectomy"
+  },
+  "646": {
+    "cui": "C0035648",
+    "mention": "risk factor"
+  },
+  "647": {
+    "cui": "C1527148",
+    "mention": "development"
+  },
+  "648": {
+    "cui": "C1561643",
+    "mention": "chronic kidney disease"
+  },
+  "649": {
+    "cui": "C1561643",
+    "mention": "CKD"
+  },
+  "650": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "651": {
+    "cui": "C0205462",
+    "mention": "histologic"
+  },
+  "652": {
+    "cui": "C0220825",
+    "mention": "evaluation"
+  },
+  "653": {
+    "cui": "C0022646",
+    "mention": "non-neoplastic kidney"
+  },
+  "654": {
+    "cui": "C0814435",
+    "mention": "early identification"
+  },
+  "655": {
+    "cui": "C0022658",
+    "mention": "kidney disease"
+  },
+  "656": {
+    "cui": "C0220901",
+    "mention": "prognostic"
+  },
+  "657": {
+    "cui": "C0032790",
+    "mention": "postoperative"
+  },
+  "658": {
+    "cui": "C0022646",
+    "mention": "renal"
+  },
+  "659": {
+    "cui": "C0085415",
+    "mention": "outcomes"
+  },
+  "660": {
+    "cui": "C0035363",
+    "mention": "retrospectively analyzed"
+  },
+  "661": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "662": {
+    "cui": "C1278977",
+    "mention": "upper urinary tract"
+  },
+  "663": {
+    "cui": "C4282132",
+    "mention": "malignancies"
+  },
+  "664": {
+    "cui": "C0027695",
+    "mention": "uninephrectomy"
+  },
+  "665": {
+    "cui": "C0027732",
+    "mention": "uninephroureterectomy"
+  },
+  "666": {
+    "cui": "C1521733",
+    "mention": "pathologic"
+  },
+  "667": {
+    "cui": "C0220825",
+    "mention": "evaluation"
+  },
+  "668": {
+    "cui": "C0022646",
+    "mention": "non-neoplastic kidney"
+  },
+  "669": {
+    "cui": "C2038188",
+    "mention": "special stains"
+  },
+  "670": {
+    "cui": "C0079603",
+    "mention": "immunofluorescence"
+  },
+  "671": {
+    "cui": "C0026019",
+    "mention": "electron microscopic studies"
+  },
+  "672": {
+    "cui": "C0449286",
+    "mention": "degree"
+  },
+  "673": {
+    "cui": "C0933845",
+    "mention": "parenchymal"
+  },
+  "674": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "675": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "676": {
+    "cui": "C0022646",
+    "mention": "kidney"
+  },
+  "677": {
+    "cui": "C0030664",
+    "mention": "pathology"
+  },
+  "678": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "679": {
+    "cui": "C1398788",
+    "mention": "glomerular abnormalities"
+  },
+  "680": {
+    "cui": "C0011881",
+    "mention": "diabetic nephropathy"
+  },
+  "681": {
+    "cui": "C0005847",
+    "mention": "vascular"
+  },
+  "682": {
+    "cui": "C0027695",
+    "mention": "nephropathy"
+  },
+  "683": {
+    "cui": "C3495566",
+    "mention": "reflux nephropathy"
+  },
+  "684": {
+    "cui": "C0085697",
+    "mention": "chronic pyelonephritis"
+  },
+  "685": {
+    "cui": "C0449820",
+    "mention": "histologic score"
+  },
+  "686": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "687": {
+    "cui": "C0449820",
+    "mention": "Score"
+  },
+  "688": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "689": {
+    "cui": "C0032790",
+    "mention": "Postoperative"
+  },
+  "690": {
+    "cui": "C3811844",
+    "mention": "estimated glomerular filtration rate"
+  },
+  "691": {
+    "cui": "C3811844",
+    "mention": "eGFR"
+  },
+  "692": {
+    "cui": "C0439231",
+    "mention": "months"
+  },
+  "693": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "694": {
+    "cui": "C1561643",
+    "mention": "CKD"
+  },
+  "695": {
+    "cui": "C1561643",
+    "mention": "CKD"
+  },
+  "696": {
+    "cui": "C0030705",
+    "mention": "nephrectomized patients"
+  },
+  "697": {
+    "cui": "C0035648",
+    "mention": "risk factors"
+  },
+  "698": {
+    "cui": "C1561643",
+    "mention": "CKD"
+  },
+  "699": {
+    "cui": "C0030705",
+    "mention": "nephrectomized patients"
+  },
+  "700": {
+    "cui": "C0034980",
+    "mention": "Cox regression analysis"
+  },
+  "701": {
+    "cui": "C0032790",
+    "mention": "postoperative"
+  },
+  "702": {
+    "cui": "C2609414",
+    "mention": "AKI"
+  },
+  "703": {
+    "cui": "C0445204",
+    "mention": "preoperative"
+  },
+  "704": {
+    "cui": "C3811844",
+    "mention": "eGFR"
+  },
+  "705": {
+    "cui": "C0205462",
+    "mention": "histologic"
+  },
+  "706": {
+    "cui": "C0022646",
+    "mention": "non-neoplastic kidney"
+  },
+  "707": {
+    "cui": "C2698872",
+    "mention": "predictors"
+  },
+  "708": {
+    "cui": "C1561643",
+    "mention": "CKD"
+  },
+  "709": {
+    "cui": "C1521733",
+    "mention": "pathologic"
+  },
+  "710": {
+    "cui": "C0220825",
+    "mention": "evaluation"
+  },
+  "711": {
+    "cui": "C0022646",
+    "mention": "non-neoplastic kidney"
+  },
+  "712": {
+    "cui": "C0348026",
+    "mention": "diagnostic"
+  },
+  "713": {
+    "cui": "C0220901",
+    "mention": "prognostic"
+  },
+  "714": {
+    "cui": "C0036592",
+    "mention": "Self-Care"
+  },
+  "715": {
+    "cui": "C0600564",
+    "mention": "Self-Efficacy"
+  },
+  "716": {
+    "cui": "C1704788",
+    "mention": "Definition"
+  },
+  "717": {
+    "cui": "C0242485",
+    "mention": "Measurement"
+  },
+  "718": {
+    "cui": "C1274040",
+    "mention": "Outcomes"
+  },
+  "719": {
+    "cui": "C1707478",
+    "mention": "Implications"
+  },
+  "720": {
+    "cui": "C3658312",
+    "mention": "pragmatic utility method"
+  },
+  "721": {
+    "cui": "C0178566",
+    "mention": "concept"
+  },
+  "722": {
+    "cui": "C0936012",
+    "mention": "analysis"
+  },
+  "723": {
+    "cui": "C3827682",
+    "mention": "usefulness"
+  },
+  "724": {
+    "cui": "C0178566",
+    "mention": "concept"
+  },
+  "725": {
+    "cui": "C0036592",
+    "mention": "self-care"
+  },
+  "726": {
+    "cui": "C0600564",
+    "mention": "self-efficacy"
+  },
+  "727": {
+    "cui": "C0681812",
+    "mention": "Empirical studies"
+  },
+  "728": {
+    "cui": "C0005526",
+    "mention": "disciplines"
+  },
+  "729": {
+    "cui": "C1511726",
+    "mention": "data"
+  },
+  "730": {
+    "cui": "C1511726",
+    "mention": "data matrix"
+  },
+  "731": {
+    "cui": "C0681799",
+    "mention": "questions"
+  },
+  "732": {
+    "cui": "C1706817",
+    "mention": "responses"
+  },
+  "733": {
+    "cui": "C1511726",
+    "mention": "data"
+  },
+  "734": {
+    "cui": "C0376554",
+    "mention": "knowledge"
+  },
+  "735": {
+    "cui": "C3827682",
+    "mention": "Usefulness"
+  },
+  "736": {
+    "cui": "C0178566",
+    "mention": "concept"
+  },
+  "737": {
+    "cui": "C0036592",
+    "mention": "Self-care"
+  },
+  "738": {
+    "cui": "C0600564",
+    "mention": "self-efficacy"
+  },
+  "739": {
+    "cui": "C0332281",
+    "mention": "associated with"
+  },
+  "740": {
+    "cui": "C1882330",
+    "mention": "performance"
+  },
+  "741": {
+    "cui": "C0563471",
+    "mention": "self-care activities"
+  },
+  "742": {
+    "cui": "C1446409",
+    "mention": "positive"
+  },
+  "743": {
+    "cui": "C3858647",
+    "mention": "health outcomes"
+  },
+  "744": {
+    "cui": "C1880371",
+    "mention": "diverse"
+  },
+  "745": {
+    "cui": "C1257890",
+    "mention": "populations"
+  },
+  "746": {
+    "cui": "C0035168",
+    "mention": "Research"
+  },
+  "747": {
+    "cui": "C1527148",
+    "mention": "development"
+  },
+  "748": {
+    "cui": "C0886296",
+    "mention": "interventions"
+  },
+  "749": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "750": {
+    "cui": "C0036592",
+    "mention": "self-care"
+  },
+  "751": {
+    "cui": "C0600564",
+    "mention": "self-efficacy"
+  },
+  "752": {
+    "cui": "C0392756",
+    "mention": "reducing"
+  },
+  "753": {
+    "cui": "C0010186",
+    "mention": "costs"
+  },
+  "754": {
+    "cui": "C1280910",
+    "mention": "assisting"
+  },
+  "755": {
+    "cui": "C0027361",
+    "mention": "people"
+  },
+  "756": {
+    "cui": "C2698651",
+    "mention": "optimal"
+  },
+  "757": {
+    "cui": "C0018684",
+    "mention": "health"
+  },
+  "758": {
+    "cui": "C0001074",
+    "mention": "Achilles tendon"
+  },
+  "759": {
+    "cui": "C3658372",
+    "mention": "material properties"
+  },
+  "760": {
+    "cui": "C1704243",
+    "mention": "greater"
+  },
+  "761": {
+    "cui": "C1140621",
+    "mention": "jump leg"
+  },
+  "762": {
+    "cui": "C0221189",
+    "mention": "jumping"
+  },
+  "763": {
+    "cui": "C0238703",
+    "mention": "athletes"
+  },
+  "764": {
+    "cui": "C0001074",
+    "mention": "Achilles tendon"
+  },
+  "765": {
+    "cui": "C0001074",
+    "mention": "AT"
+  },
+  "766": {
+    "cui": "C1550543",
+    "mention": "meet"
+  },
+  "767": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "768": {
+    "cui": "C0699784",
+    "mention": "demands"
+  },
+  "769": {
+    "cui": "C0001074",
+    "mention": "AT"
+  },
+  "770": {
+    "cui": "C0000934",
+    "mention": "adaptation"
+  },
+  "771": {
+    "cui": "C1707455",
+    "mention": "comparing"
+  },
+  "772": {
+    "cui": "C0871161",
+    "mention": "properties"
+  },
+  "773": {
+    "cui": "C0221189",
+    "mention": "jump"
+  },
+  "774": {
+    "cui": "C0243095",
+    "mention": "non-jump"
+  },
+  "775": {
+    "cui": "C1140621",
+    "mention": "legs"
+  },
+  "776": {
+    "cui": "C0221189",
+    "mention": "jumping"
+  },
+  "777": {
+    "cui": "C0238703",
+    "mention": "athletes"
+  },
+  "778": {
+    "cui": "C0243095",
+    "mention": "Non-jumping"
+  },
+  "779": {
+    "cui": "C0238703",
+    "mention": "control athletes"
+  },
+  "780": {
+    "cui": "C0332257",
+    "mention": "included"
+  },
+  "781": {
+    "cui": "C0243148",
+    "mention": "control"
+  },
+  "782": {
+    "cui": "C0015385",
+    "mention": "limb"
+  },
+  "783": {
+    "cui": "C0870441",
+    "mention": "dominance"
+  },
+  "784": {
+    "cui": "C1280500",
+    "mention": "effects"
+  },
+  "785": {
+    "cui": "C0001074",
+    "mention": "AT"
+  },
+  "786": {
+    "cui": "C0871161",
+    "mention": "properties"
+  },
+  "787": {
+    "cui": "C1516048",
+    "mention": "assessed"
+  },
+  "788": {
+    "cui": "C0558295",
+    "mention": "preferred"
+  },
+  "789": {
+    "cui": "C0221189",
+    "mention": "jump"
+  },
+  "790": {
+    "cui": "C0243095",
+    "mention": "non-preferred"
+  },
+  "791": {
+    "cui": "C0221189",
+    "mention": "jumping"
+  },
+  "792": {
+    "cui": "C1140621",
+    "mention": "legs"
+  },
+  "793": {
+    "cui": "C0086582",
+    "mention": "male"
+  },
+  "794": {
+    "cui": "C0441889",
+    "mention": "collegiate-level"
+  },
+  "795": {
+    "cui": "C0205166",
+    "mention": "long"
+  },
+  "796": {
+    "cui": "C0205250",
+    "mention": "high"
+  },
+  "797": {
+    "cui": "C0221189",
+    "mention": "jump"
+  },
+  "798": {
+    "cui": "C1257890",
+    "mention": "jumpers"
+  },
+  "799": {
+    "cui": "C0454664",
+    "mention": "cross-country"
+  },
+  "800": {
+    "cui": "C0238703",
+    "mention": "controls"
+  },
+  "801": {
+    "cui": "C0238703",
+    "mention": "athletes"
+  },
+  "802": {
+    "cui": "C0205146",
+    "mention": "Cross-sectional area"
+  },
+  "803": {
+    "cui": "C0205146",
+    "mention": "CSA"
+  },
+  "804": {
+    "cui": "C1254366",
+    "mention": "elongation"
+  },
+  "805": {
+    "cui": "C0441722",
+    "mention": "force"
+  },
+  "806": {
+    "cui": "C0022205",
+    "mention": "isometric contractions"
+  },
+  "807": {
+    "cui": "C0750572",
+    "mention": "estimate"
+  },
+  "808": {
+    "cui": "C0543482",
+    "mention": "morphological"
+  },
+  "809": {
+    "cui": "C3658372",
+    "mention": "mechanical"
+  },
+  "810": {
+    "cui": "C3658372",
+    "mention": "material properties"
+  },
+  "811": {
+    "cui": "C0001074",
+    "mention": "ATs"
+  },
+  "812": {
+    "cui": "C0238767",
+    "mention": "bilaterally"
+  },
+  "813": {
+    "cui": "C1257890",
+    "mention": "Jumpers"
+  },
+  "814": {
+    "cui": "C0332157",
+    "mention": "exposed"
+  },
+  "815": {
+    "cui": "C0001074",
+    "mention": "ATs"
+  },
+  "816": {
+    "cui": "C0441722",
+    "mention": "force"
+  },
+  "817": {
+    "cui": "C0038435",
+    "mention": "stress"
+  },
+  "818": {
+    "cui": "C0238703",
+    "mention": "controls"
+  },
+  "819": {
+    "cui": "C0001074",
+    "mention": "AT"
+  },
+  "820": {
+    "cui": "C0441722",
+    "mention": "force"
+  },
+  "821": {
+    "cui": "C0038435",
+    "mention": "stress"
+  },
+  "822": {
+    "cui": "C1704243",
+    "mention": "greater"
+  },
+  "823": {
+    "cui": "C0221189",
+    "mention": "jump"
+  },
+  "824": {
+    "cui": "C1140621",
+    "mention": "leg"
+  },
+  "825": {
+    "cui": "C1257890",
+    "mention": "jumpers"
+  },
+  "826": {
+    "cui": "C0238703",
+    "mention": "controls"
+  },
+  "827": {
+    "cui": "C1140621",
+    "mention": "lead leg"
+  },
+  "828": {
+    "cui": "C1257890",
+    "mention": "Jumpers"
+  },
+  "829": {
+    "cui": "C1704243",
+    "mention": "greater"
+  },
+  "830": {
+    "cui": "C0001074",
+    "mention": "AT"
+  },
+  "831": {
+    "cui": "C0427008",
+    "mention": "stiffness"
+  },
+  "832": {
+    "cui": "C1704243",
+    "mention": "greater"
+  },
+  "833": {
+    "cui": "C2350289",
+    "mention": "Young's modulus"
+  },
+  "834": {
+    "cui": "C0221189",
+    "mention": "jump"
+  },
+  "835": {
+    "cui": "C1140621",
+    "mention": "leg"
+  },
+  "836": {
+    "cui": "C1707455",
+    "mention": "compared"
+  },
+  "837": {
+    "cui": "C1140621",
+    "mention": "lead leg"
+  },
+  "838": {
+    "cui": "C0221189",
+    "mention": "jump"
+  },
+  "839": {
+    "cui": "C1140621",
+    "mention": "lead leg"
+  },
+  "840": {
+    "cui": "C1705242",
+    "mention": "differences"
+  },
+  "841": {
+    "cui": "C0001074",
+    "mention": "AT"
+  },
+  "842": {
+    "cui": "C0427008",
+    "mention": "stiffness"
+  },
+  "843": {
+    "cui": "C2350289",
+    "mention": "Young's modulus"
+  },
+  "844": {
+    "cui": "C0238703",
+    "mention": "controls"
+  },
+  "845": {
+    "cui": "C0001074",
+    "mention": "ATs"
+  },
+  "846": {
+    "cui": "C0205191",
+    "mention": "chronically"
+  },
+  "847": {
+    "cui": "C0332157",
+    "mention": "exposed"
+  },
+  "848": {
+    "cui": "C3163633",
+    "mention": "elevated"
+  },
+  "849": {
+    "cui": "C0563538",
+    "mention": "mechanical loading"
+  },
+  "850": {
+    "cui": "C1704243",
+    "mention": "greater"
+  },
+  "851": {
+    "cui": "C3658372",
+    "mention": "mechanical"
+  },
+  "852": {
+    "cui": "C0427008",
+    "mention": "stiffness"
+  },
+  "853": {
+    "cui": "C3658372",
+    "mention": "material"
+  },
+  "854": {
+    "cui": "C2350289",
+    "mention": "Young's modulus"
+  },
+  "855": {
+    "cui": "C0871161",
+    "mention": "properties"
+  },
+  "856": {
+    "cui": "C1955929",
+    "mention": "sonoelastography"
+  },
+  "857": {
+    "cui": "C0581495",
+    "mention": "sonourethrography"
+  },
+  "858": {
+    "cui": "C0845989",
+    "mention": "retrograde urethrography"
+  },
+  "859": {
+    "cui": "C0220825",
+    "mention": "evaluation"
+  },
+  "860": {
+    "cui": "C0086582",
+    "mention": "male"
+  },
+  "861": {
+    "cui": "C1720814",
+    "mention": "anterior urethral strictures"
+  },
+  "862": {
+    "cui": "C0845989",
+    "mention": "Retrograde urethrography"
+  },
+  "863": {
+    "cui": "C0845989",
+    "mention": "RUG"
+  },
+  "864": {
+    "cui": "C1275506",
+    "mention": "imaging modality"
+  },
+  "865": {
+    "cui": "C0011923",
+    "mention": "imaging"
+  },
+  "866": {
+    "cui": "C1720814",
+    "mention": "anterior urethral strictures"
+  },
+  "867": {
+    "cui": "C0449295",
+    "mention": "limitations"
+  },
+  "868": {
+    "cui": "C0581495",
+    "mention": "Sonourethrography"
+  },
+  "869": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "870": {
+    "cui": "C2983310",
+    "mention": "overcome"
+  },
+  "871": {
+    "cui": "C0449295",
+    "mention": "limitations"
+  },
+  "872": {
+    "cui": "C0845989",
+    "mention": "RUG"
+  },
+  "873": {
+    "cui": "C0598285",
+    "mention": "accurate results"
+  },
+  "874": {
+    "cui": "C1275506",
+    "mention": "imaging modality"
+  },
+  "875": {
+    "cui": "C0599880",
+    "mention": "planning the treatment"
+  },
+  "876": {
+    "cui": "C0034897",
+    "mention": "recurrence"
+  },
+  "877": {
+    "cui": "C0041974",
+    "mention": "stricture disease"
+  },
+  "878": {
+    "cui": "C0016059",
+    "mention": "spongiofibrosis"
+  },
+  "879": {
+    "cui": "C1955929",
+    "mention": "Sonoelastography"
+  },
+  "880": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "881": {
+    "cui": "C1519842",
+    "mention": "newer technique"
+  },
+  "882": {
+    "cui": "C0030664",
+    "mention": "pathologies"
+  },
+  "883": {
+    "cui": "C2348251",
+    "mention": "efficacy"
+  },
+  "884": {
+    "cui": "C1720814",
+    "mention": "anterior urethral stricture disease"
+  },
+  "885": {
+    "cui": "C0845989",
+    "mention": "RUG"
+  },
+  "886": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "887": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "888": {
+    "cui": "C1720814",
+    "mention": "anterior urethral stricture disease"
+  },
+  "889": {
+    "cui": "C0845989",
+    "mention": "RUG"
+  },
+  "890": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "891": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "892": {
+    "cui": "C1389955",
+    "mention": "stricture"
+  },
+  "893": {
+    "cui": "C0450429",
+    "mention": "location"
+  },
+  "894": {
+    "cui": "C1444754",
+    "mention": "length"
+  },
+  "895": {
+    "cui": "C1827571",
+    "mention": "depth"
+  },
+  "896": {
+    "cui": "C0016059",
+    "mention": "spongiofibrosis"
+  },
+  "897": {
+    "cui": "C3828581",
+    "mention": "periurethral"
+  },
+  "898": {
+    "cui": "C0030664",
+    "mention": "pathologies"
+  },
+  "899": {
+    "cui": "C0243140",
+    "mention": "histopathological findings"
+  },
+  "900": {
+    "cui": "C0598285",
+    "mention": "diagnostic accuracy"
+  },
+  "901": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "902": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "903": {
+    "cui": "C0845989",
+    "mention": "RGU"
+  },
+  "904": {
+    "cui": "C1389955",
+    "mention": "stricture"
+  },
+  "905": {
+    "cui": "C0450429",
+    "mention": "location"
+  },
+  "906": {
+    "cui": "C1444754",
+    "mention": "length"
+  },
+  "907": {
+    "cui": "C1827571",
+    "mention": "depth"
+  },
+  "908": {
+    "cui": "C0016059",
+    "mention": "spongiofibrosis"
+  },
+  "909": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "910": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "911": {
+    "cui": "C0443131",
+    "mention": "accuracy rates"
+  },
+  "912": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "913": {
+    "cui": "C0456904",
+    "mention": "intra-operative"
+  },
+  "914": {
+    "cui": "C1389955",
+    "mention": "stricture"
+  },
+  "915": {
+    "cui": "C1444754",
+    "mention": "length"
+  },
+  "916": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "917": {
+    "cui": "C0475705",
+    "mention": "colour of bladder mucosa"
+  },
+  "918": {
+    "cui": "C0401483",
+    "mention": "cystoscopic examination"
+  },
+  "919": {
+    "cui": "C0184898",
+    "mention": "incision"
+  },
+  "920": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "921": {
+    "cui": "C0475705",
+    "mention": "colour of the bladder mucosa"
+  },
+  "922": {
+    "cui": "C0184898",
+    "mention": "incision"
+  },
+  "923": {
+    "cui": "C0010702",
+    "mention": "cystoscopy"
+  },
+  "924": {
+    "cui": "C1955929",
+    "mention": "SE"
+  },
+  "925": {
+    "cui": "C0243140",
+    "mention": "histopathology findings"
+  },
+  "926": {
+    "cui": "C4285457",
+    "mention": "degree of fibrosis"
+  },
+  "927": {
+    "cui": "C1955929",
+    "mention": "Sonoelastography"
+  },
+  "928": {
+    "cui": "C1254362",
+    "mention": "stricture site and length"
+  },
+  "929": {
+    "cui": "C0845989",
+    "mention": "RUG"
+  },
+  "930": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "931": {
+    "cui": "C0016059",
+    "mention": "spongiofibrosis"
+  },
+  "932": {
+    "cui": "C1514474",
+    "mention": "prognostic factor"
+  },
+  "933": {
+    "cui": "C0034897",
+    "mention": "stricture recurrence"
+  },
+  "934": {
+    "cui": "C0443131",
+    "mention": "accurately"
+  },
+  "935": {
+    "cui": "C0581495",
+    "mention": "SUG"
+  },
+  "936": {
+    "cui": "C0184661",
+    "mention": "Strategies"
+  },
+  "937": {
+    "cui": "C1510438",
+    "mention": "Assaying"
+  },
+  "938": {
+    "cui": "C0230812",
+    "mention": "Lysosomal Membrane"
+  },
+  "939": {
+    "cui": "C0007613",
+    "mention": "Permeabilization"
+  },
+  "940": {
+    "cui": "C1166848",
+    "mention": "Late endosomal"
+  },
+  "941": {
+    "cui": "C0029219",
+    "mention": "organelles"
+  },
+  "942": {
+    "cui": "C0020283",
+    "mention": "acidic pH"
+  },
+  "943": {
+    "cui": "C0020289",
+    "mention": "hydrolytic enzymes"
+  },
+  "944": {
+    "cui": "C0243125",
+    "mention": "degrade"
+  },
+  "945": {
+    "cui": "C0521119",
+    "mention": "extracellular"
+  },
+  "946": {
+    "cui": "C0014406",
+    "mention": "environment"
+  },
+  "947": {
+    "cui": "C0014139",
+    "mention": "endocytosis"
+  },
+  "948": {
+    "cui": "C0007634",
+    "mention": "cell"
+  },
+  "949": {
+    "cui": "C0004391",
+    "mention": "autophagy"
+  },
+  "950": {
+    "cui": "C0230812",
+    "mention": "lysosomal membrane"
+  },
+  "951": {
+    "cui": "C0007613",
+    "mention": "permeabilization"
+  },
+  "952": {
+    "cui": "C0007613",
+    "mention": "LMP"
+  },
+  "953": {
+    "cui": "C1166848",
+    "mention": "late endosomes"
+  },
+  "954": {
+    "cui": "C0024369",
+    "mention": "lysosomes"
+  },
+  "955": {
+    "cui": "C1383501",
+    "mention": "cytosol"
+  },
+  "956": {
+    "cui": "C0162638",
+    "mention": "apoptosis"
+  },
+  "957": {
+    "cui": "C0205198",
+    "mention": "Compounds"
+  },
+  "958": {
+    "cui": "C0007613",
+    "mention": "LMP"
+  },
+  "959": {
+    "cui": "C0205263",
+    "mention": "induction"
+  },
+  "960": {
+    "cui": "C0162638",
+    "mention": "apoptosis"
+  },
+  "961": {
+    "cui": "C0920425",
+    "mention": "anticancer therapy"
+  },
+  "962": {
+    "cui": "C0085104",
+    "mention": "drug-delivery systems"
+  },
+  "963": {
+    "cui": "C1450054",
+    "mention": "nanoparticles"
+  },
+  "964": {
+    "cui": "C0007613",
+    "mention": "LMP"
+  },
+  "965": {
+    "cui": "C0600688",
+    "mention": "toxic consequences"
+  },
+  "966": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "967": {
+    "cui": "C1547646",
+    "mention": "consequences"
+  },
+  "968": {
+    "cui": "C0007613",
+    "mention": "LMP"
+  },
+  "969": {
+    "cui": "C3898777",
+    "mention": "paramount importance"
+  },
+  "970": {
+    "cui": "C0220825",
+    "mention": "evaluation"
+  },
+  "971": {
+    "cui": "C0205314",
+    "mention": "new"
+  },
+  "972": {
+    "cui": "C3245505",
+    "mention": "potentially"
+  },
+  "973": {
+    "cui": "C0007613",
+    "mention": "LMP"
+  },
+  "974": {
+    "cui": "C0205198",
+    "mention": "inducing compounds"
+  },
+  "975": {
+    "cui": "C1510438",
+    "mention": "basic assays"
+  },
+  "976": {
+    "cui": "C0184514",
+    "mention": "assessing"
+  },
+  "977": {
+    "cui": "C0007613",
+    "mention": "LMP"
+  },
+  "978": {
+    "cui": "C0013343",
+    "mention": "lysosomotropic dyes"
+  },
+  "979": {
+    "cui": "C0010654",
+    "mention": "cysteine"
+  },
+  "980": {
+    "cui": "C0007428",
+    "mention": "cathepsin"
+  },
+  "981": {
+    "cui": "C0243102",
+    "mention": "activity"
+  },
+  "982": {
+    "cui": "C0184661",
+    "mention": "strategies"
+  },
+  "983": {
+    "cui": "C1511790",
+    "mention": "detection"
+  },
+  "984": {
+    "cui": "C1283071",
+    "mention": "release"
+  },
+  "985": {
+    "cui": "C0205227",
+    "mention": "endogenous"
+  },
+  "986": {
+    "cui": "C0024369",
+    "mention": "lysosomal"
+  },
+  "987": {
+    "cui": "C0567416",
+    "mention": "molecules"
+  },
+  "988": {
+    "cui": "C0205228",
+    "mention": "exogenous"
+  },
+  "989": {
+    "cui": "C1522485",
+    "mention": "tracers"
+  },
+  "990": {
+    "cui": "C1383501",
+    "mention": "cytosol"
+  },
+  "991": {
+    "cui": "C0064170",
+    "mention": "Juglone"
+  },
+  "992": {
+    "cui": "C0205556",
+    "mention": "ameliorates"
+  },
+  "993": {
+    "cui": "C1123023",
+    "mention": "skin"
+  },
+  "994": {
+    "cui": "C0043240",
+    "mention": "wound healing"
+  },
+  "995": {
+    "cui": "C0033414",
+    "mention": "promoting"
+  },
+  "996": {
+    "cui": "C1123023",
+    "mention": "skin"
+  },
+  "997": {
+    "cui": "C1622501",
+    "mention": "cell migration"
+  },
+  "998": {
+    "cui": "C0139880",
+    "mention": "Rac1"
+  },
+  "999": {
+    "cui": "C0082645",
+    "mention": "Cdc42"
+  },
+  "1000": {
+    "cui": "C0072402",
+    "mention": "PAK"
+  },
+  "1001": {
+    "cui": "C0037083",
+    "mention": "pathway"
+  },
+  "1002": {
+    "cui": "C0814995",
+    "mention": "Skin cell"
+  },
+  "1003": {
+    "cui": "C0034963",
+    "mention": "regeneration"
+  },
+  "1004": {
+    "cui": "C0043240",
+    "mention": "wound healing"
+  },
+  "1005": {
+    "cui": "C2004454",
+    "mention": "recovery"
+  },
+  "1006": {
+    "cui": "C0281980",
+    "mention": "skin injuries"
+  },
+  "1007": {
+    "cui": "C0456962",
+    "mention": "Rapid"
+  },
+  "1008": {
+    "cui": "C1622501",
+    "mention": "cell migration"
+  },
+  "1009": {
+    "cui": "C0034963",
+    "mention": "regeneration"
+  },
+  "1010": {
+    "cui": "C0814995",
+    "mention": "skin cells"
+  },
+  "1011": {
+    "cui": "C0043240",
+    "mention": "healing"
+  },
+  "1012": {
+    "cui": "C0332797",
+    "mention": "wounded"
+  },
+  "1013": {
+    "cui": "C1123023",
+    "mention": "skin"
+  },
+  "1014": {
+    "cui": "C1292732",
+    "mention": "investigate"
+  },
+  "1015": {
+    "cui": "C0043240",
+    "mention": "wound healing"
+  },
+  "1016": {
+    "cui": "C3245505",
+    "mention": "potential"
+  },
+  "1017": {
+    "cui": "C0064170",
+    "mention": "juglone"
+  },
+  "1018": {
+    "cui": "C1453967",
+    "mention": "Pin1"
+  },
+  "1019": {
+    "cui": "C0014432",
+    "mention": "inhibitor"
+  },
+  "1020": {
+    "cui": "C0993635",
+    "mention": "walnuts"
+  },
+  "1021": {
+    "cui": "C0007635",
+    "mention": "Cultured skin cells"
+  },
+  "1022": {
+    "cui": "C0007634",
+    "mention": "NHDF"
+  },
+  "1023": {
+    "cui": "C0007634",
+    "mention": "HaCaT"
+  },
+  "1024": {
+    "cui": "C0025924",
+    "mention": "hairless mice"
+  },
+  "1025": {
+    "cui": "C0332293",
+    "mention": "treated with"
+  },
+  "1026": {
+    "cui": "C0064170",
+    "mention": "juglone"
+  },
+  "1027": {
+    "cui": "C1622501",
+    "mention": "cell migration"
+  },
+  "1028": {
+    "cui": "C1171362",
+    "mention": "expressions"
+  },
+  "1029": {
+    "cui": "C1622501",
+    "mention": "cell migration"
+  },
+  "1030": {
+    "cui": "C0033684",
+    "mention": "proteins"
+  },
+  "1031": {
+    "cui": "C0139880",
+    "mention": "Rac1"
+  },
+  "1032": {
+    "cui": "C0082645",
+    "mention": "Cdc42"
+  },
+  "1033": {
+    "cui": "C0299856",
+    "mention": "α-PAK"
+  },
+  "1034": {
+    "cui": "C0009325",
+    "mention": "collagen"
+  },
+  "1035": {
+    "cui": "C0333562",
+    "mention": "deposition"
+  },
+  "1036": {
+    "cui": "C0302600",
+    "mention": "angiogenesis"
+  },
+  "1037": {
+    "cui": "C0936012",
+    "mention": "analyzed"
+  },
+  "1038": {
+    "cui": "C0064170",
+    "mention": "Juglone"
+  },
+  "1039": {
+    "cui": "C0087111",
+    "mention": "treatment"
+  },
+  "1040": {
+    "cui": "C0007595",
+    "mention": "growth"
+  },
+  "1041": {
+    "cui": "C1622501",
+    "mention": "migration"
+  },
+  "1042": {
+    "cui": "C1521816",
+    "mention": "cell morphology"
+  },
+  "1043": {
+    "cui": "C1446561",
+    "mention": "concentration"
+  },
+  "1044": {
+    "cui": "C0814995",
+    "mention": "skin cells"
+  },
+  "1045": {
+    "cui": "C0332155",
+    "mention": "untreated"
+  },
+  "1046": {
+    "cui": "C1257890",
+    "mention": "group"
+  },
+  "1047": {
+    "cui": "C1515655",
+    "mention": "In vivo"
+  },
+  "1048": {
+    "cui": "C0681814",
+    "mention": "experiments"
+  },
+  "1049": {
+    "cui": "C0026809",
+    "mention": "mice"
+  },
+  "1050": {
+    "cui": "C0332293",
+    "mention": "treated with"
+  },
+  "1051": {
+    "cui": "C0064170",
+    "mention": "juglone"
+  },
+  "1052": {
+    "cui": "C0043240",
+    "mention": "wound healing"
+  },
+  "1053": {
+    "cui": "C1123023",
+    "mention": "skin"
+  },
+  "1054": {
+    "cui": "C0332437",
+    "mention": "morphology"
+  },
+  "1055": {
+    "cui": "C0009325",
+    "mention": "collagen"
+  },
+  "1056": {
+    "cui": "C0333562",
+    "mention": "deposition"
+  },
+  "1057": {
+    "cui": "C0009932",
+    "mention": "vehicle group"
+  },
+  "1058": {
+    "cui": "C0064170",
+    "mention": "juglone"
+  },
+  "1059": {
+    "cui": "C3822610",
+    "mention": "activation"
+  },
+  "1060": {
+    "cui": "C1171362",
+    "mention": "expression"
+  },
+  "1061": {
+    "cui": "C0082645",
+    "mention": "Cdc42"
+  },
+  "1062": {
+    "cui": "C0139880",
+    "mention": "Rac1"
+  },
+  "1063": {
+    "cui": "C0299856",
+    "mention": "α-pak"
+  },
+  "1064": {
+    "cui": "C0007634",
+    "mention": "HaCaT cells"
+  },
+  "1065": {
+    "cui": "C2349975",
+    "mention": "enhanced"
+  },
+  "1066": {
+    "cui": "C0302600",
+    "mention": "angiogenesis"
+  },
+  "1067": {
+    "cui": "C0225336",
+    "mention": "endothelial cells"
+  },
+  "1068": {
+    "cui": "C3179121",
+    "mention": "HUVECs"
+  },
+  "1069": {
+    "cui": "C0064170",
+    "mention": "Juglone"
+  },
+  "1070": {
+    "cui": "C0752320",
+    "mention": "MAPKs signaling"
+  },
+  "1071": {
+    "cui": "C3822610",
+    "mention": "activation"
+  },
+  "1072": {
+    "cui": "C0600388",
+    "mention": "ERK"
+  },
+  "1073": {
+    "cui": "C0248813",
+    "mention": "JNK"
+  },
+  "1074": {
+    "cui": "C1120843",
+    "mention": "p38"
+  },
+  "1075": {
+    "cui": "C0033684",
+    "mention": "proteins"
+  },
+  "1076": {
+    "cui": "C0064170",
+    "mention": "juglone"
+  },
+  "1077": {
+    "cui": "C0043240",
+    "mention": "wound healing"
+  },
+  "1078": {
+    "cui": "C1123023",
+    "mention": "skin"
+  },
+  "1079": {
+    "cui": "C0034963",
+    "mention": "regeneration"
+  },
+  "1080": {
+    "cui": "C0205556",
+    "mention": "ameliorates"
+  },
+  "1081": {
+    "cui": "C0043240",
+    "mention": "wound healing"
+  },
+  "1082": {
+    "cui": "C0033414",
+    "mention": "promoting"
+  },
+  "1083": {
+    "cui": "C1123023",
+    "mention": "skin"
+  },
+  "1084": {
+    "cui": "C1622501",
+    "mention": "cell migration"
+  },
+  "1085": {
+    "cui": "C0139880",
+    "mention": "Rac1"
+  },
+  "1086": {
+    "cui": "C0082645",
+    "mention": "Cdc42"
+  },
+  "1087": {
+    "cui": "C0072402",
+    "mention": "PAK"
+  },
+  "1088": {
+    "cui": "C0037083",
+    "mention": "pathway"
+  },
+  "1089": {
+    "cui": "C0085294",
+    "mention": "Hepatitis E virus"
+  },
+  "1090": {
+    "cui": "C0013018",
+    "mention": "donor"
+  },
+  "1091": {
+    "cui": "C0032105",
+    "mention": "plasma"
+  },
+  "1092": {
+    "cui": "C0022341",
+    "mention": "Japan"
+  },
+  "1093": {
+    "cui": "C0086418",
+    "mention": "Human"
+  },
+  "1094": {
+    "cui": "C0085294",
+    "mention": "hepatitis E virus"
+  },
+  "1095": {
+    "cui": "C0085294",
+    "mention": "HEV"
+  },
+  "1096": {
+    "cui": "C0243095",
+    "mention": "prevalent worldwide"
+  },
+  "1097": {
+    "cui": "C0439669",
+    "mention": "Iatrogenic"
+  },
+  "1098": {
+    "cui": "C0085294",
+    "mention": "HEV"
+  },
+  "1099": {
+    "cui": "C0205396",
+    "mention": "identified"
+  },
+  "1100": {
+    "cui": "C0684224",
+    "mention": "reports"
+  },
+  "1101": {
+    "cui": "C0868928",
+    "mention": "transfusion-transmitted cases"
+  },
+  "1102": {
+    "cui": "C1521828",
+    "mention": "detection rate"
+  },
+  "1103": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA"
+  },
+  "1104": {
+    "cui": "C0600367",
+    "mention": "seroprevalence"
+  },
+  "1105": {
+    "cui": "C0806349",
+    "mention": "HEV-IgG"
+  },
+  "1106": {
+    "cui": "C0806350",
+    "mention": "IgM"
+  },
+  "1107": {
+    "cui": "C0220825",
+    "mention": "regionally evaluated"
+  },
+  "1108": {
+    "cui": "C0022341",
+    "mention": "Japan"
+  },
+  "1109": {
+    "cui": "C0013018",
+    "mention": "donor"
+  },
+  "1110": {
+    "cui": "C0032105",
+    "mention": "plasma"
+  },
+  "1111": {
+    "cui": "C0454745",
+    "mention": "Hokkaido"
+  },
+  "1112": {
+    "cui": "C1305399",
+    "mention": "screened"
+  },
+  "1113": {
+    "cui": "C0200932",
+    "mention": "nucleic acid amplification testing"
+  },
+  "1114": {
+    "cui": "C1521828",
+    "mention": "detection rate"
+  },
+  "1115": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA"
+  },
+  "1116": {
+    "cui": "C0005795",
+    "mention": "blood donors"
+  },
+  "1117": {
+    "cui": "C0022341",
+    "mention": "Japan"
+  },
+  "1118": {
+    "cui": "C0454745",
+    "mention": "Hokkaido"
+  },
+  "1119": {
+    "cui": "C0013018",
+    "mention": "donor"
+  },
+  "1120": {
+    "cui": "C0444263",
+    "mention": "plasma samples"
+  },
+  "1121": {
+    "cui": "C0022341",
+    "mention": "Japanese regions"
+  },
+  "1122": {
+    "cui": "C0454745",
+    "mention": "Hokkaido"
+  },
+  "1123": {
+    "cui": "C0039593",
+    "mention": "tested"
+  },
+  "1124": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA"
+  },
+  "1125": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA-positive"
+  },
+  "1126": {
+    "cui": "C1292468",
+    "mention": "plasma bags"
+  },
+  "1127": {
+    "cui": "C0205396",
+    "mention": "identified"
+  },
+  "1128": {
+    "cui": "C0085294",
+    "mention": "HEV"
+  },
+  "1129": {
+    "cui": "C1261478",
+    "mention": "viral load"
+  },
+  "1130": {
+    "cui": "C0017431",
+    "mention": "genotype"
+  },
+  "1131": {
+    "cui": "C0312636",
+    "mention": "anti-HEV immunoglobulin (Ig)G/IgM"
+  },
+  "1132": {
+    "cui": "C1521828",
+    "mention": "detection rate"
+  },
+  "1133": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA"
+  },
+  "1134": {
+    "cui": "C0022341",
+    "mention": "eastern"
+  },
+  "1135": {
+    "cui": "C0022341",
+    "mention": "western Japan"
+  },
+  "1136": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA-positive"
+  },
+  "1137": {
+    "cui": "C0444263",
+    "mention": "samples"
+  },
+  "1138": {
+    "cui": "C0017431",
+    "mention": "genotype 3"
+  },
+  "1139": {
+    "cui": "C0376705",
+    "mention": "viral load"
+  },
+  "1140": {
+    "cui": "C1521828",
+    "mention": "detection rate"
+  },
+  "1141": {
+    "cui": "C3263637",
+    "mention": "HEV-RNA"
+  },
+  "1142": {
+    "cui": "C0013018",
+    "mention": "donor populations"
+  },
+  "1143": {
+    "cui": "C0022341",
+    "mention": "Japan"
+  },
+  "1144": {
+    "cui": "C0454745",
+    "mention": "Hokkaido"
+  },
+  "1145": {
+    "cui": "C0005794",
+    "mention": "donations"
+  },
+  "1146": {
+    "cui": "C0015176",
+    "mention": "Europe"
+  },
+  "1147": {
+    "cui": "C0454745",
+    "mention": "Hokkaido"
+  },
+  "1148": {
+    "cui": "C0005794",
+    "mention": "donations"
+  },
+  "1149": {
+    "cui": "C0035668",
+    "mention": "RNA"
+  },
+  "1150": {
+    "cui": "C2718050",
+    "mention": "detection limits"
+  },
+  "1151": {
+    "cui": "C0454745",
+    "mention": "Hokkaido"
+  },
+  "1152": {
+    "cui": "C0017431",
+    "mention": "genotype 4"
+  },
+  "1153": {
+    "cui": "C0005794",
+    "mention": "blood donations"
+  },
+  "1154": {
+    "cui": "C1446409",
+    "mention": "positive"
+  },
+  "1155": {
+    "cui": "C0005794",
+    "mention": "donations"
+  },
+  "1156": {
+    "cui": "C0017431",
+    "mention": "genotype 3"
+  },
+  "1157": {
+    "cui": "C3816499",
+    "mention": "pathogenic"
+  },
+  "1158": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1159": {
+    "cui": "C0574031",
+    "mention": "Compounds"
+  },
+  "1160": {
+    "cui": "C0003232",
+    "mention": "Antibiotic"
+  },
+  "1161": {
+    "cui": "C0205245",
+    "mention": "Production"
+  },
+  "1162": {
+    "cui": "C0995741",
+    "mention": "Streptomyces coelicolor"
+  },
+  "1163": {
+    "cui": "C0870742",
+    "mention": "Inter-species Interaction"
+  },
+  "1164": {
+    "cui": "C1292732",
+    "mention": "investigate"
+  },
+  "1165": {
+    "cui": "C1704675",
+    "mention": "interaction"
+  },
+  "1166": {
+    "cui": "C0014834",
+    "mention": "E.coli"
+  },
+  "1167": {
+    "cui": "C1449847",
+    "mention": "Streptomyces coelicolor A3 (2)"
+  },
+  "1168": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "1169": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1170": {
+    "cui": "C0077826",
+    "mention": "undecylprodigiosin"
+  },
+  "1171": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1172": {
+    "cui": "C0205177",
+    "mention": "actives"
+  },
+  "1173": {
+    "cui": "C0086597",
+    "mention": "mediating"
+  },
+  "1174": {
+    "cui": "C0870742",
+    "mention": "inter-species interaction"
+  },
+  "1175": {
+    "cui": "C0003232",
+    "mention": "antibiotics"
+  },
+  "1176": {
+    "cui": "C0526040",
+    "mention": "red-pigmented undecylprodigiosin"
+  },
+  "1177": {
+    "cui": "C0333610",
+    "mention": "blue-pigmented"
+  },
+  "1178": {
+    "cui": "C0050663",
+    "mention": "actinorhodin"
+  },
+  "1179": {
+    "cui": "C0430402",
+    "mention": "cultures"
+  },
+  "1180": {
+    "cui": "C0995741",
+    "mention": "S. coelicolor"
+  },
+  "1181": {
+    "cui": "C0010454",
+    "mention": "medium"
+  },
+  "1182": {
+    "cui": "C1264643",
+    "mention": "concentrations"
+  },
+  "1183": {
+    "cui": "C0050663",
+    "mention": "actinorhodin"
+  },
+  "1184": {
+    "cui": "C1707455",
+    "mention": "compared"
+  },
+  "1185": {
+    "cui": "C0077826",
+    "mention": "undecylprodigiosin"
+  },
+  "1186": {
+    "cui": "C0021080",
+    "mention": "immunosuppressive"
+  },
+  "1187": {
+    "cui": "C1516031",
+    "mention": "antitumor properties"
+  },
+  "1188": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "1189": {
+    "cui": "C0077826",
+    "mention": "undecylprodigiosin"
+  },
+  "1190": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1191": {
+    "cui": "C1441322",
+    "mention": "live cells"
+  },
+  "1192": {
+    "cui": "C1522240",
+    "mention": "heat-killed"
+  },
+  "1193": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "1194": {
+    "cui": "C0014834",
+    "mention": "E. coli C600"
+  },
+  "1195": {
+    "cui": "C1550101",
+    "mention": "cell-free supernatant"
+  },
+  "1196": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1197": {
+    "cui": "C0430402",
+    "mention": "culture"
+  },
+  "1198": {
+    "cui": "C0995741",
+    "mention": "S. coelicolor"
+  },
+  "1199": {
+    "cui": "C3179108",
+    "mention": "cultures in shake flasks"
+  },
+  "1200": {
+    "cui": "C1704675",
+    "mention": "interaction"
+  },
+  "1201": {
+    "cui": "C1441322",
+    "mention": "live cells"
+  },
+  "1202": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1203": {
+    "cui": "C0003232",
+    "mention": "antibiotic"
+  },
+  "1204": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1205": {
+    "cui": "C0077826",
+    "mention": "undecylprodigiosin"
+  },
+  "1206": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1207": {
+    "cui": "C2349975",
+    "mention": "enhanced"
+  },
+  "1208": {
+    "cui": "C0430402",
+    "mention": "pure cultures"
+  },
+  "1209": {
+    "cui": "C0995741",
+    "mention": "S. coelicolor"
+  },
+  "1210": {
+    "cui": "C0050663",
+    "mention": "actinorhodin"
+  },
+  "1211": {
+    "cui": "C0205216",
+    "mention": "decreased"
+  },
+  "1212": {
+    "cui": "C1522240",
+    "mention": "heat-killed"
+  },
+  "1213": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "1214": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1215": {
+    "cui": "C1301751",
+    "mention": "no effect"
+  },
+  "1216": {
+    "cui": "C0003232",
+    "mention": "antibiotic"
+  },
+  "1217": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1218": {
+    "cui": "C0178747",
+    "mention": "growth"
+  },
+  "1219": {
+    "cui": "C0556133",
+    "mention": "glucose consumption"
+  },
+  "1220": {
+    "cui": "C0995741",
+    "mention": "S. coelicolor"
+  },
+  "1221": {
+    "cui": "C0445247",
+    "mention": "same"
+  },
+  "1222": {
+    "cui": "C1441672",
+    "mention": "observed"
+  },
+  "1223": {
+    "cui": "C0430402",
+    "mention": "pure culture"
+  },
+  "1224": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "1225": {
+    "cui": "C0003232",
+    "mention": "antibiotic"
+  },
+  "1226": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1227": {
+    "cui": "C1442959",
+    "mention": "nutritional"
+  },
+  "1228": {
+    "cui": "C0038435",
+    "mention": "stress"
+  },
+  "1229": {
+    "cui": "C1274040",
+    "mention": "Results"
+  },
+  "1230": {
+    "cui": "C1550101",
+    "mention": "cell-free supernatant"
+  },
+  "1231": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1232": {
+    "cui": "C0430402",
+    "mention": "culture"
+  },
+  "1233": {
+    "cui": "C1704675",
+    "mention": "interaction"
+  },
+  "1234": {
+    "cui": "C0995741",
+    "mention": "S. coelicolor"
+  },
+  "1235": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1236": {
+    "cui": "C0086597",
+    "mention": "mediated"
+  },
+  "1237": {
+    "cui": "C0574031",
+    "mention": "diffusible molecule(s)"
+  },
+  "1238": {
+    "cui": "C0684295",
+    "mention": "extraction procedures"
+  },
+  "1239": {
+    "cui": "C0005507",
+    "mention": "agar-well diffusion bioassays"
+  },
+  "1240": {
+    "cui": "C0205409",
+    "mention": "isolated"
+  },
+  "1241": {
+    "cui": "C0205396",
+    "mention": "identified"
+  },
+  "1242": {
+    "cui": "C0574031",
+    "mention": "class of compounds"
+  },
+  "1243": {
+    "cui": "C1711411",
+    "mention": "verification"
+  },
+  "1244": {
+    "cui": "C0574031",
+    "mention": "compound"
+  },
+  "1245": {
+    "cui": "C1254350",
+    "mention": "chemical structural moiety"
+  },
+  "1246": {
+    "cui": "C0574031",
+    "mention": "class of compounds"
+  },
+  "1247": {
+    "cui": "C0995741",
+    "mention": "S. coelicolor"
+  },
+  "1248": {
+    "cui": "C1331092",
+    "mention": "cultures"
+  },
+  "1249": {
+    "cui": "C1280500",
+    "mention": "effects"
+  },
+  "1250": {
+    "cui": "C0003232",
+    "mention": "antibiotic"
+  },
+  "1251": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1252": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1253": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "1254": {
+    "cui": "C1550101",
+    "mention": "supernatant"
+  },
+  "1255": {
+    "cui": "C0574031",
+    "mention": "class of compounds"
+  },
+  "1256": {
+    "cui": "C1327616",
+    "mention": "secreted"
+  },
+  "1257": {
+    "cui": "C0014834",
+    "mention": "E. coli"
+  },
+  "1258": {
+    "cui": "C0205177",
+    "mention": "actives"
+  },
+  "1259": {
+    "cui": "C0870742",
+    "mention": "interspecies interaction"
+  },
+  "1260": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "1261": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "1262": {
+    "cui": "C0077826",
+    "mention": "undecylprodigiosin"
+  },
+  "1263": {
+    "cui": "C0021920",
+    "mention": "Intron"
+  },
+  "1264": {
+    "cui": "C1441547",
+    "mention": "Derived"
+  },
+  "1265": {
+    "cui": "C0456389",
+    "mention": "Size"
+  },
+  "1266": {
+    "cui": "C0032529",
+    "mention": "Polymorphism"
+  },
+  "1267": {
+    "cui": "C1819716",
+    "mention": "Mitochondrial Genomes"
+  },
+  "1268": {
+    "cui": "C0439849",
+    "mention": "Closely Related"
+  },
+  "1269": {
+    "cui": "C1633289",
+    "mention": "Chrysoporthe Species"
+  },
+  "1270": {
+    "cui": "C0205197",
+    "mention": "complete"
+  },
+  "1271": {
+    "cui": "C1819716",
+    "mention": "mitochondrial (mt) genomes"
+  },
+  "1272": {
+    "cui": "C1907678",
+    "mention": "Chrysoporthe austroafricana"
+  },
+  "1273": {
+    "cui": "C1641019",
+    "mention": "C. cubensis"
+  },
+  "1274": {
+    "cui": "C3717325",
+    "mention": "C. deuterocubensis"
+  },
+  "1275": {
+    "cui": "C0521095",
+    "mention": "determined"
+  },
+  "1276": {
+    "cui": "C1819716",
+    "mention": "mitochondrial genome"
+  },
+  "1277": {
+    "cui": "C1947056",
+    "mention": "Cryphonectriaceae"
+  },
+  "1278": {
+    "cui": "C0997457",
+    "mention": "Cryphonectria parasitica"
+  },
+  "1279": {
+    "cui": "C0205556",
+    "mention": "retrieved"
+  },
+  "1280": {
+    "cui": "C1552720",
+    "mention": "annotated"
+  },
+  "1281": {
+    "cui": "C0683941",
+    "mention": "comparative purposes"
+  },
+  "1282": {
+    "cui": "C0017428",
+    "mention": "genomes"
+  },
+  "1283": {
+    "cui": "C0314656",
+    "mention": "synteny"
+  },
+  "1284": {
+    "cui": "C1254362",
+    "mention": "regions"
+  },
+  "1285": {
+    "cui": "C0332257",
+    "mention": "including"
+  },
+  "1286": {
+    "cui": "C0017337",
+    "mention": "genes"
+  },
+  "1287": {
+    "cui": "C1314939",
+    "mention": "involved in"
+  },
+  "1288": {
+    "cui": "C0030013",
+    "mention": "oxidative phosphorylation"
+  },
+  "1289": {
+    "cui": "C0013846",
+    "mention": "electron transfer"
+  },
+  "1290": {
+    "cui": "C0079941",
+    "mention": "unique open reading frames"
+  },
+  "1291": {
+    "cui": "C0079941",
+    "mention": "(uORFs)"
+  },
+  "1292": {
+    "cui": "C0035701",
+    "mention": "ribosomal RNAs"
+  },
+  "1293": {
+    "cui": "C0035701",
+    "mention": "(rRNAs)"
+  },
+  "1294": {
+    "cui": "C0035711",
+    "mention": "transfer RNAs"
+  },
+  "1295": {
+    "cui": "C0035711",
+    "mention": "(tRNAs)"
+  },
+  "1296": {
+    "cui": "C0021920",
+    "mention": "intron"
+  },
+  "1297": {
+    "cui": "C0733755",
+    "mention": "positions"
+  },
+  "1298": {
+    "cui": "C0683941",
+    "mention": "Comparative analyses"
+  },
+  "1299": {
+    "cui": "C0443289",
+    "mention": "revealed"
+  },
+  "1300": {
+    "cui": "C1708225",
+    "mention": "signatures"
+  },
+  "1301": {
+    "cui": "C0017261",
+    "mention": "duplication"
+  },
+  "1302": {
+    "cui": "C0441471",
+    "mention": "events"
+  },
+  "1303": {
+    "cui": "C0021920",
+    "mention": "intron"
+  },
+  "1304": {
+    "cui": "C0042333",
+    "mention": "number and length variation"
+  },
+  "1305": {
+    "cui": "C0042333",
+    "mention": "varying"
+  },
+  "1306": {
+    "cui": "C0021920",
+    "mention": "intronic"
+  },
+  "1307": {
+    "cui": "C0079941",
+    "mention": "ORFs"
+  },
+  "1308": {
+    "cui": "C0042333",
+    "mention": "genetic diversity"
+  },
+  "1309": {
+    "cui": "C1819716",
+    "mention": "mt genomes"
+  },
+  "1310": {
+    "cui": "C1947056",
+    "mention": "Cryphonectriaceae"
+  },
+  "1311": {
+    "cui": "C1819716",
+    "mention": "mt genomes"
+  },
+  "1312": {
+    "cui": "C0456389",
+    "mention": "size"
+  },
+  "1313": {
+    "cui": "C0032529",
+    "mention": "polymorphism"
+  },
+  "1314": {
+    "cui": "C0456389",
+    "mention": "size"
+  },
+  "1315": {
+    "cui": "C0032529",
+    "mention": "polymorphism"
+  },
+  "1316": {
+    "cui": "C1819716",
+    "mention": "mt genomes"
+  },
+  "1317": {
+    "cui": "C0439849",
+    "mention": "closely related"
+  },
+  "1318": {
+    "cui": "C1633289",
+    "mention": "Chrysoporthe species"
+  },
+  "1319": {
+    "cui": "C0042333",
+    "mention": "varying number and length"
+  },
+  "1320": {
+    "cui": "C0021920",
+    "mention": "introns"
+  },
+  "1321": {
+    "cui": "C0079941",
+    "mention": "coding sequences"
+  },
+  "1322": {
+    "cui": "C0547044",
+    "mention": "lesser"
+  },
+  "1323": {
+    "cui": "C0439792",
+    "mention": "extent"
+  },
+  "1324": {
+    "cui": "C0887857",
+    "mention": "intergenic sequences"
+  },
+  "1325": {
+    "cui": "C1707455",
+    "mention": "Compared"
+  },
+  "1326": {
+    "cui": "C0521033",
+    "mention": "fungal"
+  },
+  "1327": {
+    "cui": "C1819716",
+    "mention": "mt genomes"
+  },
+  "1328": {
+    "cui": "C1907678",
+    "mention": "C. austroafricana"
+  },
+  "1329": {
+    "cui": "C1819716",
+    "mention": "mt genome"
+  },
+  "1330": {
+    "cui": "C0443228",
+    "mention": "largest"
+  },
+  "1331": {
+    "cui": "C1960228",
+    "mention": "Ascomycetes"
+  },
+  "1332": {
+    "cui": "C1279919",
+    "mention": "Early"
+  },
+  "1333": {
+    "cui": "C0220825",
+    "mention": "assessment"
+  },
+  "1334": {
+    "cui": "C0198737",
+    "mention": "bilateral inguinal hernia repair"
+  },
+  "1335": {
+    "cui": "C1707455",
+    "mention": "comparison"
+  },
+  "1336": {
+    "cui": "C0087111",
+    "mention": "laparoscopic total extraperitoneal"
+  },
+  "1337": {
+    "cui": "C0087111",
+    "mention": "Stoppa approaches"
+  },
+  "1338": {
+    "cui": "C0521116",
+    "mention": "present"
+  },
+  "1339": {
+    "cui": "C0008976",
+    "mention": "clinical trial"
+  },
+  "1340": {
+    "cui": "C1707455",
+    "mention": "compare"
+  },
+  "1341": {
+    "cui": "C1274040",
+    "mention": "results"
+  },
+  "1342": {
+    "cui": "C0198737",
+    "mention": "bilateral inguinal hernia repair"
+  },
+  "1343": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1344": {
+    "cui": "C0443177",
+    "mention": "conventional"
+  },
+  "1345": {
+    "cui": "C0087111",
+    "mention": "Stoppa technique"
+  },
+  "1346": {
+    "cui": "C0521293",
+    "mention": "laparoscopic total extraperitoneal repair"
+  },
+  "1347": {
+    "cui": "C0521293",
+    "mention": "LTE"
+  },
+  "1348": {
+    "cui": "C0181805",
+    "mention": "mesh"
+  },
+  "1349": {
+    "cui": "C1293125",
+    "mention": "staple fixation"
+  },
+  "1350": {
+    "cui": "C0034656",
+    "mention": "randomised"
+  },
+  "1351": {
+    "cui": "C0008976",
+    "mention": "clinical trial"
+  },
+  "1352": {
+    "cui": "C1708333",
+    "mention": "General Surgery and Trauma of the Clinics Hospital"
+  },
+  "1353": {
+    "cui": "C1708333",
+    "mention": "Medical School"
+  },
+  "1354": {
+    "cui": "C1708333",
+    "mention": "University of Sγo Paulo"
+  },
+  "1355": {
+    "cui": "C0086582",
+    "mention": "male"
+  },
+  "1356": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1357": {
+    "cui": "C0267672",
+    "mention": "bilateral inguinal hernia"
+  },
+  "1358": {
+    "cui": "C0439234",
+    "mention": "years"
+  },
+  "1359": {
+    "cui": "C1548635",
+    "mention": "eligible"
+  },
+  "1360": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "1361": {
+    "cui": "C0549193",
+    "mention": "parameters"
+  },
+  "1362": {
+    "cui": "C0936012",
+    "mention": "analysed"
+  },
+  "1363": {
+    "cui": "C1279919",
+    "mention": "early"
+  },
+  "1364": {
+    "cui": "C0032790",
+    "mention": "post-operative period"
+  },
+  "1365": {
+    "cui": "C0522510",
+    "mention": "intensity"
+  },
+  "1366": {
+    "cui": "C4060629",
+    "mention": "surgical trauma"
+  },
+  "1367": {
+    "cui": "C3494201",
+    "mention": "operation time"
+  },
+  "1368": {
+    "cui": "C0006560",
+    "mention": "C-reactive protein"
+  },
+  "1369": {
+    "cui": "C0006560",
+    "mention": "CRP"
+  },
+  "1370": {
+    "cui": "C0441889",
+    "mention": "levels"
+  },
+  "1371": {
+    "cui": "C0023508",
+    "mention": "white blood cell count"
+  },
+  "1372": {
+    "cui": "C0019080",
+    "mention": "bleeding"
+  },
+  "1373": {
+    "cui": "C1320357",
+    "mention": "pain intensity"
+  },
+  "1374": {
+    "cui": "C0034380",
+    "mention": "quality of life"
+  },
+  "1375": {
+    "cui": "C0220825",
+    "mention": "assessment"
+  },
+  "1376": {
+    "cui": "C0032787",
+    "mention": "post-operative complications"
+  },
+  "1377": {
+    "cui": "C0521293",
+    "mention": "LTE procedure"
+  },
+  "1378": {
+    "cui": "C0205166",
+    "mention": "longer"
+  },
+  "1379": {
+    "cui": "C0087111",
+    "mention": "Stoppa procedure"
+  },
+  "1380": {
+    "cui": "C0441889",
+    "mention": "levels"
+  },
+  "1381": {
+    "cui": "C0006560",
+    "mention": "CRP"
+  },
+  "1382": {
+    "cui": "C0205250",
+    "mention": "higher"
+  },
+  "1383": {
+    "cui": "C0087111",
+    "mention": "Stoppa"
+  },
+  "1384": {
+    "cui": "C0441833",
+    "mention": "group"
+  },
+  "1385": {
+    "cui": "C0023516",
+    "mention": "leucocytes"
+  },
+  "1386": {
+    "cui": "C0518014",
+    "mention": "haematocrit"
+  },
+  "1387": {
+    "cui": "C0019046",
+    "mention": "haemoglobin"
+  },
+  "1388": {
+    "cui": "C2348205",
+    "mention": "similar"
+  },
+  "1389": {
+    "cui": "C0441833",
+    "mention": "groups"
+  },
+  "1390": {
+    "cui": "C3842396",
+    "mention": "no difference"
+  },
+  "1391": {
+    "cui": "C0030193",
+    "mention": "pain"
+  },
+  "1392": {
+    "cui": "C0241311",
+    "mention": "post-operative"
+  },
+  "1393": {
+    "cui": "C0516981",
+    "mention": "physical functioning"
+  },
+  "1394": {
+    "cui": "C0449295",
+    "mention": "physical limitation"
+  },
+  "1395": {
+    "cui": "C4049986",
+    "mention": "impact"
+  },
+  "1396": {
+    "cui": "C0030193",
+    "mention": "pain"
+  },
+  "1397": {
+    "cui": "C0871707",
+    "mention": "daily activities"
+  },
+  "1398": {
+    "cui": "C0349674",
+    "mention": "Carolinas Comfort Scale"
+  },
+  "1399": {
+    "cui": "C0241311",
+    "mention": "post-operative"
+  },
+  "1400": {
+    "cui": "C0009566",
+    "mention": "Complications"
+  },
+  "1401": {
+    "cui": "C0087111",
+    "mention": "Stoppa"
+  },
+  "1402": {
+    "cui": "C0441833",
+    "mention": "group"
+  },
+  "1403": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1404": {
+    "cui": "C0521293",
+    "mention": "LTE"
+  },
+  "1405": {
+    "cui": "C0441833",
+    "mention": "group"
+  },
+  "1406": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1407": {
+    "cui": "C1579762",
+    "mention": "comparative study"
+  },
+  "1408": {
+    "cui": "C0087111",
+    "mention": "Stoppa"
+  },
+  "1409": {
+    "cui": "C0521293",
+    "mention": "LTE"
+  },
+  "1410": {
+    "cui": "C0198737",
+    "mention": "bilateral inguinal hernia repair"
+  },
+  "1411": {
+    "cui": "C0521293",
+    "mention": "LTE"
+  },
+  "1412": {
+    "cui": "C4060629",
+    "mention": "surgical trauma"
+  },
+  "1413": {
+    "cui": "C0205166",
+    "mention": "longer"
+  },
+  "1414": {
+    "cui": "C3494201",
+    "mention": "operation time"
+  },
+  "1415": {
+    "cui": "C0034380",
+    "mention": "Quality of life"
+  },
+  "1416": {
+    "cui": "C1279919",
+    "mention": "early"
+  },
+  "1417": {
+    "cui": "C0032790",
+    "mention": "post-operative period"
+  },
+  "1418": {
+    "cui": "C2348205",
+    "mention": "similar"
+  },
+  "1419": {
+    "cui": "C0009566",
+    "mention": "Complication"
+  },
+  "1420": {
+    "cui": "C1521828",
+    "mention": "rates"
+  },
+  "1421": {
+    "cui": "C0205250",
+    "mention": "higher"
+  },
+  "1422": {
+    "cui": "C0087111",
+    "mention": "Stoppa"
+  },
+  "1423": {
+    "cui": "C0441833",
+    "mention": "group"
+  },
+  "1424": {
+    "cui": "C1704420",
+    "mention": "effects of"
+  },
+  "1425": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1426": {
+    "cui": "C0012155",
+    "mention": "high-fat diet"
+  },
+  "1427": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1428": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1429": {
+    "cui": "C0025519",
+    "mention": "metabolism"
+  },
+  "1430": {
+    "cui": "C1516924",
+    "mention": "epigenetic changes"
+  },
+  "1431": {
+    "cui": "C1540187",
+    "mention": "adiponectin"
+  },
+  "1432": {
+    "cui": "C1416825",
+    "mention": "leptin"
+  },
+  "1433": {
+    "cui": "C0314621",
+    "mention": "gene promoters"
+  },
+  "1434": {
+    "cui": "C2603343",
+    "mention": "studies"
+  },
+  "1435": {
+    "cui": "C1516924",
+    "mention": "epigenetic changes"
+  },
+  "1436": {
+    "cui": "C0162429",
+    "mention": "malnutrition"
+  },
+  "1437": {
+    "cui": "C1705810",
+    "mention": "roles"
+  },
+  "1438": {
+    "cui": "C0871541",
+    "mention": "transgenerational links"
+  },
+  "1439": {
+    "cui": "C0025517",
+    "mention": "metabolic diseases"
+  },
+  "1440": {
+    "cui": "C1441672",
+    "mention": "observed"
+  },
+  "1441": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1442": {
+    "cui": "C0012155",
+    "mention": "high-fat diet"
+  },
+  "1443": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1444": {
+    "cui": "C1708480",
+    "mention": "in utero"
+  },
+  "1445": {
+    "cui": "C0015127",
+    "mention": "caused"
+  },
+  "1446": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "1447": {
+    "cui": "C0039082",
+    "mention": "syndrome"
+  },
+  "1448": {
+    "cui": "C1882365",
+    "mention": "phenomenon"
+  },
+  "1449": {
+    "cui": "C0332273",
+    "mention": "through"
+  },
+  "1450": {
+    "cui": "C1516924",
+    "mention": "epigenetic modifications"
+  },
+  "1451": {
+    "cui": "C1540187",
+    "mention": "adiponectin"
+  },
+  "1452": {
+    "cui": "C1416825",
+    "mention": "leptin genes"
+  },
+  "1453": {
+    "cui": "C0439064",
+    "mention": "multiple"
+  },
+  "1454": {
+    "cui": "C0079411",
+    "mention": "generations"
+  },
+  "1455": {
+    "cui": "C0015127",
+    "mention": "etiological"
+  },
+  "1456": {
+    "cui": "C2603343",
+    "mention": "studies"
+  },
+  "1457": {
+    "cui": "C1444656",
+    "mention": "indicated"
+  },
+  "1458": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1459": {
+    "cui": "C1305855",
+    "mention": "BMI"
+  },
+  "1460": {
+    "cui": "C1280500",
+    "mention": "effects"
+  },
+  "1461": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1462": {
+    "cui": "C1305855",
+    "mention": "BMI"
+  },
+  "1463": {
+    "cui": "C0332291",
+    "mention": "independent of"
+  },
+  "1464": {
+    "cui": "C0442796",
+    "mention": "additive"
+  },
+  "1465": {
+    "cui": "C1858460",
+    "mention": "maternal"
+  },
+  "1466": {
+    "cui": "C1305855",
+    "mention": "BMI"
+  },
+  "1467": {
+    "cui": "C1280500",
+    "mention": "effects"
+  },
+  "1468": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1469": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1470": {
+    "cui": "C0205263",
+    "mention": "induced"
+  },
+  "1471": {
+    "cui": "C0028754",
+    "mention": "obesity"
+  },
+  "1472": {
+    "cui": "C1280500",
+    "mention": "affected"
+  },
+  "1473": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "1474": {
+    "cui": "C0449438",
+    "mention": "status"
+  },
+  "1475": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1476": {
+    "cui": "C0332273",
+    "mention": "through"
+  },
+  "1477": {
+    "cui": "C1516924",
+    "mention": "epigenetic changes"
+  },
+  "1478": {
+    "cui": "C1540187",
+    "mention": "adiponectin"
+  },
+  "1479": {
+    "cui": "C1416825",
+    "mention": "leptin genes"
+  },
+  "1480": {
+    "cui": "C1292732",
+    "mention": "investigated"
+  },
+  "1481": {
+    "cui": "C0184625",
+    "mention": "normal diet"
+  },
+  "1482": {
+    "cui": "C0347984",
+    "mention": "during"
+  },
+  "1483": {
+    "cui": "C1136186",
+    "mention": "subsequent generations"
+  },
+  "1484": {
+    "cui": "C1947925",
+    "mention": "abolished"
+  },
+  "1485": {
+    "cui": "C1516924",
+    "mention": "epigenetic changes"
+  },
+  "1486": {
+    "cui": "C0332281",
+    "mention": "associated with"
+  },
+  "1487": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1488": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1489": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1490": {
+    "cui": "C0332152",
+    "mention": "before"
+  },
+  "1491": {
+    "cui": "C0009637",
+    "mention": "conception"
+  },
+  "1492": {
+    "cui": "C1441672",
+    "mention": "observed"
+  },
+  "1493": {
+    "cui": "C1704420",
+    "mention": "effects of"
+  },
+  "1494": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1495": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1496": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1497": {
+    "cui": "C0332152",
+    "mention": "before"
+  },
+  "1498": {
+    "cui": "C0009637",
+    "mention": "conception"
+  },
+  "1499": {
+    "cui": "C0439064",
+    "mention": "multiple"
+  },
+  "1500": {
+    "cui": "C0079411",
+    "mention": "generations"
+  },
+  "1501": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1502": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "1503": {
+    "cui": "C0599883",
+    "mention": "traits"
+  },
+  "1504": {
+    "cui": "C0332257",
+    "mention": "including"
+  },
+  "1505": {
+    "cui": "C0043094",
+    "mention": "weight"
+  },
+  "1506": {
+    "cui": "C0015677",
+    "mention": "fat"
+  },
+  "1507": {
+    "cui": "C1517378",
+    "mention": "gain"
+  },
+  "1508": {
+    "cui": "C0271650",
+    "mention": "glucose intolerance"
+  },
+  "1509": {
+    "cui": "C0020557",
+    "mention": "hypertriglyceridemia"
+  },
+  "1510": {
+    "cui": "C1955907",
+    "mention": "abnormal adipocytokine"
+  },
+  "1511": {
+    "cui": "C0441889",
+    "mention": "levels"
+  },
+  "1512": {
+    "cui": "C0020538",
+    "mention": "hypertension"
+  },
+  "1513": {
+    "cui": "C1540187",
+    "mention": "adiponectin"
+  },
+  "1514": {
+    "cui": "C1416825",
+    "mention": "leptin gene"
+  },
+  "1515": {
+    "cui": "C0017262",
+    "mention": "expression"
+  },
+  "1516": {
+    "cui": "C1516924",
+    "mention": "epigenetic changes"
+  },
+  "1517": {
+    "cui": "C0184625",
+    "mention": "Normal diet"
+  },
+  "1518": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1519": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1520": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1521": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1522": {
+    "cui": "C0205216",
+    "mention": "diminished"
+  },
+  "1523": {
+    "cui": "C2983605",
+    "mention": "consumption"
+  },
+  "1524": {
+    "cui": "C0079411",
+    "mention": "generations"
+  },
+  "1525": {
+    "cui": "C1947925",
+    "mention": "abolished"
+  },
+  "1526": {
+    "cui": "C1280500",
+    "mention": "effect"
+  },
+  "1527": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1528": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1529": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1530": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "1531": {
+    "cui": "C0599883",
+    "mention": "traits"
+  },
+  "1532": {
+    "cui": "C1955907",
+    "mention": "adipocytokine"
+  },
+  "1533": {
+    "cui": "C1516924",
+    "mention": "epigenetic changes"
+  },
+  "1534": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1535": {
+    "cui": "C1704420",
+    "mention": "effects of"
+  },
+  "1536": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1537": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1538": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1539": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1540": {
+    "cui": "C1762617",
+    "mention": "weaker"
+  },
+  "1541": {
+    "cui": "C0332282",
+    "mention": "following"
+  },
+  "1542": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1543": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1544": {
+    "cui": "C1708480",
+    "mention": "in utero"
+  },
+  "1545": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1546": {
+    "cui": "C0012155",
+    "mention": "HFD"
+  },
+  "1547": {
+    "cui": "C0332157",
+    "mention": "exposure"
+  },
+  "1548": {
+    "cui": "C0442796",
+    "mention": "additive"
+  },
+  "1549": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "1550": {
+    "cui": "C1280500",
+    "mention": "effect"
+  },
+  "1551": {
+    "cui": "C0079411",
+    "mention": "generations"
+  },
+  "1552": {
+    "cui": "C0337493",
+    "mention": "paternal"
+  },
+  "1553": {
+    "cui": "C1858460",
+    "mention": "maternal"
+  },
+  "1554": {
+    "cui": "C1442959",
+    "mention": "nutrition"
+  },
+  "1555": {
+    "cui": "C1280500",
+    "mention": "affect"
+  },
+  "1556": {
+    "cui": "C0680063",
+    "mention": "offspring"
+  },
+  "1557": {
+    "cui": "C0025519",
+    "mention": "metabolism"
+  },
+  "1558": {
+    "cui": "C0332273",
+    "mention": "through"
+  },
+  "1559": {
+    "cui": "C1516924",
+    "mention": "epigenetic modifications"
+  },
+  "1560": {
+    "cui": "C0017337",
+    "mention": "adipocytokine genes"
+  },
+  "1561": {
+    "cui": "C0439064",
+    "mention": "multiple"
+  },
+  "1562": {
+    "cui": "C0079411",
+    "mention": "generations"
+  },
+  "1563": {
+    "cui": "C0598695",
+    "mention": "N-Methyl d-Aspartate Glutamate Receptor Antagonist"
+  },
+  "1564": {
+    "cui": "C0022614",
+    "mention": "Ketamine"
+  },
+  "1565": {
+    "cui": "C0332454",
+    "mention": "Disrupts"
+  },
+  "1566": {
+    "cui": "C0205245",
+    "mention": "Functional"
+  },
+  "1567": {
+    "cui": "C1442792",
+    "mention": "State"
+  },
+  "1568": {
+    "cui": "C1184631",
+    "mention": "Corticothalamic"
+  },
+  "1569": {
+    "cui": "C1705987",
+    "mention": "Pathway"
+  },
+  "1570": {
+    "cui": "C0815027",
+    "mention": "non-competitive"
+  },
+  "1571": {
+    "cui": "C0598695",
+    "mention": "N-methyl d-aspartate glutamate receptor (NMDAR) antagonist"
+  },
+  "1572": {
+    "cui": "C0022614",
+    "mention": "ketamine"
+  },
+  "1573": {
+    "cui": "C0006104",
+    "mention": "brain"
+  },
+  "1574": {
+    "cui": "C1442792",
+    "mention": "state"
+  },
+  "1575": {
+    "cui": "C0332167",
+    "mention": "high-risk"
+  },
+  "1576": {
+    "cui": "C1442792",
+    "mention": "states"
+  },
+  "1577": {
+    "cui": "C0033975",
+    "mention": "psychosis"
+  },
+  "1578": {
+    "cui": "C2363430",
+    "mention": "early stages"
+  },
+  "1579": {
+    "cui": "C0036341",
+    "mention": "schizophrenia"
+  },
+  "1580": {
+    "cui": "C1880022",
+    "mention": "characterized"
+  },
+  "1581": {
+    "cui": "C0748618",
+    "mention": "sensory"
+  },
+  "1582": {
+    "cui": "C0009241",
+    "mention": "cognitive deficits"
+  },
+  "1583": {
+    "cui": "C0549178",
+    "mention": "ongoing"
+  },
+  "1584": {
+    "cui": "C0678909",
+    "mention": "gamma oscillations"
+  },
+  "1585": {
+    "cui": "C0007776",
+    "mention": "cortical"
+  },
+  "1586": {
+    "cui": "C0815275",
+    "mention": "subcortical"
+  },
+  "1587": {
+    "cui": "C0678594",
+    "mention": "structures"
+  },
+  "1588": {
+    "cui": "C0039729",
+    "mention": "thalamus"
+  },
+  "1589": {
+    "cui": "C0441712",
+    "mention": "mechanisms"
+  },
+  "1590": {
+    "cui": "C0439673",
+    "mention": "unknown"
+  },
+  "1591": {
+    "cui": "C0018017",
+    "mention": "goal"
+  },
+  "1592": {
+    "cui": "C0521116",
+    "mention": "present"
+  },
+  "1593": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "1594": {
+    "cui": "C0022614",
+    "mention": "ketamine"
+  },
+  "1595": {
+    "cui": "C0205263",
+    "mention": "induced"
+  },
+  "1596": {
+    "cui": "C0033975",
+    "mention": "psychotic"
+  },
+  "1597": {
+    "cui": "C2347946",
+    "mention": "relevant"
+  },
+  "1598": {
+    "cui": "C1442792",
+    "mention": "state"
+  },
+  "1599": {
+    "cui": "C2699787",
+    "mention": "disturbs"
+  },
+  "1600": {
+    "cui": "C0205245",
+    "mention": "functional"
+  },
+  "1601": {
+    "cui": "C1442792",
+    "mention": "state"
+  },
+  "1602": {
+    "cui": "C1184631",
+    "mention": "corticothalamic"
+  },
+  "1603": {
+    "cui": "C1184631",
+    "mention": "CT"
+  },
+  "1604": {
+    "cui": "C1705987",
+    "mention": "pathway"
+  },
+  "1605": {
+    "cui": "C0430022",
+    "mention": "Multisite field recordings"
+  },
+  "1606": {
+    "cui": "C0884358",
+    "mention": "performed"
+  },
+  "1607": {
+    "cui": "C0682661",
+    "mention": "somatosensory CT system"
+  },
+  "1608": {
+    "cui": "C0235195",
+    "mention": "sedated"
+  },
+  "1609": {
+    "cui": "C0034721",
+    "mention": "rat"
+  },
+  "1610": {
+    "cui": "C1442488",
+    "mention": "Baseline"
+  },
+  "1611": {
+    "cui": "C0441655",
+    "mention": "activity"
+  },
+  "1612": {
+    "cui": "C1879547",
+    "mention": "activation"
+  },
+  "1613": {
+    "cui": "C0042640",
+    "mention": "vibrissa"
+  },
+  "1614": {
+    "cui": "C0439849",
+    "mention": "related"
+  },
+  "1615": {
+    "cui": "C0152349",
+    "mention": "prethalamic"
+  },
+  "1616": {
+    "cui": "C1708517",
+    "mention": "inputs"
+  },
+  "1617": {
+    "cui": "C0445254",
+    "mention": "sensory"
+  },
+  "1618": {
+    "cui": "C0015214",
+    "mention": "evoked thalamic response"
+  },
+  "1619": {
+    "cui": "C1880022",
+    "mention": "characterized"
+  },
+  "1620": {
+    "cui": "C1806781",
+    "mention": "short"
+  },
+  "1621": {
+    "cui": "C0205275",
+    "mention": "latency"
+  },
+  "1622": {
+    "cui": "C0152349",
+    "mention": "prethalamic"
+  },
+  "1623": {
+    "cui": "C2825491",
+    "mention": "negative"
+  },
+  "1624": {
+    "cui": "C0001272",
+    "mention": "potential"
+  },
+  "1625": {
+    "cui": "C0205166",
+    "mention": "longer"
+  },
+  "1626": {
+    "cui": "C0205275",
+    "mention": "latency"
+  },
+  "1627": {
+    "cui": "C1184631",
+    "mention": "CT"
+  },
+  "1628": {
+    "cui": "C2825491",
+    "mention": "negative"
+  },
+  "1629": {
+    "cui": "C0001272",
+    "mention": "potential"
+  },
+  "1630": {
+    "cui": "C0205171",
+    "mention": "single"
+  },
+  "1631": {
+    "cui": "C0021499",
+    "mention": "subcutaneous injection"
+  },
+  "1632": {
+    "cui": "C0022614",
+    "mention": "ketamine"
+  },
+  "1633": {
+    "cui": "C0205359",
+    "mention": "spontaneously"
+  },
+  "1634": {
+    "cui": "C0445254",
+    "mention": "sensory"
+  },
+  "1635": {
+    "cui": "C0015214",
+    "mention": "evoked thalamic gamma oscillations"
+  },
+  "1636": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "1637": {
+    "cui": "C0205216",
+    "mention": "decreased"
+  },
+  "1638": {
+    "cui": "C3854080",
+    "mention": "power"
+  },
+  "1639": {
+    "cui": "C3854080",
+    "mention": "power"
+  },
+  "1640": {
+    "cui": "C0445254",
+    "mention": "sensory"
+  },
+  "1641": {
+    "cui": "C0678909",
+    "mention": "gamma oscillations"
+  },
+  "1642": {
+    "cui": "C1446409",
+    "mention": "positively"
+  },
+  "1643": {
+    "cui": "C1707520",
+    "mention": "correlated"
+  },
+  "1644": {
+    "cui": "C2346753",
+    "mention": "amplitude"
+  },
+  "1645": {
+    "cui": "C0376690",
+    "mention": "area under the curve"
+  },
+  "1646": {
+    "cui": "C1184631",
+    "mention": "CT"
+  },
+  "1647": {
+    "cui": "C0001272",
+    "mention": "potential"
+  },
+  "1648": {
+    "cui": "C0152349",
+    "mention": "prethalamic"
+  },
+  "1649": {
+    "cui": "C0001272",
+    "mention": "potential"
+  },
+  "1650": {
+    "cui": "C0521116",
+    "mention": "present"
+  },
+  "1651": {
+    "cui": "C1274040",
+    "mention": "results"
+  },
+  "1652": {
+    "cui": "C2322689",
+    "mention": "layer VI"
+  },
+  "1653": {
+    "cui": "C1184631",
+    "mention": "CT"
+  },
+  "1654": {
+    "cui": "C1705987",
+    "mention": "pathway"
+  },
+  "1655": {
+    "cui": "C1880177",
+    "mention": "contributes"
+  },
+  "1656": {
+    "cui": "C0039729",
+    "mention": "thalamic"
+  },
+  "1657": {
+    "cui": "C0678909",
+    "mention": "gamma oscillations"
+  },
+  "1658": {
+    "cui": "C1512571",
+    "mention": "hypothesis"
+  },
+  "1659": {
+    "cui": "C0392756",
+    "mention": "reduced"
+  },
+  "1660": {
+    "cui": "C0080093",
+    "mention": "NMDAR"
+  },
+  "1661": {
+    "cui": "C1514758",
+    "mention": "activation"
+  },
+  "1662": {
+    "cui": "C2699787",
+    "mention": "disturbs"
+  },
+  "1663": {
+    "cui": "C0205245",
+    "mention": "functional"
+  },
+  "1664": {
+    "cui": "C1442792",
+    "mention": "state"
+  },
+  "1665": {
+    "cui": "C1184631",
+    "mention": "CT"
+  },
+  "1666": {
+    "cui": "C0007776",
+    "mention": "corticocortical"
+  },
+  "1667": {
+    "cui": "C0598941",
+    "mention": "networks"
+  },
+  "1668": {
+    "cui": "C0949083",
+    "mention": "Nosocomial pneumonia"
+  },
+  "1669": {
+    "cui": "C1265292",
+    "mention": "methicillin-resistant Staphylococcus aureus"
+  },
+  "1670": {
+    "cui": "C0332293",
+    "mention": "treated with"
+  },
+  "1671": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1672": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1673": {
+    "cui": "C0680954",
+    "mention": "economic analysis"
+  },
+  "1674": {
+    "cui": "C1704738",
+    "mention": "resource use"
+  },
+  "1675": {
+    "cui": "C0037747",
+    "mention": "Spanish"
+  },
+  "1676": {
+    "cui": "C0680951",
+    "mention": "perspective"
+  },
+  "1677": {
+    "cui": "C0037747",
+    "mention": "Spanish"
+  },
+  "1678": {
+    "cui": "C0680951",
+    "mention": "perspective"
+  },
+  "1679": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "1680": {
+    "cui": "C1704738",
+    "mention": "healthcare resource utilization"
+  },
+  "1681": {
+    "cui": "C1704738",
+    "mention": "HCRU"
+  },
+  "1682": {
+    "cui": "C0085552",
+    "mention": "costs"
+  },
+  "1683": {
+    "cui": "C1522326",
+    "mention": "treating"
+  },
+  "1684": {
+    "cui": "C0949083",
+    "mention": "nosocomial pneumonia"
+  },
+  "1685": {
+    "cui": "C0949083",
+    "mention": "NP"
+  },
+  "1686": {
+    "cui": "C1265292",
+    "mention": "methicillin-resistant Staphylococcus aureus"
+  },
+  "1687": {
+    "cui": "C1265292",
+    "mention": "MRSA"
+  },
+  "1688": {
+    "cui": "C0701159",
+    "mention": "hospitalized adults"
+  },
+  "1689": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1690": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1691": {
+    "cui": "C0035078",
+    "mention": "renal failure"
+  },
+  "1692": {
+    "cui": "C1521828",
+    "mention": "rate"
+  },
+  "1693": {
+    "cui": "C1274040",
+    "mention": "economic outcomes"
+  },
+  "1694": {
+    "cui": "C0681860",
+    "mention": "study groups"
+  },
+  "1695": {
+    "cui": "C1254363",
+    "mention": "post hoc evaluation"
+  },
+  "1696": {
+    "cui": "C2986910",
+    "mention": "randomized"
+  },
+  "1697": {
+    "cui": "C0013072",
+    "mention": "double-blind"
+  },
+  "1698": {
+    "cui": "C0282462",
+    "mention": "multicenter phase 4 study"
+  },
+  "1699": {
+    "cui": "C0949083",
+    "mention": "Nosocomial pneumonia"
+  },
+  "1700": {
+    "cui": "C1265292",
+    "mention": "MRSA"
+  },
+  "1701": {
+    "cui": "C0701159",
+    "mention": "hospitalized adults"
+  },
+  "1702": {
+    "cui": "C1292734",
+    "mention": "modified intent to treat"
+  },
+  "1703": {
+    "cui": "C1292734",
+    "mention": "mITT"
+  },
+  "1704": {
+    "cui": "C1257890",
+    "mention": "population"
+  },
+  "1705": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1706": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1707": {
+    "cui": "C0332293",
+    "mention": "treated"
+  },
+  "1708": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1709": {
+    "cui": "C0085552",
+    "mention": "Costs"
+  },
+  "1710": {
+    "cui": "C1704738",
+    "mention": "HCRU"
+  },
+  "1711": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1712": {
+    "cui": "C1521801",
+    "mention": "administered"
+  },
+  "1713": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1714": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1715": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1716": {
+    "cui": "C0035078",
+    "mention": "renal failure"
+  },
+  "1717": {
+    "cui": "C1704738",
+    "mention": "HCRU"
+  },
+  "1718": {
+    "cui": "C1274040",
+    "mention": "outcomes"
+  },
+  "1719": {
+    "cui": "C0085552",
+    "mention": "costs"
+  },
+  "1720": {
+    "cui": "C0085552",
+    "mention": "costs"
+  },
+  "1721": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1722": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1723": {
+    "cui": "C0332293",
+    "mention": "treated"
+  },
+  "1724": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1725": {
+    "cui": "C0035078",
+    "mention": "renal failure"
+  },
+  "1726": {
+    "cui": "C1521828",
+    "mention": "rate"
+  },
+  "1727": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1728": {
+    "cui": "C0332293",
+    "mention": "treated"
+  },
+  "1729": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1730": {
+    "cui": "C0085552",
+    "mention": "costs"
+  },
+  "1731": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1732": {
+    "cui": "C0035078",
+    "mention": "renal failure"
+  },
+  "1733": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1734": {
+    "cui": "C0035078",
+    "mention": "renal failure"
+  },
+  "1735": {
+    "cui": "C1704738",
+    "mention": "HCRU"
+  },
+  "1736": {
+    "cui": "C0439228",
+    "mention": "days"
+  },
+  "1737": {
+    "cui": "C0199470",
+    "mention": "mechanical ventilation"
+  },
+  "1738": {
+    "cui": "C0439228",
+    "mention": "days"
+  },
+  "1739": {
+    "cui": "C1254367",
+    "mention": "ICU stay"
+  },
+  "1740": {
+    "cui": "C0439228",
+    "mention": "days"
+  },
+  "1741": {
+    "cui": "C3489408",
+    "mention": "hospital stay"
+  },
+  "1742": {
+    "cui": "C0439228",
+    "mention": "days"
+  },
+  "1743": {
+    "cui": "C0085552",
+    "mention": "cost"
+  },
+  "1744": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1745": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1746": {
+    "cui": "C0332293",
+    "mention": "treated"
+  },
+  "1747": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "1748": {
+    "cui": "C0085552",
+    "mention": "costs"
+  },
+  "1749": {
+    "cui": "C0030705",
+    "mention": "patient"
+  },
+  "1750": {
+    "cui": "C0439228",
+    "mention": "day"
+  },
+  "1751": {
+    "cui": "C0599755",
+    "mention": "cohorts"
+  },
+  "1752": {
+    "cui": "C0392762",
+    "mention": "mortality"
+  },
+  "1753": {
+    "cui": "C0037747",
+    "mention": "Spanish"
+  },
+  "1754": {
+    "cui": "C0680951",
+    "mention": "perspective"
+  },
+  "1755": {
+    "cui": "C0085552",
+    "mention": "costs"
+  },
+  "1756": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1757": {
+    "cui": "C0042313",
+    "mention": "vancomycin"
+  },
+  "1758": {
+    "cui": "C0032285",
+    "mention": "pneumonia"
+  },
+  "1759": {
+    "cui": "C0599755",
+    "mention": "cohorts"
+  },
+  "1760": {
+    "cui": "C0085123",
+    "mention": "drug cost"
+  },
+  "1761": {
+    "cui": "C0663241",
+    "mention": "linezolid"
+  },
+  "1762": {
+    "cui": "C1711330",
+    "mention": "offset"
+  },
+  "1763": {
+    "cui": "C0035078",
+    "mention": "renal failure"
+  },
+  "1764": {
+    "cui": "C0877248",
+    "mention": "adverse events"
+  },
+  "1765": {
+    "cui": "C0021753",
+    "mention": "Interleukin-1β"
+  },
+  "1766": {
+    "cui": "C1325596",
+    "mention": "Stress Granules"
+  },
+  "1767": {
+    "cui": "C0333312",
+    "mention": "Sequester"
+  },
+  "1768": {
+    "cui": "C0387583",
+    "mention": "COX-2"
+  },
+  "1769": {
+    "cui": "C0035696",
+    "mention": "mRNA"
+  },
+  "1770": {
+    "cui": "C1327622",
+    "mention": "Regulates"
+  },
+  "1771": {
+    "cui": "C2350440",
+    "mention": "Stability"
+  },
+  "1772": {
+    "cui": "C0678935",
+    "mention": "Translation"
+  },
+  "1773": {
+    "cui": "C0086418",
+    "mention": "Human"
+  },
+  "1774": {
+    "cui": "C0029408",
+    "mention": "OA"
+  },
+  "1775": {
+    "cui": "C0225369",
+    "mention": "Chondrocytes"
+  },
+  "1776": {
+    "cui": "C2349975",
+    "mention": "Enhanced"
+  },
+  "1777": {
+    "cui": "C0017262",
+    "mention": "expression"
+  },
+  "1778": {
+    "cui": "C1367485",
+    "mention": "cyclooxygenase-2"
+  },
+  "1779": {
+    "cui": "C1367485",
+    "mention": "COX-2"
+  },
+  "1780": {
+    "cui": "C0035696",
+    "mention": "mRNA"
+  },
+  "1781": {
+    "cui": "C0021753",
+    "mention": "IL-1β"
+  },
+  "1782": {
+    "cui": "C1292856",
+    "mention": "stimulated"
+  },
+  "1783": {
+    "cui": "C0029408",
+    "mention": "OA"
+  },
+  "1784": {
+    "cui": "C0225369",
+    "mention": "chondrocytes"
+  },
+  "1785": {
+    "cui": "C0597295",
+    "mention": "synthesis of protein"
+  },
+  "1786": {
+    "cui": "C0205421",
+    "mention": "delayed"
+  },
+  "1787": {
+    "cui": "C1325596",
+    "mention": "stress granules"
+  },
+  "1788": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1789": {
+    "cui": "C1167298",
+    "mention": "ribonucleoprotein complexes"
+  },
+  "1790": {
+    "cui": "C1327622",
+    "mention": "regulate"
+  },
+  "1791": {
+    "cui": "C0678935",
+    "mention": "mRNA translation"
+  },
+  "1792": {
+    "cui": "C0205421",
+    "mention": "delayed"
+  },
+  "1793": {
+    "cui": "C0678935",
+    "mention": "translation"
+  },
+  "1794": {
+    "cui": "C1367485",
+    "mention": "COX-2"
+  },
+  "1795": {
+    "cui": "C0035696",
+    "mention": "mRNAs"
+  },
+  "1796": {
+    "cui": "C0021753",
+    "mention": "IL-1β"
+  },
+  "1797": {
+    "cui": "C1292856",
+    "mention": "stimulated"
+  },
+  "1798": {
+    "cui": "C0029408",
+    "mention": "OA"
+  },
+  "1799": {
+    "cui": "C0225369",
+    "mention": "chondrocytes"
+  },
+  "1800": {
+    "cui": "C1292856",
+    "mention": "Stimulation"
+  },
+  "1801": {
+    "cui": "C0086418",
+    "mention": "human"
+  },
+  "1802": {
+    "cui": "C0225369",
+    "mention": "chondrocytes"
+  },
+  "1803": {
+    "cui": "C0021753",
+    "mention": "IL-1β"
+  },
+  "1804": {
+    "cui": "C0149784",
+    "mention": "stress response"
+  },
+  "1805": {
+    "cui": "C0017337",
+    "mention": "genes"
+  },
+  "1806": {
+    "cui": "C1158886",
+    "mention": "phosphorylation"
+  },
+  "1807": {
+    "cui": "C0013733",
+    "mention": "eIF2α"
+  },
+  "1808": {
+    "cui": "C1444748",
+    "mention": "triggered"
+  },
+  "1809": {
+    "cui": "C2247634",
+    "mention": "assembly of SGs"
+  },
+  "1810": {
+    "cui": "C0079603",
+    "mention": "immunofluorescence staining"
+  },
+  "1811": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1812": {
+    "cui": "C0005516",
+    "mention": "markers"
+  },
+  "1813": {
+    "cui": "C0387583",
+    "mention": "COX-2 protein"
+  },
+  "1814": {
+    "cui": "C0035668",
+    "mention": "RNA"
+  },
+  "1815": {
+    "cui": "C0162789",
+    "mention": "fluorescence in situ hybridization"
+  },
+  "1816": {
+    "cui": "C0035668",
+    "mention": "RNA"
+  },
+  "1817": {
+    "cui": "C0021069",
+    "mention": "immunoprecipitation"
+  },
+  "1818": {
+    "cui": "C1367485",
+    "mention": "COX-2"
+  },
+  "1819": {
+    "cui": "C0035696",
+    "mention": "mRNAs"
+  },
+  "1820": {
+    "cui": "C0333312",
+    "mention": "sequestered"
+  },
+  "1821": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1822": {
+    "cui": "C0021753",
+    "mention": "IL-1β"
+  },
+  "1823": {
+    "cui": "C1292856",
+    "mention": "stimulated"
+  },
+  "1824": {
+    "cui": "C0029408",
+    "mention": "OA"
+  },
+  "1825": {
+    "cui": "C0225369",
+    "mention": "chondrocytes"
+  },
+  "1826": {
+    "cui": "C1513916",
+    "mention": "No"
+  },
+  "1827": {
+    "cui": "C0442805",
+    "mention": "increase"
+  },
+  "1828": {
+    "cui": "C0387583",
+    "mention": "COX-2"
+  },
+  "1829": {
+    "cui": "C1171362",
+    "mention": "protein expression"
+  },
+  "1830": {
+    "cui": "C0439590",
+    "mention": "persistence"
+  },
+  "1831": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1832": {
+    "cui": "C2349975",
+    "mention": "enhanced"
+  },
+  "1833": {
+    "cui": "C1171362",
+    "mention": "expression"
+  },
+  "1834": {
+    "cui": "C0387583",
+    "mention": "COX-2 protein"
+  },
+  "1835": {
+    "cui": "C0449297",
+    "mention": "clearance"
+  },
+  "1836": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1837": {
+    "cui": "C3463820",
+    "mention": "Inhibition"
+  },
+  "1838": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1839": {
+    "cui": "C0449297",
+    "mention": "clearance"
+  },
+  "1840": {
+    "cui": "C0332206",
+    "mention": "blocked"
+  },
+  "1841": {
+    "cui": "C1367485",
+    "mention": "COX-2"
+  },
+  "1842": {
+    "cui": "C0035696",
+    "mention": "mRNA"
+  },
+  "1843": {
+    "cui": "C0678935",
+    "mention": "translation"
+  },
+  "1844": {
+    "cui": "C0332206",
+    "mention": "blocking"
+  },
+  "1845": {
+    "cui": "C2247634",
+    "mention": "assembly of SGs"
+  },
+  "1846": {
+    "cui": "C1429678",
+    "mention": "TIA-1"
+  },
+  "1847": {
+    "cui": "C0333668",
+    "mention": "depletion"
+  },
+  "1848": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "1849": {
+    "cui": "C0005572",
+    "mention": "production"
+  },
+  "1850": {
+    "cui": "C0387583",
+    "mention": "COX-2"
+  },
+  "1851": {
+    "cui": "C0012472",
+    "mention": "PGE2"
+  },
+  "1852": {
+    "cui": "C2247634",
+    "mention": "assembly of SGs"
+  },
+  "1853": {
+    "cui": "C0333312",
+    "mention": "sequestration"
+  },
+  "1854": {
+    "cui": "C1367485",
+    "mention": "COX-2"
+  },
+  "1855": {
+    "cui": "C0035696",
+    "mention": "mRNAs"
+  },
+  "1856": {
+    "cui": "C0086418",
+    "mention": "human"
+  },
+  "1857": {
+    "cui": "C0029408",
+    "mention": "OA"
+  },
+  "1858": {
+    "cui": "C0225369",
+    "mention": "chondrocytes"
+  },
+  "1859": {
+    "cui": "C0039058",
+    "mention": "pathological conditions"
+  },
+  "1860": {
+    "cui": "C1514248",
+    "mention": "Post-transcriptional regulation"
+  },
+  "1861": {
+    "cui": "C1367485",
+    "mention": "COX-2"
+  },
+  "1862": {
+    "cui": "C0678935",
+    "mention": "mRNAs translation"
+  },
+  "1863": {
+    "cui": "C1325596",
+    "mention": "SGs"
+  },
+  "1864": {
+    "cui": "C0021753",
+    "mention": "IL-1β"
+  },
+  "1865": {
+    "cui": "C0311402",
+    "mention": "catabolic"
+  },
+  "1866": {
+    "cui": "C0871261",
+    "mention": "response"
+  },
+  "1867": {
+    "cui": "C0087111",
+    "mention": "therapeutically"
+  },
+  "1868": {
+    "cui": "C0029408",
+    "mention": "OA"
+  },
+  "1869": {
+    "cui": "C0237604",
+    "mention": "Evolutionary Theory"
+  },
+  "1870": {
+    "cui": "C0025353",
+    "mention": "Mental Health"
+  },
+  "1871": {
+    "cui": "C0035168",
+    "mention": "Research"
+  },
+  "1872": {
+    "cui": "C0449445",
+    "mention": "Evolutionary approaches"
+  },
+  "1873": {
+    "cui": "C0025118",
+    "mention": "medicine"
+  },
+  "1874": {
+    "cui": "C2986669",
+    "mention": "shed light"
+  },
+  "1875": {
+    "cui": "C0439659",
+    "mention": "origins"
+  },
+  "1876": {
+    "cui": "C1314792",
+    "mention": "etiology of disease"
+  },
+  "1877": {
+    "cui": "C0449445",
+    "mention": "approach"
+  },
+  "1878": {
+    "cui": "C3526598",
+    "mention": "psychiatry"
+  },
+  "1879": {
+    "cui": "C0348080",
+    "mention": "conditions"
+  },
+  "1880": {
+    "cui": "C0019409",
+    "mention": "heterogeneous"
+  },
+  "1881": {
+    "cui": "C3840856",
+    "mention": "unknown causes"
+  },
+  "1882": {
+    "cui": "C1552617",
+    "mention": "review"
+  },
+  "1883": {
+    "cui": "C0869019",
+    "mention": "applications"
+  },
+  "1884": {
+    "cui": "C0237604",
+    "mention": "evolutionary theory"
+  },
+  "1885": {
+    "cui": "C1718246",
+    "mention": "psychiatric conditions"
+  },
+  "1886": {
+    "cui": "C0086685",
+    "mention": "natural selection"
+  },
+  "1887": {
+    "cui": "C0449445",
+    "mention": "evolutionary approach"
+  },
+  "1888": {
+    "cui": "C0348080",
+    "mention": "conditions"
+  },
+  "1889": {
+    "cui": "C0008902",
+    "mention": "classified"
+  },
+  "1890": {
+    "cui": "C0004936",
+    "mention": "disorders"
+  },
+  "1891": {
+    "cui": "C0231303",
+    "mention": "distress"
+  },
+  "1892": {
+    "cui": "C0684336",
+    "mention": "impairment"
+  },
+  "1893": {
+    "cui": "C0205245",
+    "mention": "functioning"
+  },
+  "1894": {
+    "cui": "C0392673",
+    "mention": "adaptations"
+  },
+  "1895": {
+    "cui": "C0205307",
+    "mention": "normally"
+  },
+  "1896": {
+    "cui": "C0086685",
+    "mention": "natural selection"
+  },
+  "1897": {
+    "cui": "C0348080",
+    "mention": "conditions"
+  },
+  "1898": {
+    "cui": "C0684309",
+    "mention": "illness model"
+  },
+  "1899": {
+    "cui": "C0184661",
+    "mention": "intervention strategies"
+  },
+  "1900": {
+    "cui": "C0449445",
+    "mention": "evolutionary approach"
+  },
+  "1901": {
+    "cui": "C3526598",
+    "mention": "psychiatry"
+  },
+  "1902": {
+    "cui": "C1705242",
+    "mention": "differently"
+  },
+  "1903": {
+    "cui": "C0231303",
+    "mention": "distress"
+  },
+  "1904": {
+    "cui": "C0684336",
+    "mention": "impairment"
+  },
+  "1905": {
+    "cui": "C0439855",
+    "mention": "complexity"
+  },
+  "1906": {
+    "cui": "C0086418",
+    "mention": "human"
+  },
+  "1907": {
+    "cui": "C0006104",
+    "mention": "brain"
+  },
+  "1908": {
+    "cui": "C0205307",
+    "mention": "normal"
+  },
+  "1909": {
+    "cui": "C0678908",
+    "mention": "functioning"
+  },
+  "1910": {
+    "cui": "C3245505",
+    "mention": "potential"
+  },
+  "1911": {
+    "cui": "C0262405",
+    "mention": "dysfunctions"
+  },
+  "1912": {
+    "cui": "C0040223",
+    "mention": "evolutionary time"
+  },
+  "1913": {
+    "cui": "C0086685",
+    "mention": "natural selection"
+  },
+  "1914": {
+    "cui": "C0439659",
+    "mention": "evolutionary origins"
+  },
+  "1915": {
+    "cui": "C1718246",
+    "mention": "psychiatric conditions"
+  },
+  "1916": {
+    "cui": "C1511545",
+    "mention": "crucial"
+  },
+  "1917": {
+    "cui": "C1705248",
+    "mention": "component"
+  },
+  "1918": {
+    "cui": "C1314792",
+    "mention": "etiology"
+  },
+  "1919": {
+    "cui": "C1272745",
+    "mention": "Improving"
+  },
+  "1920": {
+    "cui": "C0814435",
+    "mention": "Early Identification"
+  },
+  "1921": {
+    "cui": "C1947933",
+    "mention": "Care"
+  },
+  "1922": {
+    "cui": "C0008059",
+    "mention": "Children"
+  },
+  "1923": {
+    "cui": "C4315362",
+    "mention": "Autism Spectrum Disorder"
+  },
+  "1924": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "1925": {
+    "cui": "C4315362",
+    "mention": "autism spectrum disorder"
+  },
+  "1926": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1927": {
+    "cui": "C0237433",
+    "mention": "pediatricians"
+  },
+  "1928": {
+    "cui": "C0558092",
+    "mention": "lack of confidence"
+  },
+  "1929": {
+    "cui": "C1947933",
+    "mention": "care"
+  },
+  "1930": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "1931": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1932": {
+    "cui": "C0033137",
+    "mention": "primary care"
+  },
+  "1933": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "1934": {
+    "cui": "C0682053",
+    "mention": "toddlers"
+  },
+  "1935": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1936": {
+    "cui": "C0184511",
+    "mention": "improve"
+  },
+  "1937": {
+    "cui": "C0031831",
+    "mention": "physicians"
+  },
+  "1938": {
+    "cui": "C0600564",
+    "mention": "self-efficacy"
+  },
+  "1939": {
+    "cui": "C1947933",
+    "mention": "care"
+  },
+  "1940": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "1941": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1942": {
+    "cui": "C0033137",
+    "mention": "primary care practices"
+  },
+  "1943": {
+    "cui": "C0439231",
+    "mention": "month"
+  },
+  "1944": {
+    "cui": "C1561598",
+    "mention": "learning collaborative"
+  },
+  "1945": {
+    "cui": "C1561598",
+    "mention": "LC"
+  },
+  "1946": {
+    "cui": "C0184511",
+    "mention": "improve"
+  },
+  "1947": {
+    "cui": "C0020792",
+    "mention": "identification"
+  },
+  "1948": {
+    "cui": "C1947933",
+    "mention": "care"
+  },
+  "1949": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "1950": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1951": {
+    "cui": "C0332177",
+    "mention": "Monthly"
+  },
+  "1952": {
+    "cui": "C0184805",
+    "mention": "chart audits"
+  },
+  "1953": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1954": {
+    "cui": "C1710032",
+    "mention": "screening tool"
+  },
+  "1955": {
+    "cui": "C0439231",
+    "mention": "month"
+  },
+  "1956": {
+    "cui": "C1512346",
+    "mention": "visits"
+  },
+  "1957": {
+    "cui": "C0031831",
+    "mention": "Physicians"
+  },
+  "1958": {
+    "cui": "C1254367",
+    "mention": "pre-LC"
+  },
+  "1959": {
+    "cui": "C1254367",
+    "mention": "post-LC"
+  },
+  "1960": {
+    "cui": "C0038951",
+    "mention": "surveys"
+  },
+  "1961": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "1962": {
+    "cui": "C0600564",
+    "mention": "self-efficacy"
+  },
+  "1963": {
+    "cui": "C1947933",
+    "mention": "care"
+  },
+  "1964": {
+    "cui": "C0030971",
+    "mention": "perceived"
+  },
+  "1965": {
+    "cui": "C0679881",
+    "mention": "barriers"
+  },
+  "1966": {
+    "cui": "C1708476",
+    "mention": "implementation"
+  },
+  "1967": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "1968": {
+    "cui": "C1947933",
+    "mention": "caring"
+  },
+  "1969": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "1970": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1971": {
+    "cui": "C1561598",
+    "mention": "LC"
+  },
+  "1972": {
+    "cui": "C0439231",
+    "mention": "month"
+  },
+  "1973": {
+    "cui": "C1512346",
+    "mention": "visits"
+  },
+  "1974": {
+    "cui": "C1301725",
+    "mention": "documented"
+  },
+  "1975": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1976": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "1977": {
+    "cui": "C0439231",
+    "mention": "month"
+  },
+  "1978": {
+    "cui": "C1561598",
+    "mention": "LC"
+  },
+  "1979": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1980": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "1981": {
+    "cui": "C0439234",
+    "mention": "years"
+  },
+  "1982": {
+    "cui": "C1561598",
+    "mention": "LC"
+  },
+  "1983": {
+    "cui": "C0018762",
+    "mention": "survey"
+  },
+  "1984": {
+    "cui": "C1561598",
+    "mention": "LC"
+  },
+  "1985": {
+    "cui": "C0031831",
+    "mention": "physicians"
+  },
+  "1986": {
+    "cui": "C2986411",
+    "mention": "improvement"
+  },
+  "1987": {
+    "cui": "C1947933",
+    "mention": "care"
+  },
+  "1988": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "1989": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1990": {
+    "cui": "C0030971",
+    "mention": "perceived"
+  },
+  "1991": {
+    "cui": "C0679881",
+    "mention": "barriers"
+  },
+  "1992": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "1993": {
+    "cui": "C1947933",
+    "mention": "caring"
+  },
+  "1994": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "1995": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1996": {
+    "cui": "C1561598",
+    "mention": "LC"
+  },
+  "1997": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "1998": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "1999": {
+    "cui": "C0682053",
+    "mention": "toddlers"
+  },
+  "2000": {
+    "cui": "C0031831",
+    "mention": "physicians"
+  },
+  "2001": {
+    "cui": "C0600564",
+    "mention": "self-efficacy"
+  },
+  "2002": {
+    "cui": "C0150499",
+    "mention": "caring"
+  },
+  "2003": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "2004": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "2005": {
+    "cui": "C0033137",
+    "mention": "primary care"
+  },
+  "2006": {
+    "cui": "C1710032",
+    "mention": "screening"
+  },
+  "2007": {
+    "cui": "C0008973",
+    "mention": "skills"
+  },
+  "2008": {
+    "cui": "C0518904",
+    "mention": "knowledge"
+  },
+  "2009": {
+    "cui": "C0184511",
+    "mention": "improve"
+  },
+  "2010": {
+    "cui": "C0449243",
+    "mention": "timing"
+  },
+  "2011": {
+    "cui": "C1704656",
+    "mention": "diagnosis"
+  },
+  "2012": {
+    "cui": "C1704686",
+    "mention": "initiation"
+  },
+  "2013": {
+    "cui": "C0087111",
+    "mention": "treatment"
+  },
+  "2014": {
+    "cui": "C0034379",
+    "mention": "quality of care"
+  },
+  "2015": {
+    "cui": "C1274040",
+    "mention": "outcomes"
+  },
+  "2016": {
+    "cui": "C0008059",
+    "mention": "children"
+  },
+  "2017": {
+    "cui": "C4315362",
+    "mention": "ASD"
+  },
+  "2018": {
+    "cui": "C0026237",
+    "mention": "Mitochondrial"
+  },
+  "2019": {
+    "cui": "C3825563",
+    "mention": "Ultrastructure"
+  },
+  "2020": {
+    "cui": "C1622453",
+    "mention": "Glucose Signaling Pathways"
+  },
+  "2021": {
+    "cui": "C0290730",
+    "mention": "Kv1.3 Ion Channel"
+  },
+  "2022": {
+    "cui": "C0242613",
+    "mention": "Gene-targeted"
+  },
+  "2023": {
+    "cui": "C0017260",
+    "mention": "deletion"
+  },
+  "2024": {
+    "cui": "C0290730",
+    "mention": "potassium channel Kv1.3"
+  },
+  "2025": {
+    "cui": "C0456984",
+    "mention": "Kv1.3(-∕-)) results i"
+  },
+  "2026": {
+    "cui": "C0025929",
+    "mention": "uper-smeller\" mice"
+  },
+  "2027": {
+    "cui": "C0445254",
+    "mention": "nsory p"
+  },
+  "2028": {
+    "cui": "C0031437",
+    "mention": "enotype t"
+  },
+  "2029": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "2030": {
+    "cui": "C0439826",
+    "mention": "olfactory"
+  },
+  "2031": {
+    "cui": "C0085732",
+    "mention": "ability"
+  },
+  "2032": {
+    "cui": "C0439826",
+    "mention": "olfactory"
+  },
+  "2033": {
+    "cui": "C0260041",
+    "mention": "circuitry"
+  },
+  "2034": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "2035": {
+    "cui": "C2346714",
+    "mention": "abundance"
+  },
+  "2036": {
+    "cui": "C0230758",
+    "mention": "olfactory cilia"
+  },
+  "2037": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "2038": {
+    "cui": "C0597360",
+    "mention": "expression"
+  },
+  "2039": {
+    "cui": "C0164313",
+    "mention": "odorant receptors"
+  },
+  "2040": {
+    "cui": "C0033684",
+    "mention": "G-protein, Golf"
+  },
+  "2041": {
+    "cui": "C0025929",
+    "mention": "Kv1.3(-∕-) mice a"
+  },
+  "2042": {
+    "cui": "C0311400",
+    "mention": "metabolic p"
+  },
+  "2043": {
+    "cui": "C0031437",
+    "mention": "enotype i"
+  },
+  "2044": {
+    "cui": "C1611820",
+    "mention": "wer b"
+  },
+  "2045": {
+    "cui": "C0005910",
+    "mention": "dy weight a"
+  },
+  "2046": {
+    "cui": "C0205216",
+    "mention": "creased a"
+  },
+  "2047": {
+    "cui": "C1563743",
+    "mention": "iposity,"
+  },
+  "2048": {
+    "cui": "C0429629",
+    "mention": "creased total energy expenditure"
+  },
+  "2049": {
+    "cui": "C0429629",
+    "mention": "TEE"
+  },
+  "2050": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "2051": {
+    "cui": "C0023946",
+    "mention": "locomotor activity"
+  },
+  "2052": {
+    "cui": "C0237834",
+    "mention": "resistance"
+  },
+  "2053": {
+    "cui": "C0012155",
+    "mention": "diet"
+  },
+  "2054": {
+    "cui": "C0017391",
+    "mention": "genetic-induced"
+  },
+  "2055": {
+    "cui": "C0028754",
+    "mention": "obesity"
+  },
+  "2056": {
+    "cui": "C0935919",
+    "mention": "cellular aspects"
+  },
+  "2057": {
+    "cui": "C0441712",
+    "mention": "mechanism"
+  },
+  "2058": {
+    "cui": "C1517945",
+    "mention": "loss"
+  },
+  "2059": {
+    "cui": "C0290730",
+    "mention": "Kv1.3 channel"
+  },
+  "2060": {
+    "cui": "C0028936",
+    "mention": "olfactory bulb"
+  },
+  "2061": {
+    "cui": "C0028936",
+    "mention": "OB"
+  },
+  "2062": {
+    "cui": "C1148560",
+    "mention": "glucose utilization"
+  },
+  "2063": {
+    "cui": "C0870882",
+    "mention": "metabolic rate"
+  },
+  "2064": {
+    "cui": "C0162788",
+    "mention": "in situ hybridization"
+  },
+  "2065": {
+    "cui": "C0290730",
+    "mention": "Kv1.3"
+  },
+  "2066": {
+    "cui": "C0021641",
+    "mention": "insulin"
+  },
+  "2067": {
+    "cui": "C1701901",
+    "mention": "dependent"
+  },
+  "2068": {
+    "cui": "C0166441",
+    "mention": "glucose transporter type 4"
+  },
+  "2069": {
+    "cui": "C0166441",
+    "mention": "GLUT4"
+  },
+  "2070": {
+    "cui": "C0026264",
+    "mention": "mitral"
+  },
+  "2071": {
+    "cui": "C0007634",
+    "mention": "cell layer"
+  },
+  "2072": {
+    "cui": "C0028936",
+    "mention": "OB"
+  },
+  "2073": {
+    "cui": "C0332453",
+    "mention": "Disruption"
+  },
+  "2074": {
+    "cui": "C0290730",
+    "mention": "Kv1.3"
+  },
+  "2075": {
+    "cui": "C0457405",
+    "mention": "conduction"
+  },
+  "2076": {
+    "cui": "C0026882",
+    "mention": "pore mutation"
+  },
+  "2077": {
+    "cui": "C0026882",
+    "mention": "W386F Kv1.3"
+  },
+  "2078": {
+    "cui": "C0599893",
+    "mention": "translocate"
+  },
+  "2079": {
+    "cui": "C0166441",
+    "mention": "GLUT4"
+  },
+  "2080": {
+    "cui": "C0007603",
+    "mention": "plasma membrane"
+  },
+  "2081": {
+    "cui": "C2936239",
+    "mention": "HEK 293 cells"
+  },
+  "2082": {
+    "cui": "C0037361",
+    "mention": "olfactory sensory perception"
+  },
+  "2083": {
+    "cui": "C0024501",
+    "mention": "maintenance"
+  },
+  "2084": {
+    "cui": "C0001272",
+    "mention": "action potential (AP)"
+  },
+  "2085": {
+    "cui": "C0026264",
+    "mention": "mitral"
+  },
+  "2086": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "2087": {
+    "cui": "C0028936",
+    "mention": "OB"
+  },
+  "2088": {
+    "cui": "C0290730",
+    "mention": "Kv1.3"
+  },
+  "2089": {
+    "cui": "C0026237",
+    "mention": "mitochondria"
+  },
+  "2090": {
+    "cui": "C0029219",
+    "mention": "organelle"
+  },
+  "2091": {
+    "cui": "C0026264",
+    "mention": "mitral"
+  },
+  "2092": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "2093": {
+    "cui": "C1520150",
+    "mention": "wildtype"
+  },
+  "2094": {
+    "cui": "C1520150",
+    "mention": "WT"
+  },
+  "2095": {
+    "cui": "C0025929",
+    "mention": "Kv1.3(-∕-) male mice"
+  },
+  "2096": {
+    "cui": "C0521974",
+    "mention": "oderately high-fat diet ("
+  },
+  "2097": {
+    "cui": "C0521974",
+    "mention": "HF,"
+  },
+  "2098": {
+    "cui": "C0439231",
+    "mention": "months"
+  },
+  "2099": {
+    "cui": "C0028936",
+    "mention": "OB"
+  },
+  "2100": {
+    "cui": "C3825563",
+    "mention": "ultrastructure"
+  },
+  "2101": {
+    "cui": "C0678118",
+    "mention": "transmission electron microscopy"
+  },
+  "2102": {
+    "cui": "C1520150",
+    "mention": "WT mice"
+  },
+  "2103": {
+    "cui": "C0026237",
+    "mention": "mitochondria"
+  },
+  "2104": {
+    "cui": "C0442800",
+    "mention": "enlarged"
+  },
+  "2105": {
+    "cui": "C0028754",
+    "mention": "diet-induced obesity"
+  },
+  "2106": {
+    "cui": "C0028754",
+    "mention": "DIO"
+  },
+  "2107": {
+    "cui": "C0026237",
+    "mention": "mitochondria"
+  },
+  "2108": {
+    "cui": "C1820119",
+    "mention": "mitophagy"
+  },
+  "2109": {
+    "cui": "C0026237",
+    "mention": "mitochondria"
+  },
+  "2110": {
+    "cui": "C0547044",
+    "mention": "smaller"
+  },
+  "2111": {
+    "cui": "C0025929",
+    "mention": "Kv1.3(-∕-) mice c"
+  },
+  "2112": {
+    "cui": "C1520150",
+    "mention": "T mice."
+  },
+  "2113": {
+    "cui": "C0311400",
+    "mention": "etabolic r"
+  },
+  "2114": {
+    "cui": "C0028754",
+    "mention": "IO,"
+  },
+  "2115": {
+    "cui": "C0025929",
+    "mention": "v1.3(-∕-) mice ha"
+  },
+  "2116": {
+    "cui": "C0026237",
+    "mention": "ochondria in"
+  },
+  "2117": {
+    "cui": "C0552389",
+    "mention": "s sectional"
+  },
+  "2118": {
+    "cui": "C0205146",
+    "mention": "area"
+  },
+  "2119": {
+    "cui": "C2346714",
+    "mention": "abundance"
+  },
+  "2120": {
+    "cui": "C0521974",
+    "mention": "modified diet"
+  },
+  "2121": {
+    "cui": "C0332453",
+    "mention": "disruption"
+  },
+  "2122": {
+    "cui": "C0290730",
+    "mention": "Kv1.3 channel"
+  },
+  "2123": {
+    "cui": "C0028936",
+    "mention": "OB"
+  },
+  "2124": {
+    "cui": "C0429629",
+    "mention": "TEE"
+  },
+  "2125": {
+    "cui": "C0290730",
+    "mention": "Kv1.3"
+  },
+  "2126": {
+    "cui": "C0026237",
+    "mention": "mitochondrial structure"
+  },
+  "2127": {
+    "cui": "C1148560",
+    "mention": "glucose utilization"
+  },
+  "2128": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "2129": {
+    "cui": "C0025519",
+    "mention": "metabolism"
+  },
+  "2130": {
+    "cui": "C0028936",
+    "mention": "OB"
+  },
+  "2131": {
+    "cui": "C3146288",
+    "mention": "Chinese Herbal"
+  },
+  "2132": {
+    "cui": "C0439962",
+    "mention": "Mixture"
+  },
+  "2133": {
+    "cui": "C1528399",
+    "mention": "Tien-Hsien Liquid"
+  },
+  "2134": {
+    "cui": "C0205217",
+    "mention": "Augments"
+  },
+  "2135": {
+    "cui": "C2986475",
+    "mention": "Anticancer"
+  },
+  "2136": {
+    "cui": "C0020964",
+    "mention": "Immunity"
+  },
+  "2137": {
+    "cui": "C0597032",
+    "mention": "Tumor Cell"
+  },
+  "2138": {
+    "cui": "C1116171",
+    "mention": "Vaccinated"
+  },
+  "2139": {
+    "cui": "C0025929",
+    "mention": "Mice"
+  },
+  "2140": {
+    "cui": "C3146288",
+    "mention": "Chinese herbal"
+  },
+  "2141": {
+    "cui": "C0439962",
+    "mention": "mixture"
+  },
+  "2142": {
+    "cui": "C1528399",
+    "mention": "Tien-Hsien liquid"
+  },
+  "2143": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2144": {
+    "cui": "C2986475",
+    "mention": "anticancer"
+  },
+  "2145": {
+    "cui": "C0242295",
+    "mention": "dietary supplement"
+  },
+  "2146": {
+    "cui": "C0439234",
+    "mention": "years"
+  },
+  "2147": {
+    "cui": "C0205156",
+    "mention": "previous"
+  },
+  "2148": {
+    "cui": "C2603343",
+    "mention": "studies"
+  },
+  "2149": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2150": {
+    "cui": "C0443264",
+    "mention": "modulate"
+  },
+  "2151": {
+    "cui": "C0301872",
+    "mention": "immune response"
+  },
+  "2152": {
+    "cui": "C3463820",
+    "mention": "inhibit"
+  },
+  "2153": {
+    "cui": "C0598934",
+    "mention": "tumor growth"
+  },
+  "2154": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "2155": {
+    "cui": "C0220825",
+    "mention": "evaluated"
+  },
+  "2156": {
+    "cui": "C1280500",
+    "mention": "effect"
+  },
+  "2157": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2158": {
+    "cui": "C2986475",
+    "mention": "anticancer"
+  },
+  "2159": {
+    "cui": "C0301872",
+    "mention": "immune response"
+  },
+  "2160": {
+    "cui": "C0025929",
+    "mention": "mice"
+  },
+  "2161": {
+    "cui": "C1116171",
+    "mention": "vaccinated"
+  },
+  "2162": {
+    "cui": "C0017011",
+    "mention": "γ-ray"
+  },
+  "2163": {
+    "cui": "C1282930",
+    "mention": "irradiated"
+  },
+  "2164": {
+    "cui": "C0597032",
+    "mention": "tumor cells"
+  },
+  "2165": {
+    "cui": "C2986475",
+    "mention": "antitumor"
+  },
+  "2166": {
+    "cui": "C1280500",
+    "mention": "effect"
+  },
+  "2167": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2168": {
+    "cui": "C0521095",
+    "mention": "determined"
+  },
+  "2169": {
+    "cui": "C0025929",
+    "mention": "mice"
+  },
+  "2170": {
+    "cui": "C1116171",
+    "mention": "vaccinated"
+  },
+  "2171": {
+    "cui": "C0085983",
+    "mention": "low-tumorigenic CT-26-low colon cancer cells"
+  },
+  "2172": {
+    "cui": "C2985557",
+    "mention": "γ-ray-irradiated"
+  },
+  "2173": {
+    "cui": "C0085983",
+    "mention": "high-tumorigenic CT-26-high colon cancer cells"
+  },
+  "2174": {
+    "cui": "C0237753",
+    "mention": "number"
+  },
+  "2175": {
+    "cui": "C0022688",
+    "mention": "natural killer (NK) cells"
+  },
+  "2176": {
+    "cui": "C0039194",
+    "mention": "T lymphocytes"
+  },
+  "2177": {
+    "cui": "C0037993",
+    "mention": "spleen"
+  },
+  "2178": {
+    "cui": "C0936012",
+    "mention": "analyzed"
+  },
+  "2179": {
+    "cui": "C0016263",
+    "mention": "flow cytometry"
+  },
+  "2180": {
+    "cui": "C0027651",
+    "mention": "tumor"
+  },
+  "2181": {
+    "cui": "C0599733",
+    "mention": "killing"
+  },
+  "2182": {
+    "cui": "C0441655",
+    "mention": "activities"
+  },
+  "2183": {
+    "cui": "C0022688",
+    "mention": "NK cells"
+  },
+  "2184": {
+    "cui": "C0039195",
+    "mention": "cytotoxic T lymphocytes"
+  },
+  "2185": {
+    "cui": "C0039195",
+    "mention": "CTLs"
+  },
+  "2186": {
+    "cui": "C0936012",
+    "mention": "analyzed"
+  },
+  "2187": {
+    "cui": "C0016263",
+    "mention": "flow cytometry"
+  },
+  "2188": {
+    "cui": "C0085983",
+    "mention": "YAC-1"
+  },
+  "2189": {
+    "cui": "C0085983",
+    "mention": "CT-26-high cells"
+  },
+  "2190": {
+    "cui": "C1521840",
+    "mention": "target"
+  },
+  "2191": {
+    "cui": "C0007634",
+    "mention": "cells"
+  },
+  "2192": {
+    "cui": "C0441889",
+    "mention": "levels"
+  },
+  "2193": {
+    "cui": "C0021745",
+    "mention": "IFN-γ"
+  },
+  "2194": {
+    "cui": "C0021756",
+    "mention": "IL-2"
+  },
+  "2195": {
+    "cui": "C1456820",
+    "mention": "TNF-α"
+  },
+  "2196": {
+    "cui": "C0521095",
+    "mention": "determined by"
+  },
+  "2197": {
+    "cui": "C0014441",
+    "mention": "ELISA"
+  },
+  "2198": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2199": {
+    "cui": "C1260953",
+    "mention": "suppressed"
+  },
+  "2200": {
+    "cui": "C0018270",
+    "mention": "growth"
+  },
+  "2201": {
+    "cui": "C0085983",
+    "mention": "CT-26-high tumor"
+  },
+  "2202": {
+    "cui": "C0025929",
+    "mention": "mice"
+  },
+  "2203": {
+    "cui": "C1116171",
+    "mention": "vaccinated"
+  },
+  "2204": {
+    "cui": "C0085983",
+    "mention": "low-tumorigenic CT-26-low cells"
+  },
+  "2205": {
+    "cui": "C2985557",
+    "mention": "γ-irradiated"
+  },
+  "2206": {
+    "cui": "C0085983",
+    "mention": "CT-26-high cells"
+  },
+  "2207": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2208": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "2209": {
+    "cui": "C0022688",
+    "mention": "NK cells"
+  },
+  "2210": {
+    "cui": "C0039215",
+    "mention": "CD4+ T lymphocytes"
+  },
+  "2211": {
+    "cui": "C0037993",
+    "mention": "spleen"
+  },
+  "2212": {
+    "cui": "C2349975",
+    "mention": "enhanced"
+  },
+  "2213": {
+    "cui": "C0027651",
+    "mention": "tumor"
+  },
+  "2214": {
+    "cui": "C0599733",
+    "mention": "killing"
+  },
+  "2215": {
+    "cui": "C0441655",
+    "mention": "activities"
+  },
+  "2216": {
+    "cui": "C0022688",
+    "mention": "NK cells"
+  },
+  "2217": {
+    "cui": "C0039195",
+    "mention": "CTL"
+  },
+  "2218": {
+    "cui": "C0025929",
+    "mention": "mice"
+  },
+  "2219": {
+    "cui": "C1116171",
+    "mention": "vaccinated"
+  },
+  "2220": {
+    "cui": "C2985557",
+    "mention": "γ-irradiated"
+  },
+  "2221": {
+    "cui": "C0085983",
+    "mention": "CT-26-high cells"
+  },
+  "2222": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2223": {
+    "cui": "C0205217",
+    "mention": "increased"
+  },
+  "2224": {
+    "cui": "C0205245",
+    "mention": "production"
+  },
+  "2225": {
+    "cui": "C0021745",
+    "mention": "IFN-γ"
+  },
+  "2226": {
+    "cui": "C0021756",
+    "mention": "IL-2"
+  },
+  "2227": {
+    "cui": "C1456820",
+    "mention": "TNF-α"
+  },
+  "2228": {
+    "cui": "C0025929",
+    "mention": "mice"
+  },
+  "2229": {
+    "cui": "C1116171",
+    "mention": "vaccinated"
+  },
+  "2230": {
+    "cui": "C2985557",
+    "mention": "γ-irradiated"
+  },
+  "2231": {
+    "cui": "C0085983",
+    "mention": "CT-26-high cells"
+  },
+  "2232": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2233": {
+    "cui": "C2349975",
+    "mention": "enhance"
+  },
+  "2234": {
+    "cui": "C2986475",
+    "mention": "antitumor"
+  },
+  "2235": {
+    "cui": "C0301872",
+    "mention": "immune responses"
+  },
+  "2236": {
+    "cui": "C0025929",
+    "mention": "mice"
+  },
+  "2237": {
+    "cui": "C1116171",
+    "mention": "vaccinated"
+  },
+  "2238": {
+    "cui": "C0205245",
+    "mention": "killed"
+  },
+  "2239": {
+    "cui": "C0597032",
+    "mention": "tumor cells"
+  },
+  "2240": {
+    "cui": "C1274040",
+    "mention": "results"
+  },
+  "2241": {
+    "cui": "C1528399",
+    "mention": "THL"
+  },
+  "2242": {
+    "cui": "C1148474",
+    "mention": "complementary medicine"
+  },
+  "2243": {
+    "cui": "C0006826",
+    "mention": "cancer"
+  },
+  "2244": {
+    "cui": "C0030705",
+    "mention": "patients"
+  },
+  "2245": {
+    "cui": "C0205156",
+    "mention": "previously"
+  },
+  "2246": {
+    "cui": "C1522326",
+    "mention": "treated"
+  },
+  "2247": {
+    "cui": "C0376659",
+    "mention": "killed tumor cell vaccines"
+  },
+  "2248": {
+    "cui": "C1522449",
+    "mention": "radiotherapy"
+  },
+  "2249": {
+    "cui": "C3665472",
+    "mention": "chemotherapy"
+  },
+  "2250": {
+    "cui": "C3826426",
+    "mention": "Dynamics"
+  },
+  "2251": {
+    "cui": "C0021853",
+    "mention": "intestinal"
+  },
+  "2252": {
+    "cui": "C0870883",
+    "mention": "metabolites"
+  },
+  "2253": {
+    "cui": "C0332437",
+    "mention": "morphology"
+  },
+  "2254": {
+    "cui": "C0871261",
+    "mention": "response"
+  },
+  "2255": {
+    "cui": "C0267454",
+    "mention": "necrotic enteritis"
+  },
+  "2256": {
+    "cui": "C0805586",
+    "mention": "challenge"
+  },
+  "2257": {
+    "cui": "C2698565",
+    "mention": "broiler chickens"
+  },
+  "2258": {
+    "cui": "C0205345",
+    "mention": "relatively"
+  },
+  "2259": {
+    "cui": "C0700321",
+    "mention": "small"
+  },
+  "2260": {
+    "cui": "C1880177",
+    "mention": "contribution"
+  },
+  "2261": {
+    "cui": "C0311400",
+    "mention": "metabolizable"
+  },
+  "2262": {
+    "cui": "C1442080",
+    "mention": "energy"
+  },
+  "2263": {
+    "cui": "C0015691",
+    "mention": "volatile fatty acids"
+  },
+  "2264": {
+    "cui": "C0015691",
+    "mention": "VFAs"
+  },
+  "2265": {
+    "cui": "C1999230",
+    "mention": "provide"
+  },
+  "2266": {
+    "cui": "C2698565",
+    "mention": "chickens"
+  },
+  "2267": {
+    "cui": "C0369760",
+    "mention": "organic acids"
+  },
+  "2268": {
+    "cui": "C0700287",
+    "mention": "reported"
+  },
+  "2269": {
+    "cui": "C0086387",
+    "mention": "beneficial"
+  },
+  "2270": {
+    "cui": "C1705810",
+    "mention": "roles"
+  },
+  "2271": {
+    "cui": "C0017189",
+    "mention": "gastrointestinal tract"
+  },
+  "2272": {
+    "cui": "C0017189",
+    "mention": "GIT"
+  },
+  "2273": {
+    "cui": "C0005595",
+    "mention": "birds"
+  },
+  "2274": {
+    "cui": "C2249823",
+    "mention": "inhibition of the growth"
+  },
+  "2275": {
+    "cui": "C0450254",
+    "mention": "pathogenic"
+  },
+  "2276": {
+    "cui": "C0004611",
+    "mention": "bacteria"
+  },
+  "2277": {
+    "cui": "C1533716",
+    "mention": "information"
+  },
+  "2278": {
+    "cui": "C3826426",
+    "mention": "dynamics"
+  },
+  "2279": {
+    "cui": "C0870883",
+    "mention": "metabolites"
+  },
+  "2280": {
+    "cui": "C0017189",
+    "mention": "GIT"
+  },
+  "2281": {
+    "cui": "C2698565",
+    "mention": "chickens"
+  },
+  "2282": {
+    "cui": "C0231180",
+    "mention": "scarce"
+  },
+  "2283": {
+    "cui": "C0205555",
+    "mention": "especially"
+  },
+  "2284": {
+    "cui": "C1299555",
+    "mention": "disease conditions"
+  },
+  "2285": {
+    "cui": "C0267454",
+    "mention": "necrotic enteritis"
+  },
+  "2286": {
+    "cui": "C0267454",
+    "mention": "NE"
+  },
+  "2287": {
+    "cui": "C1292732",
+    "mention": "investigated"
+  },
+  "2288": {
+    "cui": "C3826426",
+    "mention": "dynamics"
+  },
+  "2289": {
+    "cui": "C0015691",
+    "mention": "VFAs"
+  },
+  "2290": {
+    "cui": "C0064582",
+    "mention": "lactic acid"
+  },
+  "2291": {
+    "cui": "C0021853",
+    "mention": "intestinal"
+  },
+  "2292": {
+    "cui": "C0332437",
+    "mention": "morphology"
+  },
+  "2293": {
+    "cui": "C0871261",
+    "mention": "response"
+  },
+  "2294": {
+    "cui": "C0267454",
+    "mention": "NE"
+  },
+  "2295": {
+    "cui": "C0032946",
+    "mention": "predisposing factors"
+  },
+  "2296": {
+    "cui": "C0442802",
+    "mention": "excessive"
+  },
+  "2297": {
+    "cui": "C0012155",
+    "mention": "dietary"
+  },
+  "2298": {
+    "cui": "C3687772",
+    "mention": "fishmeal"
+  },
+  "2299": {
+    "cui": "C0013739",
+    "mention": "Eimeria"
+  },
+  "2300": {
+    "cui": "C2987620",
+    "mention": "inoculation"
+  },
+  "2301": {
+    "cui": "C0449411",
+    "mention": "causative agent"
+  },
+  "2302": {
+    "cui": "C0009063",
+    "mention": "Clostridium perfringens"
+  },
+  "2303": {
+    "cui": "C3492213",
+    "mention": "NetB toxin"
+  },
+  "2304": {
+    "cui": "C0205664",
+    "mention": "experiment"
+  },
+  "2305": {
+    "cui": "C0015320",
+    "mention": "designed"
+  },
+  "2306": {
+    "cui": "C0681865",
+    "mention": "factorial"
+  },
+  "2307": {
+    "cui": "C0586001",
+    "mention": "arrangement"
+  },
+  "2308": {
+    "cui": "C0087111",
+    "mention": "treatments"
+  },
+  "2309": {
+    "cui": "C3687772",
+    "mention": "fishmeal"
+  },
+  "2310": {
+    "cui": "C2987508",
+    "mention": "feeding"
+  },
+  "2311": {
+    "cui": "C0013739",
+    "mention": "Eimeria"
+  },
+  "2312": {
+    "cui": "C2987620",
+    "mention": "inoculation"
+  },
+  "2313": {
+    "cui": "C0009063",
+    "mention": "C. perfringens"
+  },
+  "2314": {
+    "cui": "C0805586",
+    "mention": "challenge"
+  },
+  "2315": {
+    "cui": "C0683954",
+    "mention": "results"
+  },
+  "2316": {
+    "cui": "C1521761",
+    "mention": "factors"
+  },
+  "2317": {
+    "cui": "C0750502",
+    "mention": "significantly"
+  },
+  "2318": {
+    "cui": "C4054723",
+    "mention": "influenced"
+  },
+  "2319": {
+    "cui": "C0486616",
+    "mention": "composition"
+  },
+  "2320": {
+    "cui": "C1446561",
+    "mention": "concentration"
+  },
+  "2321": {
+    "cui": "C0015691",
+    "mention": "VFAs"
+  },
+  "2322": {
+    "cui": "C0064582",
+    "mention": "lactic acids"
+  },
+  "2323": {
+    "cui": "C0020283",
+    "mention": "pH"
+  },
+  "2324": {
+    "cui": "C0679557",
+    "mention": "histomorphometry"
+  },
+  "2325": {
+    "cui": "C0392747",
+    "mention": "changes"
+  },
+  "2326": {
+    "cui": "C3898777",
+    "mention": "important"
+  },
+  "2327": {
+    "cui": "C0332162",
+    "mention": "onset of"
+  },
+  "2328": {
+    "cui": "C0267454",
+    "mention": "NE"
+  },
+  "2329": {
+    "cui": "C0871261",
+    "mention": "synergetic responses"
+  },
+  "2330": {
+    "cui": "C4072789",
+    "mention": "micro environmental"
+  },
+  "2331": {
+    "cui": "C0038435",
+    "mention": "stress"
+  },
+  "2332": {
+    "cui": "C0013739",
+    "mention": "Eimeria"
+  },
+  "2333": {
+    "cui": "C0205172",
+    "mention": "more"
+  },
+  "2334": {
+    "cui": "C3898777",
+    "mention": "important"
+  },
+  "2335": {
+    "cui": "C3687772",
+    "mention": "fishmeal"
+  },
+  "2336": {
+    "cui": "C0231203",
+    "mention": "predisposing"
+  },
+  "2337": {
+    "cui": "C0005595",
+    "mention": "birds"
+  },
+  "2338": {
+    "cui": "C0267454",
+    "mention": "NE"
+  },
+  "2339": {
+    "cui": "C0542341",
+    "mention": "application"
+  },
+  "2340": {
+    "cui": "C0013739",
+    "mention": "Eimeria"
+  },
+  "2341": {
+    "cui": "C0267454",
+    "mention": "NE"
+  },
+  "2342": {
+    "cui": "C0805586",
+    "mention": "challenge"
+  },
+  "2343": {
+    "cui": "C1999230",
+    "mention": "provides"
+  },
+  "2344": {
+    "cui": "C0332290",
+    "mention": "consistent"
+  },
+  "2345": {
+    "cui": "C0679864",
+    "mention": "success"
+  },
+  "2346": {
+    "cui": "C0205263",
+    "mention": "inducing"
+  },
+  "2347": {
+    "cui": "C0012634",
+    "mention": "disease"
+  },
+  "2348": {
+    "cui": "C0311400",
+    "mention": "metabolic"
+  },
+  "2349": {
+    "cui": "C0871261",
+    "mention": "responses"
+  },
+  "2350": {
+    "cui": "C0879626",
+    "mention": "adverse"
+  },
+  "2351": {
+    "cui": "C1521761",
+    "mention": "factors"
+  },
+  "2352": {
+    "cui": "C0442802",
+    "mention": "excessive"
+  },
+  "2353": {
+    "cui": "C0012155",
+    "mention": "dietary"
+  },
+  "2354": {
+    "cui": "C3687772",
+    "mention": "fishmeal"
+  },
+  "2355": {
+    "cui": "C0013739",
+    "mention": "Eimeria"
+  },
+  "2356": {
+    "cui": "C3714514",
+    "mention": "infection"
+  },
+  "2357": {
+    "cui": "C0439855",
+    "mention": "complex"
+  },
+  "2358": {
+    "cui": "C0522510",
+    "mention": "intensive"
+  },
+  "2359": {
+    "cui": "C0015264",
+    "mention": "efforts"
+  },
+  "2360": {
+    "cui": "C1514873",
+    "mention": "required"
+  },
+  "2361": {
+    "cui": "C0332272",
+    "mention": "better"
+  },
+  "2362": {
+    "cui": "C0162340",
+    "mention": "understand"
+  },
+  "2363": {
+    "cui": "C0267454",
+    "mention": "NE"
+  },
+  "2364": {
+    "cui": "C0085557",
+    "mention": "control of the disease"
+  },
+  "2365": {
+    "cui": "C0332197",
+    "mention": "absence"
+  },
+  "2366": {
+    "cui": "C0003232",
+    "mention": "antibiotics"
+  },
+  "2367": {
+    "cui": "C0013162",
+    "mention": "Combination"
+  },
+  "2368": {
+    "cui": "C0248719",
+    "mention": "telmisartan"
+  },
+  "2369": {
+    "cui": "C0529793",
+    "mention": "sildenafil"
+  },
+  "2370": {
+    "cui": "C0205556",
+    "mention": "ameliorate"
+  },
+  "2371": {
+    "cui": "C0242656",
+    "mention": "progression"
+  },
+  "2372": {
+    "cui": "C0011881",
+    "mention": "diabetic nephropathy"
+  },
+  "2373": {
+    "cui": "C0038432",
+    "mention": "streptozotocin"
+  },
+  "2374": {
+    "cui": "C0205263",
+    "mention": "induced"
+  },
+  "2375": {
+    "cui": "C0241863",
+    "mention": "diabetic"
+  },
+  "2376": {
+    "cui": "C0011881",
+    "mention": "Diabetic nephropathy"
+  },
+  "2377": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2378": {
+    "cui": "C0022661",
+    "mention": "end-stage renal disease"
+  },
+  "2379": {
+    "cui": "C0037080",
+    "mention": "signaling pathways"
+  },
+  "2380": {
+    "cui": "C0699748",
+    "mention": "pathogenesis"
+  },
+  "2381": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2382": {
+    "cui": "C0702240",
+    "mention": "elevation"
+  },
+  "2383": {
+    "cui": "C0003009",
+    "mention": "angiotensin II"
+  },
+  "2384": {
+    "cui": "C1522492",
+    "mention": "formation"
+  },
+  "2385": {
+    "cui": "C0162574",
+    "mention": "advanced glycation end products"
+  },
+  "2386": {
+    "cui": "C0162574",
+    "mention": "AGE"
+  },
+  "2387": {
+    "cui": "C1819041",
+    "mention": "activation"
+  },
+  "2388": {
+    "cui": "C0033634",
+    "mention": "protein kinase c"
+  },
+  "2389": {
+    "cui": "C0033634",
+    "mention": "PKC"
+  },
+  "2390": {
+    "cui": "C0333574",
+    "mention": "lipid accumulation"
+  },
+  "2391": {
+    "cui": "C0037080",
+    "mention": "pathways"
+  },
+  "2392": {
+    "cui": "C1879547",
+    "mention": "activate"
+  },
+  "2393": {
+    "cui": "C0242606",
+    "mention": "oxidative stress"
+  },
+  "2394": {
+    "cui": "C1171362",
+    "mention": "expression"
+  },
+  "2395": {
+    "cui": "C1704256",
+    "mention": "transforming growth factor beta-1"
+  },
+  "2396": {
+    "cui": "C1704256",
+    "mention": "TGF-β 1"
+  },
+  "2397": {
+    "cui": "C1283071",
+    "mention": "release"
+  },
+  "2398": {
+    "cui": "C0021764",
+    "mention": "interleukins"
+  },
+  "2399": {
+    "cui": "C0007578",
+    "mention": "adhesion molecules"
+  },
+  "2400": {
+    "cui": "C3816499",
+    "mention": "pathogenic"
+  },
+  "2401": {
+    "cui": "C1705987",
+    "mention": "pathway"
+  },
+  "2402": {
+    "cui": "C0205556",
+    "mention": "ameliorate"
+  },
+  "2403": {
+    "cui": "C0242656",
+    "mention": "progression"
+  },
+  "2404": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2405": {
+    "cui": "C0008972",
+    "mention": "study"
+  },
+  "2406": {
+    "cui": "C0684072",
+    "mention": "white male rats"
+  },
+  "2407": {
+    "cui": "C0684072",
+    "mention": "rats"
+  },
+  "2408": {
+    "cui": "C0009932",
+    "mention": "normal control"
+  },
+  "2409": {
+    "cui": "C0009932",
+    "mention": "control vehicle group"
+  },
+  "2410": {
+    "cui": "C0241863",
+    "mention": "diabetic"
+  },
+  "2411": {
+    "cui": "C0021493",
+    "mention": "intraperitoneal injection"
+  },
+  "2412": {
+    "cui": "C0038432",
+    "mention": "Streptozotocin"
+  },
+  "2413": {
+    "cui": "C0038432",
+    "mention": "STZ"
+  },
+  "2414": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2415": {
+    "cui": "C0684072",
+    "mention": "rats"
+  },
+  "2416": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2417": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2418": {
+    "cui": "C0248719",
+    "mention": "Telmisartan"
+  },
+  "2419": {
+    "cui": "C0529793",
+    "mention": "Sildenafil"
+  },
+  "2420": {
+    "cui": "C0248719",
+    "mention": "Telmisartan"
+  },
+  "2421": {
+    "cui": "C0529793",
+    "mention": "Sildenafil"
+  },
+  "2422": {
+    "cui": "C0013162",
+    "mention": "combination"
+  },
+  "2423": {
+    "cui": "C0205369",
+    "mention": "specified"
+  },
+  "2424": {
+    "cui": "C0039798",
+    "mention": "treatment"
+  },
+  "2425": {
+    "cui": "C1948053",
+    "mention": "period"
+  },
+  "2426": {
+    "cui": "C1610733",
+    "mention": "urine samples"
+  },
+  "2427": {
+    "cui": "C1516695",
+    "mention": "collected"
+  },
+  "2428": {
+    "cui": "C3273359",
+    "mention": "metabolic cages"
+  },
+  "2429": {
+    "cui": "C0033687",
+    "mention": "proteinuria"
+  },
+  "2430": {
+    "cui": "C0003062",
+    "mention": "animals"
+  },
+  "2431": {
+    "cui": "C0162665",
+    "mention": "euthanized"
+  },
+  "2432": {
+    "cui": "C0178913",
+    "mention": "blood"
+  },
+  "2433": {
+    "cui": "C1292533",
+    "mention": "tissue samples"
+  },
+  "2434": {
+    "cui": "C1516695",
+    "mention": "collected"
+  },
+  "2435": {
+    "cui": "C0392201",
+    "mention": "measurement of Blood glucose"
+  },
+  "2436": {
+    "cui": "C0005845",
+    "mention": "BUN"
+  },
+  "2437": {
+    "cui": "C0201976",
+    "mention": "S.Cr"
+  },
+  "2438": {
+    "cui": "C0202117",
+    "mention": "LDL"
+  },
+  "2439": {
+    "cui": "C3810607",
+    "mention": "NO"
+  },
+  "2440": {
+    "cui": "C3889969",
+    "mention": "TGF-β1"
+  },
+  "2441": {
+    "cui": "C3815172",
+    "mention": "IL-1β"
+  },
+  "2442": {
+    "cui": "C0022885",
+    "mention": "AGEPs"
+  },
+  "2443": {
+    "cui": "C0022885",
+    "mention": "SOD"
+  },
+  "2444": {
+    "cui": "C0013218",
+    "mention": "combination therapy"
+  },
+  "2445": {
+    "cui": "C0600137",
+    "mention": "BUN"
+  },
+  "2446": {
+    "cui": "C0010294",
+    "mention": "S.Cr"
+  },
+  "2447": {
+    "cui": "C0023823",
+    "mention": "LDL"
+  },
+  "2448": {
+    "cui": "C1704256",
+    "mention": "TGF-β1"
+  },
+  "2449": {
+    "cui": "C0021753",
+    "mention": "IL-1β"
+  },
+  "2450": {
+    "cui": "C0033687",
+    "mention": "Proteinuria"
+  },
+  "2451": {
+    "cui": "C0162574",
+    "mention": "AGEPs"
+  },
+  "2452": {
+    "cui": "C0038838",
+    "mention": "SOD"
+  },
+  "2453": {
+    "cui": "C0028128",
+    "mention": "NO"
+  },
+  "2454": {
+    "cui": "C0013218",
+    "mention": "combination therapy"
+  },
+  "2455": {
+    "cui": "C0205556",
+    "mention": "ameliorate"
+  },
+  "2456": {
+    "cui": "C0011881",
+    "mention": "DN"
+  },
+  "2457": {
+    "cui": "C0205556",
+    "mention": "superior"
+  },
+  "2458": {
+    "cui": "C0013227",
+    "mention": "drugs"
+  },
+  "2459": {
+    "cui": "C0013652",
+    "mention": "Conservation education"
+  },
+  "2460": {
+    "cui": "C0871648",
+    "mention": "habitat"
+  },
+  "2461": {
+    "cui": "C0205245",
+    "mention": "restoration"
+  },
+  "2462": {
+    "cui": "C2717882",
+    "mention": "endangered"
+  },
+  "2463": {
+    "cui": "C2999417",
+    "mention": "Sagalla caecilian"
+  },
+  "2464": {
+    "cui": "C2999417",
+    "mention": "Boulengerula niedeni"
+  },
+  "2465": {
+    "cui": "C0022558",
+    "mention": "Sagalla Hill"
+  },
+  "2466": {
+    "cui": "C0022558",
+    "mention": "Kenya"
+  },
+  "2467": {
+    "cui": "C2999417",
+    "mention": "Sagalla caecilian"
+  },
+  "2468": {
+    "cui": "C2999417",
+    "mention": "Boulengerula niedeni"
+  },
+  "2469": {
+    "cui": "C2717882",
+    "mention": "endangered"
+  },
+  "2470": {
+    "cui": "C0002668",
+    "mention": "amphibian"
+  },
+  "2471": {
+    "cui": "C0681784",
+    "mention": "endemic"
+  },
+  "2472": {
+    "cui": "C0022558",
+    "mention": "Sagalla Hill"
+  },
+  "2473": {
+    "cui": "C0022558",
+    "mention": "Taita Hills"
+  },
+  "2474": {
+    "cui": "C0018893",
+    "mention": "burrowing worm"
+  },
+  "2475": {
+    "cui": "C1705920",
+    "mention": "species"
+  },
+  "2476": {
+    "cui": "C0205358",
+    "mention": "soft"
+  },
+  "2477": {
+    "cui": "C0037592",
+    "mention": "soil"
+  },
+  "2478": {
+    "cui": "C0205250",
+    "mention": "high"
+  },
+  "2479": {
+    "cui": "C0868994",
+    "mention": "moisture"
+  },
+  "2480": {
+    "cui": "C0439861",
+    "mention": "organic matter"
+  },
+  "2481": {
+    "cui": "C0205164",
+    "mention": "major"
+  },
+  "2482": {
+    "cui": "C0749385",
+    "mention": "threats"
+  },
+  "2483": {
+    "cui": "C2999417",
+    "mention": "Sagalla caecilian"
+  },
+  "2484": {
+    "cui": "C1254365",
+    "mention": "soil erosion"
+  },
+  "2485": {
+    "cui": "C0678227",
+    "mention": "caused"
+  },
+  "2486": {
+    "cui": "C1254362",
+    "mention": "steep slopes"
+  },
+  "2487": {
+    "cui": "C0242744",
+    "mention": "ground"
+  },
+  "2488": {
+    "cui": "C1254366",
+    "mention": "water siphoning"
+  },
+  "2489": {
+    "cui": "C1254366",
+    "mention": "soil hardening"
+  },
+  "2490": {
+    "cui": "C0015148",
+    "mention": "exotic eucalyptus trees"
+  },
+  "2491": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "2492": {
+    "cui": "C0332272",
+    "mention": "better"
+  },
+  "2493": {
+    "cui": "C0162340",
+    "mention": "understanding"
+  },
+  "2494": {
+    "cui": "C0205276",
+    "mention": "local"
+  },
+  "2495": {
+    "cui": "C0027361",
+    "mention": "people's"
+  },
+  "2496": {
+    "cui": "C0004271",
+    "mention": "attitude"
+  },
+  "2497": {
+    "cui": "C1705920",
+    "mention": "species"
+  },
+  "2498": {
+    "cui": "C1880177",
+    "mention": "contribute"
+  },
+  "2499": {
+    "cui": "C0549178",
+    "mention": "continued"
+  },
+  "2500": {
+    "cui": "C2347858",
+    "mention": "conservation"
+  },
+  "2501": {
+    "cui": "C0205245",
+    "mention": "restoration"
+  },
+  "2502": {
+    "cui": "C1527428",
+    "mention": "remaining"
+  },
+  "2503": {
+    "cui": "C0871648",
+    "mention": "habitat"
+  },
+  "2504": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "2505": {
+    "cui": "C0150312",
+    "mention": "found"
+  },
+  "2506": {
+    "cui": "C0022558",
+    "mention": "Sagalla"
+  },
+  "2507": {
+    "cui": "C0027361",
+    "mention": "people"
+  },
+  "2508": {
+    "cui": "C0004448",
+    "mention": "aware"
+  },
+  "2509": {
+    "cui": "C1705920",
+    "mention": "species"
+  },
+  "2510": {
+    "cui": "C0018464",
+    "mention": "habits"
+  },
+  "2511": {
+    "cui": "C0037592",
+    "mention": "soils"
+  },
+  "2512": {
+    "cui": "C0205250",
+    "mention": "high"
+  },
+  "2513": {
+    "cui": "C0439861",
+    "mention": "organic matter"
+  },
+  "2514": {
+    "cui": "C0150312",
+    "mention": "found"
+  },
+  "2515": {
+    "cui": "C0022558",
+    "mention": "Sagalla"
+  },
+  "2516": {
+    "cui": "C0027361",
+    "mention": "people"
+  },
+  "2517": {
+    "cui": "C0747055",
+    "mention": "organic"
+  },
+  "2518": {
+    "cui": "C0024765",
+    "mention": "manure"
+  },
+  "2519": {
+    "cui": "C0007452",
+    "mention": "cow"
+  },
+  "2520": {
+    "cui": "C0015733",
+    "mention": "dung"
+  },
+  "2521": {
+    "cui": "C0557759",
+    "mention": "farms"
+  },
+  "2522": {
+    "cui": "C0871648",
+    "mention": "Habitat"
+  },
+  "2523": {
+    "cui": "C0205245",
+    "mention": "restoration"
+  },
+  "2524": {
+    "cui": "C0441655",
+    "mention": "planting"
+  },
+  "2525": {
+    "cui": "C0205276",
+    "mention": "indigenous"
+  },
+  "2526": {
+    "cui": "C0032098",
+    "mention": "plants"
+  },
+  "2527": {
+    "cui": "C0150312",
+    "mention": "found"
+  },
+  "2528": {
+    "cui": "C0549178",
+    "mention": "ongoing"
+  },
+  "2529": {
+    "cui": "C0205555",
+    "mention": "especially"
+  },
+  "2530": {
+    "cui": "C1706082",
+    "mention": "compounds"
+  },
+  "2531": {
+    "cui": "C1552744",
+    "mention": "public institutions"
+  },
+  "2532": {
+    "cui": "C0681784",
+    "mention": "private lands"
+  },
+  "2533": {
+    "cui": "C0013140",
+    "mention": "drought"
+  },
+  "2534": {
+    "cui": "C0150312",
+    "mention": "found"
+  },
+  "2535": {
+    "cui": "C0242437",
+    "mention": "seedlings"
+  },
+  "2536": {
+    "cui": "C1527148",
+    "mention": "development"
+  },
+  "2537": {
+    "cui": "C0205251",
+    "mention": "low"
+  },
+  "2538": {
+    "cui": "C0702240",
+    "mention": "elevation"
+  },
+  "2539": {
+    "cui": "C0205145",
+    "mention": "sites"
+  },
+  "2540": {
+    "cui": "C1948029",
+    "mention": "destruction"
+  },
+  "2541": {
+    "cui": "C2936506",
+    "mention": "livestock"
+  },
+  "2542": {
+    "cui": "C0347984",
+    "mention": "during"
+  },
+  "2543": {
+    "cui": "C0205222",
+    "mention": "dry"
+  },
+  "2544": {
+    "cui": "C0036497",
+    "mention": "season"
+  },
+  "2545": {
+    "cui": "C0205164",
+    "mention": "major"
+  },
+  "2546": {
+    "cui": "C0749385",
+    "mention": "threat"
+  },
+  "2547": {
+    "cui": "C2603343",
+    "mention": "study"
+  },
+  "2548": {
+    "cui": "C0034866",
+    "mention": "recommended"
+  },
+  "2549": {
+    "cui": "C0016884",
+    "mention": "future"
+  },
+  "2550": {
+    "cui": "C0871648",
+    "mention": "habitat"
+  },
+  "2551": {
+    "cui": "C0205245",
+    "mention": "restoration"
+  },
+  "2552": {
+    "cui": "C0424093",
+    "mention": "initiative"
+  },
+  "2553": {
+    "cui": "C0332257",
+    "mention": "include"
+  },
+  "2554": {
+    "cui": "C0442821",
+    "mention": "strong"
+  },
+  "2555": {
+    "cui": "C3273359",
+    "mention": "chain-link"
+  },
+  "2556": {
+    "cui": "C0441655",
+    "mention": "fencing"
+  },
+  "2557": {
+    "cui": "C0242437",
+    "mention": "seedlings"
+  },
+  "2558": {
+    "cui": "C2936506",
+    "mention": "livestock"
+  },
+  "2559": {
+    "cui": "C0441655",
+    "mention": "activity"
+  },
+  "2560": {
+    "cui": "C0558295",
+    "mention": "preferred"
+  },
+  "2561": {
+    "cui": "C0871648",
+    "mention": "habitats"
+  },
+  "2562": {
+    "cui": "C1705920",
+    "mention": "species"
+  },
+  "2563": {
+    "cui": "C0563004",
+    "mention": "valleys"
+  },
+  "2564": {
+    "cui": "C0220922",
+    "mention": "systematic"
+  },
+  "2565": {
+    "cui": "C0441655",
+    "mention": "planting"
+  },
+  "2566": {
+    "cui": "C0032098",
+    "mention": "keystone plant"
+  },
+  "2567": {
+    "cui": "C1705920",
+    "mention": "species"
+  },
+  "2568": {
+    "cui": "C0969754",
+    "mention": "fig trees"
+  },
+  "2569": {
+    "cui": "C0969754",
+    "mention": "Ficus"
+  },
+  "2570": {
+    "cui": "C1706214",
+    "mention": "creates"
+  },
+  "2571": {
+    "cui": "C0871648",
+    "mention": "microhabitats"
+  },
+  "2572": {
+    "cui": "C0332272",
+    "mention": "better"
+  },
+  "2573": {
+    "cui": "C0205246",
+    "mention": "general"
+  },
+  "2574": {
+    "cui": "C1254362",
+    "mention": "woodlots"
+  },
+  "2575": {
+    "cui": "C0205276",
+    "mention": "indigenous"
+  },
+  "2576": {
+    "cui": "C0040811",
+    "mention": "trees"
+  }
+}

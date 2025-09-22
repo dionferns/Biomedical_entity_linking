@@ -1,0 +1,2665 @@
+27254792|t|Emergence of family medicine in Ethiopia [corrected]: an international collaborative education model
+27254792|a|Family Medicine (FM) is a new specialty in Ethiopia. The first seven family physicians graduated in February 2016 from the inaugural residency programme at Addis Ababa University. Cooperation amongst Ethiopian and expatriate decision-makers and physicians was needed to begin the programme. Intentional replacement of expatriates with Ethiopian family physicians has begun. Barriers include lack of understanding of FM and the human and financial resources needed for scaling up the programme. Regular programme review with resident physician involvement has allowed the FM training programme to adapt and fit the Ethiopian context. Further successes will result from ongoing support and advocacy from the Federal Ministry of Health and other Ethiopian, African, and international primary care organisations.
+27254792	0	9	Emergence	T080	C0205556
+27254792	13	28	family medicine	T091	C0015607
+27254792	32	40	Ethiopia	T083	C0015024
+27254792	57	70	international	T078	C1512888
+27254792	71	84	collaborative	T054	C0282116
+27254792	85	100	education model	T170	C3161035
+27254792	101	116	Family Medicine	T091	C0015607
+27254792	118	120	FM	T091	C0015607
+27254792	131	140	specialty	T091	C0037778
+27254792	144	152	Ethiopia	T083	C0015024
+27254792	158	187	first seven family physicians	T097	C1704221
+27254792	188	197	graduated	T098	C0588053
+27254792	201	209	February	T080	C3830166
+27254792	234	243	residency	T065	C0035182
+27254792	244	253	programme	T170	C0010478
+27254792	257	279	Addis Ababa University	T073,T092	C0041740
+27254792	281	292	Cooperation	T054	C0392337
+27254792	301	310	Ethiopian	T098	C0239304
+27254792	315	325	expatriate	T033	C3842568
+27254792	326	341	decision-makers	T097	C0554244
+27254792	346	356	physicians	T097	C0031831
+27254792	371	376	begin	T079	C0439659
+27254792	381	390	programme	T170	C0010478
+27254792	392	403	Intentional	T078	C1512888
+27254792	404	415	replacement	T169	C0559956
+27254792	419	430	expatriates	T033	C3842568
+27254792	436	445	Ethiopian	T098	C0239304
+27254792	446	463	family physicians	T097	C1704221
+27254792	468	473	begun	T079	C0439659
+27254792	475	483	Barriers	T080	C0205556
+27254792	492	499	lack of	T080	C0332268
+27254792	500	513	understanding	T041	C0162340
+27254792	517	519	FM	T091	C0015607
+27254792	528	533	human	T169	C0024752
+27254792	538	557	financial resources	T033	C0516918
+27254792	569	579	scaling up	T081	C0392762
+27254792	584	593	programme	T170	C0010478
+27254792	595	602	Regular	T080	C0205272
+27254792	603	612	programme	T170	C0010478
+27254792	613	619	review	T080	C1704362
+27254792	625	643	resident physician	T097	C1320928
+27254792	644	655	involvement	T054	C0009476
+27254792	672	674	FM	T091	C0015607
+27254792	675	693	training programme	T065	C0040607
+27254792	697	702	adapt	T080	C0205556
+27254792	707	710	fit	T052	C2349186
+27254792	715	724	Ethiopian	T098	C0239304
+27254792	725	732	context	T078	C0449255
+27254792	742	751	successes	T054	C0597535
+27254792	757	763	result	T169	C1274040
+27254792	777	784	support	T054	C0037438
+27254792	789	797	advocacy	T054	C0150446
+27254792	807	833	Federal Ministry of Health	T057	C0013562
+27254792	844	853	Ethiopian	T098	C0239304
+27254792	855	862	African	T098	C0027567
+27254792	868	881	international	T078	C1512888
+27254792	868	908	international primary care organisations	T093	C0596660
+
+27059693|t|Patient - Physician Discordance in Global Assessment in Rheumatoid Arthritis: A Systematic Literature Review With Meta-Analysis
+27059693|a|The integration of the patient in therapeutic decision-making is important in the management of rheumatoid arthritis (RA), but the patient opinion regarding disease status may differ from the physician's opinion. The aim of this study was to assess in the published literature the frequency and drivers of patient - physician discordance in global assessment in RA. A systematic literature review of all articles published up to January 2015 in Medline or Embase, reporting discordance in RA, was conducted by 2 investigators. Discordance was defined based on the absolute difference of patient global (PGA) and physician global assessments (PhGA) on 0-10-cm scales. The frequency of discordance and its predictors were collected in each study. Frequencies of discordance were pooled by meta-analysis using random effect. In all, 12 studies were selected (i.e., 11,879 patients): weighted mean ± SD age was 55.1 ± 13.9 years, weighted mean ± SD disease duration was 10.4 ± 9.3 years, and 80.7% were women. The value of the difference | PGA - PhGA | defining discordance varied between ≥0.5 cm (n = 2 studies) to ≥3 cm (n = 5 studies); the weighted mean value was 2.7 cm. The pooled percentage of patients with discordance was 43% (95% confidence interval 36%-51%; range 25%-76%). PGA was usually higher than PhGA. The drivers of PGA were pain and functional incapacity, whereas drivers of PhGA were joint counts and acute-phase reactants. Discordance in global assessment was most frequently defined as a difference of 3 points or more; even with such a stringent definition, up to half the patients were found to be discordant. The long-term consequences of this discordance remain to be determined.
+27059693	0	7	Patient	T101	C0030705
+27059693	10	19	Physician	T097	C0031831
+27059693	20	31	Discordance	T080	C1705242
+27059693	35	52	Global Assessment	T062	C0281858
+27059693	56	76	Rheumatoid Arthritis	T047	C0003873
+27059693	80	90	Systematic	T169	C0220922
+27059693	91	108	Literature Review	T170	C0282441
+27059693	114	127	Meta-Analysis	T062	C0920317
+27059693	151	158	patient	T101	C0030705
+27059693	162	173	therapeutic	T169	C0302350
+27059693	174	189	decision-making	T041	C0011109
+27059693	210	220	management	T058	C0376636
+27059693	224	244	rheumatoid arthritis	T047	C0003873
+27059693	246	248	RA	T047	C0003873
+27059693	259	266	patient	T101	C0030705
+27059693	267	274	opinion	T041	C0871010
+27059693	285	292	disease	T047	C0012634
+27059693	293	299	status	T080	C0449438
+27059693	320	331	physician's	T097	C0031831
+27059693	332	339	opinion	T041	C0871010
+27059693	357	362	study	T062	C2603343
+27059693	370	376	assess	T052	C1516048
+27059693	384	404	published literature	T170	C0023866
+27059693	409	418	frequency	T079	C0376249
+27059693	434	441	patient	T101	C0030705
+27059693	444	453	physician	T097	C0031831
+27059693	454	465	discordance	T080	C1705242
+27059693	469	486	global assessment	T062	C0281858
+27059693	490	492	RA	T047	C0003873
+27059693	496	506	systematic	T169	C0220922
+27059693	507	524	literature review	T170	C0282441
+27059693	532	540	articles	T170	C1706852
+27059693	541	550	published	T057	C0034037
+27059693	573	580	Medline	T170	C0025141
+27059693	584	590	Embase	T170	C0282574
+27059693	602	613	discordance	T080	C1705242
+27059693	617	619	RA	T047	C0003873
+27059693	640	653	investigators	T097	C0035173
+27059693	655	666	Discordance	T080	C1705242
+27059693	692	711	absolute difference	T080	C1705242
+27059693	715	729	patient global	T170	C4054229
+27059693	731	734	PGA	T170	C4054229
+27059693	740	768	physician global assessments	T062	C0281858
+27059693	770	774	PhGA	T062	C0281858
+27059693	799	808	frequency	T079	C0376249
+27059693	812	823	discordance	T080	C1705242
+27059693	832	842	predictors	T033	C0035648
+27059693	866	871	study	T062	C2603343
+27059693	873	884	Frequencies	T079	C0376249
+27059693	888	899	discordance	T080	C1705242
+27059693	905	911	pooled	T169	C2349200
+27059693	915	928	meta-analysis	T062	C0920317
+27059693	935	941	random	T080	C0439605
+27059693	942	948	effect	T080	C1280500
+27059693	961	968	studies	T062	C2603343
+27059693	997	1005	patients	T101	C0030705
+27059693	1008	1021	weighted mean	T081	C0444504
+27059693	1027	1030	age	T032	C0001779
+27059693	1047	1052	years	T079	C0439234
+27059693	1054	1067	weighted mean	T081	C0444504
+27059693	1073	1089	disease duration	T079	C0872146
+27059693	1105	1110	years	T079	C0439234
+27059693	1127	1132	women	T098	C0043210
+27059693	1138	1143	value	T081	C1522609
+27059693	1151	1161	difference	T081	C1705241
+27059693	1164	1167	PGA	T170	C4054229
+27059693	1170	1174	PhGA	T062	C0281858
+27059693	1186	1197	discordance	T080	C1705242
+27059693	1267	1286	weighted mean value	T081	C0444504
+27059693	1303	1309	pooled	T169	C2349200
+27059693	1310	1320	percentage	T081	C0439165
+27059693	1324	1332	patients	T101	C0030705
+27059693	1338	1349	discordance	T080	C1705242
+27059693	1363	1382	confidence interval	T081	C0009667
+27059693	1392	1397	range	T081	C1514721
+27059693	1408	1411	PGA	T170	C4054229
+27059693	1424	1430	higher	T080	C0205250
+27059693	1436	1440	PhGA	T062	C0281858
+27059693	1457	1460	PGA	T170	C4054229
+27059693	1466	1470	pain	T184	C0030193
+27059693	1475	1485	functional	T169	C0205245
+27059693	1486	1496	incapacity	T201	C3176592
+27059693	1517	1521	PhGA	T062	C0281858
+27059693	1527	1539	joint counts	T170	C0282574
+27059693	1544	1565	acute-phase reactants	T116,T123	C0001347
+27059693	1567	1578	Discordance	T080	C1705242
+27059693	1582	1599	global assessment	T062	C0281858
+27059693	1609	1619	frequently	T079	C0332183
+27059693	1633	1643	difference	T080	C1705242
+27059693	1710	1714	half	T081	C2825407
+27059693	1719	1727	patients	T101	C0030705
+27059693	1745	1755	discordant	T080	C1705242
+27059693	1761	1770	long-term	T079	C0443252
+27059693	1771	1783	consequences	T169	C0686907
+27059693	1792	1803	discordance	T080	C1705242
+
+27233592|t|Measurement of Outcomes of Upper Limb Reconstructive Surgery for Tetraplegia
+27233592|a|Reconstructive arm/hand surgery for tetraplegia is performed to improve arm/hand function and therefore personal well-being for individuals who accept such elective surgeries. However, changes at an impairment level do not always translate into functional or quality of life changes. Therefore, multiple outcome tools should be used that incorporate sufficient responsiveness to detect changes in arm/hand function, activity and participation, and quality of life of the individuals involved. This narrative review aims to assist clinicians to choose the most appropriate tools to assess the need for reconstructive surgery and to evaluate its outcomes. Our specific objectives are (1) to describe aspects to consider when choosing a measure and (2) to describe the measures advised by an international therapist consensus group established in 2007. All advised measures are appraised in terms of the underlying construct, administration, and clinical relevance to arm/hand reconstructions. Essentially there are currently no criterion standard measures to evaluate the consequences of reconstructive arm/hand surgery. However, with judicious use of available measures it is possible to ensure the questions asked or tasks completed are relevant to the surgical reconstruction (s) undertaken. Further work in this field is required. This would be best met by immediate collaboration between 2 outcome's tool developers and by analysis of pre - and postoperative data already held in various international sites, which would allow further evaluation of the measures already in use, or components thereof.
+27233592	0	11	Measurement	T169	C0242485
+27233592	15	23	Outcomes	T080	C0085415
+27233592	27	60	Upper Limb Reconstructive Surgery	T033	C1408821
+27233592	65	76	Tetraplegia	T047	C0034372
+27233592	77	108	Reconstructive arm/hand surgery	T033	C1408821
+27233592	113	124	tetraplegia	T047	C0034372
+27233592	128	137	performed	T169	C0884358
+27233592	141	148	improve	T033	C0184511
+27233592	149	166	arm/hand function	T040	C0562230
+27233592	181	200	personal well-being	T033	C1821407
+27233592	205	216	individuals	T098	C0237401
+27233592	221	227	accept	T080	C1272684
+27233592	233	251	elective surgeries	T061	C0206058
+27233592	262	269	changes	T169	C0392747
+27233592	276	286	impairment	T169	C0221099
+27233592	322	332	functional	T169	C0205245
+27233592	336	351	quality of life	T078	C0034380
+27233592	352	359	changes	T169	C0392747
+27233592	372	394	multiple outcome tools	T073	C0336791
+27233592	415	426	incorporate	T169	C0243126
+27233592	427	452	sufficient responsiveness	T033	C3261286
+27233592	456	462	detect	T033	C0442726
+27233592	463	470	changes	T169	C0392747
+27233592	474	491	arm/hand function	T040	C0562230
+27233592	493	501	activity	T052	C0441655
+27233592	506	519	participation	T169	C0679823
+27233592	525	540	quality of life	T078	C0034380
+27233592	548	559	individuals	T098	C0237401
+27233592	575	591	narrative review	UnknownType	C0815257
+27233592	592	596	aims	T078	C1947946
+27233592	600	606	assist	T058	C0557034
+27233592	607	617	clinicians	T097	C0871685
+27233592	637	648	appropriate	T080	C1548787
+27233592	649	654	tools	T073	C0336791
+27233592	658	664	assess	T052	C1516048
+27233592	678	700	reconstructive surgery	T033	C1408821
+27233592	708	716	evaluate	T058	C0220825
+27233592	721	729	outcomes	T080	C0085415
+27233592	744	754	objectives	T170	C0018017
+27233592	766	774	describe	T078	C1552738
+27233592	775	782	aspects	T081	C1547011
+27233592	811	818	measure	T169	C0242485
+27233592	830	838	describe	T078	C1552738
+27233592	843	851	measures	T169	C0242485
+27233592	866	879	international	T078	C1512888
+27233592	880	889	therapist	T097	C0871525
+27233592	900	905	group	T078	C0441833
+27233592	906	917	established	T080	C0443211
+27233592	939	947	measures	T169	C0242485
+27233592	989	998	construct	T185	C2827421
+27233592	1000	1014	administration	T061	C1533734
+27233592	1020	1028	clinical	T080	C0205210
+27233592	1029	1038	relevance	T080	C2347946
+27233592	1042	1066	arm/hand reconstructions	T061	C0841296
+27233592	1068	1079	Essentially	T080	C0205224
+27233592	1103	1112	criterion	T078	C0243161
+27233592	1113	1121	standard	T081	C0034925
+27233592	1122	1130	measures	T169	C0242485
+27233592	1134	1142	evaluate	T058	C0220825
+27233592	1147	1162	consequences of	T169	C0686907
+27233592	1163	1194	reconstructive arm/hand surgery	T033	C1408821
+27233592	1220	1223	use	T169	C0042153
+27233592	1237	1245	measures	T169	C0242485
+27233592	1275	1290	questions asked	T033	C0566217
+27233592	1294	1299	tasks	T057	C3540678
+27233592	1300	1309	completed	T080	C0205197
+27233592	1314	1322	relevant	T080	C2347946
+27233592	1330	1353	surgical reconstruction	T061	C0524865
+27233592	1378	1382	work	T057	C0043227
+27233592	1391	1396	field	T077	C1521738
+27233592	1400	1408	required	T169	C1514873
+27233592	1436	1445	immediate	T079	C0205253
+27233592	1446	1459	collaboration	T054	C0282116
+27233592	1470	1495	outcome's tool developers	T057	C0085565
+27233592	1503	1511	analysis	T057	C0010992
+27233592	1515	1518	pre	T079	C0445204
+27233592	1525	1538	postoperative	T079	C0032790
+27233592	1539	1543	data	T078	C1511726
+27233592	1568	1581	international	T078	C1512888
+27233592	1615	1625	evaluation	T058	C0220825
+27233592	1633	1641	measures	T169	C0242485
+27233592	1653	1656	use	T169	C0042153
+27233592	1661	1671	components	T073	C0449432
+
+27273918|t|A DANGEROUS MUDDYING OF THE WATERS? THE ' SIGNIFICANT HARM ' OF RE B AND G (CHILDREN) (CARE PROCEEDINGS)[2015] EWFC 3
+27273918|a|The academic debate rages on as to whether male circumcision really is in the best interests of the child or if it constitutes an abusive practice. This commentary discusses the recent case of Re B and G (children) (care proceedings) [2015] EWFC 3, delivered by the current President of the Family Division of the High court, Sir James Munby. Two key issues are raised by this judgment. First, that President Munby's obiter comments constitute an attack on the legally accepted act of male circumcision by suggesting a similar nature between the illegal act of female genital mutilation (FGM) and that of male circumcision as well as the suggestion that male circumcision can be classed as a significant harm. Second, that this case reflects the woefully unprepared condition of the UK medical profession in dealing with FGM.
+27273918	42	53	SIGNIFICANT	T078	C0750502
+27273918	54	58	HARM	UnknownType	C0680558
+27273918	64	84	RE B AND G (CHILDREN	T100	C0008059
+27273918	87	103	CARE PROCEEDINGS	T057	C0584988
+27273918	122	130	academic	UnknownType	C0683838
+27273918	131	137	debate	T052	C0870392
+27273918	138	143	rages	T041	C0034634
+27273918	161	178	male circumcision	T061	C0008819
+27273918	196	200	best	T080	C1522427
+27273918	201	210	interests	T041	C0543488
+27273918	218	223	child	T100	C0008059
+27273918	248	255	abusive	T051	C1546935
+27273918	256	264	practice	T080	C0475222
+27273918	271	281	commentary	T170	C0282411
+27273918	282	291	discusses	T054	C2584313
+27273918	296	302	recent	T079	C0332185
+27273918	303	307	case	T169	C0868928
+27273918	311	332	Re B and G (children)	T100	C0008059
+27273918	334	350	care proceedings	T057	C0584988
+27273918	384	391	current	T079	C0521116
+27273918	392	401	President	T097	C0679924
+27273918	409	442	Family Division of the High court	T092	C0029246
+27273918	469	475	issues	T033	C0033213
+27273918	480	486	raised	T080	C0442818
+27273918	495	503	judgment	T033	C1287392
+27273918	517	526	President	T097	C0679924
+27273918	542	550	comments	T170	C0947611
+27273918	565	571	attack	T054	C1261512
+27273918	579	586	legally	T169	C1301860
+27273918	587	595	accepted	T080	C1272684
+27273918	596	599	act	T052	C3266814
+27273918	603	620	male circumcision	T061	C0008819
+27273918	637	644	similar	T080	C2348205
+27273918	645	651	nature	T169	C1262865
+27273918	664	671	illegal	T078	C3242151
+27273918	672	675	act	T052	C3266814
+27273918	679	704	female genital mutilation	T054	C0403893
+27273918	706	709	FGM	T054	C0403893
+27273918	723	740	male circumcision	T061	C0008819
+27273918	756	766	suggestion	T078	C1705535
+27273918	772	789	male circumcision	T061	C0008819
+27273918	810	821	significant	T078	C0750502
+27273918	822	826	harm	UnknownType	C0680558
+27273918	846	850	case	T169	C0868928
+27273918	851	859	reflects	T041	C0558058
+27273918	873	883	unprepared	T185	C4082133
+27273918	884	893	condition	T080	C0348080
+27273918	901	903	UK	T083	C0041700
+27273918	904	922	medical profession	T091	C0814933
+27273918	939	942	FGM	T054	C0403893
+
+27262362|t|Survival status and functional outcome of children who required prolonged intensive care after cardiac surgery
+27262362|a|Children who require prolonged intensive care after cardiac surgery are at risk of high mortality. The long-term survival and functional outcome of these children have not been studied in detail. Children who stayed in intensive care for >28 days after cardiac surgery from 1997 to 2012 were studied in a single institution. A total of 116 patients were identified; 107 (92%) were <1 year of age and 63 (54%) had univentricular physiology. The incidence of children requiring prolonged intensive care increased from 1.01/100 undergoing cardiac surgery in 1997 to 2000 to 2.66/100 in 2009 to 2012 (P trend = .002). This increase coincided with an increase in the number of children with hypoplastic left heart syndrome having prolonged intensive care during the same period (0.13/100 in 1997-2000 to 1.0/100 in 2009-2012; P trend = .001). Survival to pediatric intensive care unit (PICU) discharge was 74% (95% confidence interval [CI], 65-82) and 51% (95% CI, 41-59) at 3 years. Factors associated with mortality were univentricular repair (hazard ratio [HR], 2.12; 95% CI, 1.21-3.70; P = .008) and acute renal failure (HR, 3.01; 95% CI, 1.77-5.12; P < .001), but era did not influence mortality (1997-2005 vs 2006-2012; log-rank P = .66). Among PICU survivors, 3- year survival in those who did not need early reoperation was 81% (95% CI, 66-90), compared with 58% (95% CI, 42-71) in those who required early reoperation (log-rank P = .01). Among survivors, 36% had either moderate or severe disability and 13% had poor quality of life. The incidence of children requiring prolonged intensive care after cardiac surgery has increase d in our institution. Our data suggest that the long-term outcome for most of these children is poor, especially after univentricular repair.
+27262362	0	15	Survival status	T033	C1148433
+27262362	20	30	functional	T169	C0205245
+27262362	31	38	outcome	T169	C1274040
+27262362	42	50	children	T100	C0008059
+27262362	55	63	required	T169	C1514873
+27262362	64	73	prolonged	T079	C0439590
+27262362	74	88	intensive care	T058	C0085559
+27262362	95	110	cardiac surgery	T061	C0018821
+27262362	111	119	Children	T100	C0008059
+27262362	132	141	prolonged	T079	C0439590
+27262362	142	156	intensive care	T058	C0085559
+27262362	163	178	cardiac surgery	T061	C0018821
+27262362	183	190	at risk	T080	C1444641
+27262362	194	208	high mortality	T081	C0205848
+27262362	214	223	long-term	T079	C0443252
+27262362	224	232	survival	T033	C1148433
+27262362	237	247	functional	T169	C0205245
+27262362	248	255	outcome	T169	C1274040
+27262362	265	273	children	T100	C0008059
+27262362	299	305	detail	T080	C1522508
+27262362	307	315	Children	T100	C0008059
+27262362	320	326	stayed	T033	C2706919
+27262362	330	344	intensive care	T058	C0085559
+27262362	353	357	days	T079	C0439228
+27262362	364	379	cardiac surgery	T061	C0018821
+27262362	423	434	institution	T093	C2607850
+27262362	451	459	patients	T101	C0030705
+27262362	465	475	identified	T080	C0205396
+27262362	495	506	year of age	T079	C1510829
+27262362	524	549	univentricular physiology	T019,T047	C2959602
+27262362	555	564	incidence	T081	C0021149
+27262362	568	576	children	T100	C0008059
+27262362	587	596	prolonged	T079	C0439590
+27262362	597	611	intensive care	T058	C0085559
+27262362	612	621	increased	T081	C0205217
+27262362	647	662	cardiac surgery	T061	C0018821
+27262362	730	738	increase	T169	C0442805
+27262362	730	738	increase	T169	C0442805
+27262362	757	765	increase	T169	C0442805
+27262362	773	779	number	T081	C0237753
+27262362	783	791	children	T100	C0008059
+27262362	797	828	hypoplastic left heart syndrome	T047	C0152101
+27262362	836	845	prolonged	T079	C0439590
+27262362	846	860	intensive care	T058	C0085559
+27262362	877	883	period	T079	C1948053
+27262362	949	957	Survival	T033	C1148433
+27262362	961	990	pediatric intensive care unit	T073,T093	C0021710
+27262362	992	996	PICU	T073,T093	C0021710
+27262362	998	1007	discharge	T058	C0030685
+27262362	1021	1040	confidence interval	T081	C0009667
+27262362	1042	1044	CI	T081	C0009667
+27262362	1067	1069	CI	T081	C0009667
+27262362	1083	1088	years	T079	C0439234
+27262362	1090	1097	Factors	T169	C1521761
+27262362	1098	1113	associated with	T080	C0332281
+27262362	1114	1123	mortality	T081	C0205848
+27262362	1129	1150	univentricular repair	T061	C1961051
+27262362	1152	1164	hazard ratio	T081	C2985465
+27262362	1166	1168	HR	T081	C2985465
+27262362	1181	1183	CI	T081	C0009667
+27262362	1210	1229	acute renal failure	T047	C0022660
+27262362	1231	1233	HR	T081	C2985465
+27262362	1245	1247	CI	T081	C0009667
+27262362	1287	1296	influence	T077	C4054723
+27262362	1297	1306	mortality	T081	C0205848
+27262362	1357	1361	PICU	T073,T093	C0021710
+27262362	1362	1371	survivors	T101	C0206194
+27262362	1376	1380	year	T079	C0439234
+27262362	1381	1389	survival	T033	C1148433
+27262362	1416	1421	early	T079	C1279919
+27262362	1422	1433	reoperation	T061	C0035110
+27262362	1447	1449	CI	T081	C0009667
+27262362	1459	1467	compared	T052	C1707455
+27262362	1482	1484	CI	T081	C0009667
+27262362	1506	1514	required	T169	C1514873
+27262362	1515	1520	early	T079	C1279919
+27262362	1521	1532	reoperation	T061	C0035110
+27262362	1559	1568	survivors	T101	C0206194
+27262362	1585	1593	moderate	T033	C0424989
+27262362	1597	1614	severe disability	T033	C0424990
+27262362	1627	1647	poor quality of life	T033	C3686815
+27262362	1653	1662	incidence	T081	C0021149
+27262362	1666	1674	children	T100	C0008059
+27262362	1685	1694	prolonged	T079	C0439590
+27262362	1695	1709	intensive care	T058	C0085559
+27262362	1716	1731	cardiac surgery	T061	C0018821
+27262362	1736	1744	increase	T169	C0442805
+27262362	1754	1765	institution	T093	C2607850
+27262362	1771	1775	data	T078	C1511726
+27262362	1776	1783	suggest	T078	C1705535
+27262362	1793	1802	long-term	T079	C0443252
+27262362	1803	1810	outcome	T169	C1274040
+27262362	1829	1837	children	T100	C0008059
+27262362	1841	1845	poor	T080	C2700379
+27262362	1864	1885	univentricular repair	T061	C1961051
+
+27258956|t|Women's Sexual Issues After Myocardial Infarction: A Literature Review
+27258956|a|Sexual activity after myocardial infarction (MI) is a concern for patients and often a challenge for health care professionals to address. It is widely recognized that most patients, of both sexes, report sexual problems or concerns after MI. However, there are reported differences between men and women. Women with sexual concerns may seek less help from health care providers and are more inclined to conceal them because of cultural barriers. The aim of the current study is to present a comprehensive review of the literature describing women's sexual issues after MI. A systematic search of the relevant literature was performed within international databases, including PubMed / Medline, Scopus, ScienceDirect, and ProQuest, as well as Google Scholar using relevant keywords. Also, Persian electronic databases such as Magiran, Scientific Information Databases, and Iran Medex were searched from the inception to October 2014. Articles focusing on the sexual issues after MI only in women, as well as articles on both sexes where women's results could be separated, were included in this review. A total of 8 articles were included in the final dataset. The main themes of women's sexual concerns after MI were " loss or decrease of sexual activity ," " dissatisfaction of sexual relationship ," " doubt about resumption time of sexual activity ," " fear of reinfarction or sudden death during sexual activity after MI ," " knowledge deficit regarding sexual activity after MI ," and " poor performance of health care providers in sexual counseling ." The results of this review demonstrate that women's post- MI sexual activity is affected by many concerns. The concerns may be a knowledge deficit related to not receiving necessary consultation on this topic. Nurses, as first-line care givers, can provide appropriate consultation and education for patients post- MI. As a result, breaking taboo imposed by cultural barriers, personal assumptions, or lack of confidence on giving sexual consultation may ultimately help patients to improve their quality of life.
+27258956	0	7	Women's	T098	C0043210
+27258956	8	21	Sexual Issues	T169	C2362503
+27258956	28	49	Myocardial Infarction	T047	C0027051
+27258956	53	70	Literature Review	T170	C0282441
+27258956	71	86	Sexual activity	T053	C0036864
+27258956	93	114	myocardial infarction	T047	C0027051
+27258956	116	118	MI	T047	C0027051
+27258956	125	132	concern	T078	C2699424
+27258956	137	145	patients	T101	C0030705
+27258956	172	197	health care professionals	T097	C1704312
+27258956	244	252	patients	T101	C0030705
+27258956	262	267	sexes	T032	C1522384
+27258956	276	291	sexual problems	T047	C0856619
+27258956	295	303	concerns	T078	C2699424
+27258956	310	312	MI	T047	C0027051
+27258956	362	365	men	T098	C0025266
+27258956	370	375	women	T098	C0043210
+27258956	377	382	Women	T098	C0043210
+27258956	388	403	sexual concerns	T078	C2699424
+27258956	428	449	health care providers	T097	C0018724
+27258956	475	482	conceal	T080	C0443189
+27258956	499	516	cultural barriers	T033	C1948141
+27258956	522	525	aim	T078	C1947946
+27258956	533	546	current study	T062	C2603343
+27258956	577	601	review of the literature	T170	C0282441
+27258956	613	620	women's	T098	C0043210
+27258956	621	634	sexual issues	T169	C2362503
+27258956	641	643	MI	T047	C0027051
+27258956	681	691	literature	T170	C0023866
+27258956	713	736	international databases	T170	C0242356
+27258956	748	754	PubMed	T170	C1138432
+27258956	757	764	Medline	T170	C0025141
+27258956	766	772	Scopus	T170	C0282574
+27258956	774	787	ScienceDirect	T170	C0282574
+27258956	793	801	ProQuest	T170	C0282574
+27258956	814	828	Google Scholar	T170	C0282574
+27258956	844	852	keywords	T170	C1708608
+27258956	860	888	Persian electronic databases	T170	C3841595
+27258956	897	904	Magiran	T170	C0282574
+27258956	906	938	Scientific Information Databases	T170	C0282574
+27258956	944	954	Iran Medex	T170	C0282574
+27258956	1005	1013	Articles	T170	C1706852
+27258956	1030	1043	sexual issues	T169	C2362503
+27258956	1050	1052	MI	T047	C0027051
+27258956	1061	1066	women	T098	C0043210
+27258956	1079	1087	articles	T170	C1706852
+27258956	1096	1101	sexes	T032	C1522384
+27258956	1108	1115	women's	T098	C0043210
+27258956	1166	1172	review	T058	C1273406
+27258956	1187	1195	articles	T170	C1706852
+27258956	1223	1230	dataset	T170	C0150098
+27258956	1251	1258	women's	T098	C0043210
+27258956	1259	1274	sexual concerns	T078	C2699424
+27258956	1281	1283	MI	T047	C0027051
+27258956	1291	1295	loss	T081	C1517945
+27258956	1299	1307	decrease	T081	C0547047
+27258956	1311	1326	sexual activity	T053	C0036864
+27258956	1332	1370	dissatisfaction of sexual relationship	T033	C0237211
+27258956	1376	1381	doubt	T041	C0870444
+27258956	1388	1403	resumption time	T033	C1821070
+27258956	1407	1422	sexual activity	T053	C0036864
+27258956	1428	1432	fear	T041	C0015726
+27258956	1436	1448	reinfarction	T047	C0348593
+27258956	1452	1464	sudden death	T046	C0011071
+27258956	1472	1487	sexual activity	T053	C0036864
+27258956	1494	1496	MI	T047	C0027051
+27258956	1502	1519	knowledge deficit	T033	C1998986
+27258956	1530	1545	sexual activity	T053	C0036864
+27258956	1552	1554	MI	T047	C0027051
+27258956	1564	1568	poor	T080	C0542537
+27258956	1569	1580	performance	T055	C0597198
+27258956	1584	1605	health care providers	T097	C0018724
+27258956	1609	1626	sexual counseling	T058	C0036870
+27258956	1650	1656	review	T058	C1273406
+27258956	1674	1681	women's	T098	C0043210
+27258956	1688	1690	MI	T047	C0027051
+27258956	1691	1706	sexual activity	T053	C0036864
+27258956	1727	1735	concerns	T078	C2699424
+27258956	1741	1749	concerns	T078	C2699424
+27258956	1759	1776	knowledge deficit	T033	C1998986
+27258956	1812	1824	consultation	T058	C0009818
+27258956	1840	1846	Nurses	T097	C0028661
+27258956	1851	1873	first-line care givers	T097	C0085537
+27258956	1899	1911	consultation	T058	C0009818
+27258956	1930	1938	patients	T101	C0030705
+27258956	1945	1947	MI	T047	C0027051
+27258956	1971	1976	taboo	T078	C0039227
+27258956	1988	2005	cultural barriers	T033	C1948141
+27258956	2032	2050	lack of confidence	T033	C0558092
+27258956	2061	2080	sexual consultation	T058	C0009818
+27258956	2101	2109	patients	T101	C0030705
+27258956	2127	2142	quality of life	T078	C0034380
+
+27245524|t|Ehlers-Danlos syndrome
+27245524|a|The Ehlers-Danlos syndromes (EDSs) were originally described by Ehlers in Denmark and Danlos in Paris in 1898 and 1908, respectively. They had both published individual case studies in which the common factor was laxity of ligaments leading to joint hypermobility and hyperextensibility of the skin. The choice of the name of this eponymous disease had been made by Dr Parkes Weber, an eminent London physician in the 1930s, who had a penchant for eponymous diseases, having had no less than seven attributed to himself, at least in part. Unfortunately, this was before the age of a computerised literature search, and Parkes Weber had inadvertently overlooked the very first description of EDS which had been made by Tchernabogov, a Russian dermatologist, whose description was published in 1891 and remains one of the best descriptions of EDS in the literature.
+27245524	0	22	Ehlers-Danlos syndrome	T047	C0013720
+27245524	27	50	Ehlers-Danlos syndromes	T047	C0013720
+27245524	52	56	EDSs	T047	C0013720
+27245524	74	83	described	T170	C0678257
+27245524	87	93	Ehlers	T016	C0086418
+27245524	97	104	Denmark	T083	C0011318
+27245524	109	115	Danlos	T016	C0086418
+27245524	119	124	Paris	T083	C0030561
+27245524	171	180	published	T057	C0034037
+27245524	192	204	case studies	T170	C0085973
+27245524	236	255	laxity of ligaments	T046	C0158359
+27245524	267	286	joint hypermobility	T184	C0086437
+27245524	291	321	hyperextensibility of the skin	T033	C0241074
+27245524	341	345	name	T170	C0027365
+27245524	354	371	eponymous disease	T170	C0282574
+27245524	389	404	Dr Parkes Weber	T016	C0086418
+27245524	417	423	London	T083	C0023973
+27245524	424	433	physician	T097	C0031831
+27245524	458	466	penchant	T055	C3826173
+27245524	471	489	eponymous diseases	T170	C0282574
+27245524	606	629	computerised literature	T170	C0023866
+27245524	630	636	search	T052	C1706202
+27245524	642	654	Parkes Weber	T016	C0086418
+27245524	699	710	description	T170	C0678257
+27245524	714	717	EDS	T047	C0013720
+27245524	741	753	Tchernabogov	T016	C0086418
+27245524	757	764	Russian	T098	C0337816
+27245524	765	778	dermatologist	T097	C0259831
+27245524	786	797	description	T170	C0678257
+27245524	802	811	published	T057	C0034037
+27245524	848	860	descriptions	T170	C0678257
+27245524	864	867	EDS	T047	C0013720
+27245524	875	885	literature	T170	C0023866
+
+27277750|t|Co-delivery of pemetrexed and miR-21 antisense oligonucleotide by lipid - polymer hybrid nanoparticles and effects on glioblastoma cells
+27277750|a|Combination therapy using anticancer drugs and nucleic acid is a more promising strategy to overcome multidrug resistance in cancer and to enhance apoptosis. In this study, lipid - polymer hybrid nanoparticles (LPNs), which contain both pemetrexed and miR-21 antisense oligonucleotide (anti-miR-21), have been developed for treatment of glioblastoma, the most aggressive type of brain tumor. Prepared LPNs have been well characterized by particle size distribution and zeta potential measurements, determination of encapsulation efficiency, and in vitro release experiments. Morphology of LPNs was determined by transmission electron microscopy. LPNs had a hydrodynamic size below 100 nm and exhibited sustained release of pemetrexed up to 10 h. Encapsulation of pemetrexed in LPNs increased cellular uptake from 6% to 78%. Results of confocal microscopy analysis have shown that co-delivery of anti-miR-21 significantly improved accumulation of LPNs in the nucleus of U87MG cells. Nevertheless, more effective cytotoxicity results could not be obtained due to low concentration of anti-miR-21, loaded in LPNs. We expect that the effective drug delivery systems can be obtained with higher concentration of anti-miR-21 for the treatment of glioblastoma.
+27277750	0	11	Co-delivery	T169	C1705822
+27277750	15	25	pemetrexed	T109,T121	C0210657
+27277750	30	62	miR-21 antisense oligonucleotide	T114,T123,T130	C0079925
+27277750	66	71	lipid	T109	C0023779
+27277750	74	81	polymer	T104,T122	C0032521
+27277750	82	102	hybrid nanoparticles	T073	C1450054
+27277750	107	114	effects	T080	C1280500
+27277750	118	130	glioblastoma	T191	C0017636
+27277750	131	136	cells	T025	C0007634
+27277750	137	156	Combination therapy	T061	C0009429
+27277750	163	179	anticancer drugs	T109,T121	C0003392
+27277750	184	196	nucleic acid	T114,T123	C0028606
+27277750	238	258	multidrug resistance	T032	C0242640
+27277750	262	268	cancer	T191	C0027651
+27277750	284	293	apoptosis	T043	C0162638
+27277750	303	308	study	T062	C2603343
+27277750	310	315	lipid	T109	C0023779
+27277750	318	325	polymer	T104,T122	C0032521
+27277750	326	346	hybrid nanoparticles	T073	C1450054
+27277750	348	352	LPNs	T122	C1713964
+27277750	374	384	pemetrexed	T109,T121	C0210657
+27277750	389	421	miR-21 antisense oligonucleotide	T114,T123,T130	C0079925
+27277750	423	434	anti-miR-21	T114,T123,T130	C0079925
+27277750	461	470	treatment	T169	C1522326
+27277750	474	486	glioblastoma	T191	C0017636
+27277750	497	507	aggressive	T191	C2945759
+27277750	516	527	brain tumor	T191	C0006118
+27277750	538	542	LPNs	T122	C1713964
+27277750	575	588	particle size	T081	C0030608
+27277750	589	601	distribution	T169	C1704711
+27277750	606	620	zeta potential	T067	C0597697
+27277750	621	633	measurements	T169	C0242485
+27277750	652	665	encapsulation	T067	C2348438
+27277750	666	676	efficiency	T081	C0013682
+27277750	682	690	in vitro	T080	C1533691
+27277750	691	710	release experiments	T062	C0681814
+27277750	712	722	Morphology	T080	C0332437
+27277750	726	730	LPNs	T122	C1713964
+27277750	749	781	transmission electron microscopy	T059	C0678118
+27277750	783	787	LPNs	T122	C1713964
+27277750	794	806	hydrodynamic	T070	C2936194
+27277750	807	811	size	T082	C0456389
+27277750	839	856	sustained release	T169	C0391871
+27277750	860	870	pemetrexed	T109,T121	C0210657
+27277750	883	896	Encapsulation	T067	C2348438
+27277750	900	910	pemetrexed	T109,T121	C0210657
+27277750	914	918	LPNs	T122	C1713964
+27277750	929	944	cellular uptake	T043	C0007613
+27277750	972	1000	confocal microscopy analysis	T059	C0242842
+27277750	1017	1028	co-delivery	T169	C1705822
+27277750	1032	1043	anti-miR-21	T114,T123,T130	C0079925
+27277750	1067	1079	accumulation	T033	C4055506
+27277750	1083	1087	LPNs	T122	C1713964
+27277750	1095	1102	nucleus	T026	C0007610
+27277750	1106	1117	U87MG cells	T025	C0007634
+27277750	1148	1160	cytotoxicity	T049	C0596402
+27277750	1161	1168	results	T169	C1274040
+27277750	1202	1215	concentration	UnknownType	C0678563
+27277750	1219	1230	anti-miR-21	T114,T123,T130	C0079925
+27277750	1242	1246	LPNs	T122	C1713964
+27277750	1277	1298	drug delivery systems	T074	C0085104
+27277750	1327	1340	concentration	UnknownType	C0678563
+27277750	1344	1355	anti-miR-21	T114,T123,T130	C0079925
+27277750	1364	1373	treatment	T061	C0087111
+27277750	1377	1389	glioblastoma	T191	C0017636
+
+27279981|t|Expression of the Mir-133 and Bcl-2 could be affected by swimming training in the heart of ovariectomized rats
+27279981|a|The beneficial and more potent role of exercise to prevent heart apoptosis in ovariectomized rats has been known. The aim of this study was to examine the effects of swimming training on cardiac expression of Bcl-2, and Mir-133 levels and glycogen changes in the myocyte. Forty animals were separated into four groups as control, sham, ovariectomy (OVX) and ovariectomized group with 8 weeks swimming training (OVX.E). Training effects were evaluated by measuring lipid profiles, Bcl-2 and Mir-133 expression levels in the cardiac tissue. Grafts were analyzed by reverse transcription-polymerase chain reaction for Bcl-2 mRNA and Mir-133 and by Western blot for Bcl-2 protein. Ovariectomy down-regulated Bcl-2 and Mir-133 expression levels in the cardiac tissue, and swimming training up-regulated their expression significantly (P<0.05). Our results showed that regular exercise as a physical replacement therapy could prevent and improve the effects of estrogen deficiency in the cardia.
+27279981	0	10	Expression	T045	C1171362
+27279981	18	25	Mir-133	T114	C2934005
+27279981	30	35	Bcl-2	T116,T123	C1528442
+27279981	57	65	swimming	T056	C0039003
+27279981	66	74	training	T065	C0220931
+27279981	82	87	heart	T023	C0018787
+27279981	91	110	ovariectomized rats	T015	C0034693
+27279981	142	146	role	T077	C1705810
+27279981	150	158	exercise	T056	C0015259
+27279981	162	169	prevent	T080	C2700409
+27279981	170	175	heart	T023	C0018787
+27279981	176	185	apoptosis	T043	C0162638
+27279981	189	208	ovariectomized rats	T015	C0034693
+27279981	266	276	effects of	T080	C1704420
+27279981	277	285	swimming	T056	C0039003
+27279981	286	294	training	T065	C0220931
+27279981	298	305	cardiac	T023	C0018787
+27279981	306	316	expression	T045	C1171362
+27279981	320	325	Bcl-2	T116,T123	C1528442
+27279981	331	338	Mir-133	T114	C2934005
+27279981	339	345	levels	T080	C0441889
+27279981	350	358	glycogen	T109,T123	C0017911
+27279981	359	366	changes	T169	C0392747
+27279981	374	381	myocyte	T025	C0225828
+27279981	389	396	animals	T008	C0003062
+27279981	422	428	groups	T078	C0441833
+27279981	432	439	control	T096	C0009932
+27279981	441	445	sham	T078	C0441833
+27279981	447	458	ovariectomy	T078	C0441833
+27279981	460	463	OVX	T078	C0441833
+27279981	469	489	ovariectomized group	T078	C0441833
+27279981	497	502	weeks	T079	C0439230
+27279981	503	511	swimming	T056	C0039003
+27279981	512	520	training	T065	C0220931
+27279981	530	538	Training	T065	C0220931
+27279981	539	546	effects	T080	C1280500
+27279981	575	589	lipid profiles	T059	C0022885
+27279981	591	596	Bcl-2	T116,T123	C1528442
+27279981	601	608	Mir-133	T114	C2934005
+27279981	609	626	expression levels	T081	C3244092
+27279981	634	648	cardiac tissue	T024	C1272575
+27279981	650	656	Grafts	T024	C0332835
+27279981	674	721	reverse transcription-polymerase chain reaction	T063	C0599161
+27279981	726	736	Bcl-2 mRNA	T028	C0376515
+27279981	741	748	Mir-133	T028	C2825314
+27279981	756	768	Western blot	T059,T063	C0005863
+27279981	773	786	Bcl-2 protein	T116,T123	C1528442
+27279981	788	799	Ovariectomy	T061	C0029936
+27279981	800	814	down-regulated	T044	C0013081
+27279981	815	820	Bcl-2	T116,T123	C1528442
+27279981	825	832	Mir-133	T114	C2934005
+27279981	833	850	expression levels	T081	C3244092
+27279981	858	872	cardiac tissue	T024	C1272575
+27279981	878	886	swimming	T056	C0039003
+27279981	887	895	training	T065	C0220931
+27279981	896	908	up-regulated	T044	C0041904
+27279981	915	925	expression	T045	C1171362
+27279981	982	990	exercise	T056	C0015259
+27279981	996	1024	physical replacement therapy	T061	C0279033
+27279981	1031	1038	prevent	T080	C2700409
+27279981	1055	1065	effects of	T080	C1704420
+27279981	1066	1085	estrogen deficiency	T047	C0853662
+27279981	1093	1099	cardia	T023	C0018787
+
+27237301|t|Clinical value of pathologic examination of non-neoplastic kidney in patients with upper urinary tract malignancies
+27237301|a|While surgical resection remains the standard of care in the treatment of upper urinary tract malignancies, nephrectomy is a risk factor for the development of chronic kidney disease (CKD). The aim of this study was to determine whether histologic evaluation of non-neoplastic kidney could enable early identification of unrecognized kidney disease and could be of prognostic value in predicting postoperative renal outcomes. We retrospectively analyzed 51 patients with upper urinary tract malignancies who received uninephrectomy or uninephroureterectomy. A thorough pathologic evaluation of non-neoplastic kidney including special stains, immunofluorescence, and electron microscopic studies was performed. The degree of parenchymal changes was graded from 0 to 15. Of 51 patients, only 13 showed normal kidney pathology. Fifteen patients showed glomerular abnormalities, 14 showed diabetic nephropathy, and 11 showed vascular nephropathy. There was one case each of reflux nephropathy and chronic pyelonephritis. The median histologic score was 5 points. Only 25.4% of patients had ≤ 3 points. Score more than 5 was observed in 47.1% of patients. Postoperative estimated glomerular filtration rate (eGFR) at 3 to 36 months were obtained from 90.2% of patients, and of those, 34.8% had de novo CKD. Since no one had CKD in partial nephrectomized patients, we determined risk factors for CKD in radical nephrectomized patients. Cox regression analysis revealed that postoperative AKI, preoperative eGFR, and histologic score of non-neoplastic kidney were the independent predictors for CKD. We conclude that routine pathologic evaluation of non-neoplastic kidney provides valuable diagnostic and prognostic information.
+27237301	0	14	Clinical value	T033	C2826293
+27237301	18	40	pathologic examination	T060	C4086729
+27237301	44	65	non-neoplastic kidney	T023	C0022646
+27237301	69	77	patients	T101	C0030705
+27237301	83	102	upper urinary tract	T022	C1278977
+27237301	103	115	malignancies	T191	C4282132
+27237301	122	140	surgical resection	T061	C0728940
+27237301	165	169	care	T052	C1947933
+27237301	177	186	treatment	T061	C0087111
+27237301	190	209	upper urinary tract	T022	C1278977
+27237301	210	222	malignancies	T191	C4282132
+27237301	224	235	nephrectomy	T061	C0027695
+27237301	241	252	risk factor	T033	C0035648
+27237301	261	272	development	T169	C1527148
+27237301	276	298	chronic kidney disease	T047	C1561643
+27237301	300	303	CKD	T047	C1561643
+27237301	322	327	study	T062	C2603343
+27237301	353	363	histologic	T169	C0205462
+27237301	364	374	evaluation	T058	C0220825
+27237301	378	399	non-neoplastic kidney	T023	C0022646
+27237301	413	433	early identification	T061	C0814435
+27237301	450	464	kidney disease	T047	C0022658
+27237301	481	491	prognostic	T170	C0220901
+27237301	512	525	postoperative	T079	C0032790
+27237301	526	531	renal	T023	C0022646
+27237301	532	540	outcomes	T080	C0085415
+27237301	545	569	retrospectively analyzed	T062	C0035363
+27237301	573	581	patients	T101	C0030705
+27237301	587	606	upper urinary tract	T022	C1278977
+27237301	607	619	malignancies	T191	C4282132
+27237301	633	647	uninephrectomy	T061	C0027695
+27237301	651	672	uninephroureterectomy	T061	C0027732
+27237301	685	695	pathologic	T169	C1521733
+27237301	696	706	evaluation	T058	C0220825
+27237301	710	731	non-neoplastic kidney	T023	C0022646
+27237301	742	756	special stains	T061	C2038188
+27237301	758	776	immunofluorescence	T059	C0079603
+27237301	782	810	electron microscopic studies	T059	C0026019
+27237301	830	836	degree	T081	C0449286
+27237301	840	851	parenchymal	T023	C0933845
+27237301	852	859	changes	T169	C0392747
+27237301	891	899	patients	T101	C0030705
+27237301	923	929	kidney	T023	C0022646
+27237301	930	939	pathology	T091	C0030664
+27237301	949	957	patients	T101	C0030705
+27237301	965	989	glomerular abnormalities	T047	C1398788
+27237301	1001	1021	diabetic nephropathy	T047	C0011881
+27237301	1037	1045	vascular	T023	C0005847
+27237301	1046	1057	nephropathy	T061	C0027695
+27237301	1086	1104	reflux nephropathy	T047	C3495566
+27237301	1109	1131	chronic pyelonephritis	T047	C0085697
+27237301	1144	1160	histologic score	T081	C0449820
+27237301	1189	1197	patients	T101	C0030705
+27237301	1214	1219	Score	T081	C0449820
+27237301	1257	1265	patients	T101	C0030705
+27237301	1267	1280	Postoperative	T079	C0032790
+27237301	1281	1317	estimated glomerular filtration rate	T059	C3811844
+27237301	1319	1323	eGFR	T059	C3811844
+27237301	1336	1342	months	T079	C0439231
+27237301	1371	1379	patients	T101	C0030705
+27237301	1413	1416	CKD	T047	C1561643
+27237301	1435	1438	CKD	T047	C1561643
+27237301	1450	1473	nephrectomized patients	T101	C0030705
+27237301	1489	1501	risk factors	T033	C0035648
+27237301	1506	1509	CKD	T047	C1561643
+27237301	1521	1544	nephrectomized patients	T101	C0030705
+27237301	1546	1569	Cox regression analysis	T170	C0034980
+27237301	1584	1597	postoperative	T079	C0032790
+27237301	1598	1601	AKI	T037	C2609414
+27237301	1603	1615	preoperative	T079	C0445204
+27237301	1616	1620	eGFR	T059	C3811844
+27237301	1626	1636	histologic	T169	C0205462
+27237301	1646	1667	non-neoplastic kidney	T023	C0022646
+27237301	1689	1699	predictors	T078	C2698872
+27237301	1704	1707	CKD	T047	C1561643
+27237301	1734	1744	pathologic	T169	C1521733
+27237301	1745	1755	evaluation	T058	C0220825
+27237301	1759	1780	non-neoplastic kidney	T023	C0022646
+27237301	1799	1809	diagnostic	T169	C0348026
+27237301	1814	1824	prognostic	T170	C0220901
+
+27245100|t|Describing Self-Care Self-Efficacy: Definition, Measurement, Outcomes, and Implications
+27245100|a|The pragmatic utility method of concept analysis was used to explore the usefulness of the concept self-care self-efficacy. Empirical studies across disciplines published between 1996 and 2015 were used as data. A data matrix was developed. Analytical questions and responses were derived from the data to understand patterns, develop new knowledge and achieve synthesis. Usefulness of the concept is contingent on how it is defined and measured. Self-care self-efficacy is associated with performance of self-care activities and positive health outcomes in diverse populations. Research can guide development of targeted interventions to increase patients ' self-care self-efficacy, thus reducing costs, and assisting people to achieve optimal health.
+27245100	11	20	Self-Care	T056	C0036592
+27245100	21	34	Self-Efficacy	T041	C0600564
+27245100	36	46	Definition	T170	C1704788
+27245100	48	59	Measurement	T169	C0242485
+27245100	61	69	Outcomes	T169	C1274040
+27245100	75	87	Implications	T078	C1707478
+27245100	92	116	pragmatic utility method	T062	C3658312
+27245100	120	127	concept	T078	C0178566
+27245100	128	136	analysis	T062	C0936012
+27245100	161	171	usefulness	T080	C3827682
+27245100	179	186	concept	T078	C0178566
+27245100	187	196	self-care	T056	C0036592
+27245100	197	210	self-efficacy	T041	C0600564
+27245100	212	229	Empirical studies	T062	C0681812
+27245100	237	248	disciplines	T090	C0005526
+27245100	294	298	data	T078	C1511726
+27245100	302	313	data matrix	T078	C1511726
+27245100	340	349	questions	T078	C0681799
+27245100	354	363	responses	T170	C1706817
+27245100	386	390	data	T078	C1511726
+27245100	427	436	knowledge	T170	C0376554
+27245100	460	470	Usefulness	T080	C3827682
+27245100	478	485	concept	T078	C0178566
+27245100	535	544	Self-care	T056	C0036592
+27245100	545	558	self-efficacy	T041	C0600564
+27245100	562	577	associated with	T080	C0332281
+27245100	578	589	performance	T052	C1882330
+27245100	593	613	self-care activities	T056	C0563471
+27245100	618	626	positive	T033	C1446409
+27245100	627	642	health outcomes	T057	C3858647
+27245100	646	653	diverse	T080	C1880371
+27245100	654	665	populations	T098	C1257890
+27245100	667	675	Research	T062	C0035168
+27245100	686	697	development	T169	C1527148
+27245100	710	723	interventions	T058	C0886296
+27245100	736	744	patients	T101	C0030705
+27245100	747	756	self-care	T056	C0036592
+27245100	757	770	self-efficacy	T041	C0600564
+27245100	777	785	reducing	T080	C0392756
+27245100	786	791	costs	T081	C0010186
+27245100	797	806	assisting	T058	C1280910
+27245100	807	813	people	T098	C0027361
+27245100	825	832	optimal	T080	C2698651
+27245100	833	839	health	T078	C0018684
+
+27282454|t|Achilles tendon material properties are greater in the jump leg of jumping athletes
+27282454|a|The Achilles tendon (AT) must adapt to meet changes in demands. This study explored AT adaptation by comparing properties within the jump and non-jump legs of jumping athletes. Non-jumping control athletes were included to control limb dominance effects. AT properties were assessed in the preferred (jump) and non-preferred (lead) jumping legs of male collegiate-level long and/or high jump (jumpers; n=10) and cross-country (controls; n=10) athletes. Cross-sectional area (CSA), elongation, and force during isometric contractions were used to estimate the morphological, mechanical and material properties of the ATs bilaterally. Jumpers exposed their ATs to more force and stress than controls (all p≤0.03). AT force and stress were also greater in the jump leg of both jumpers and controls than in the lead leg (all p<0.05). Jumpers had 17.8% greater AT stiffness and 24.4% greater Young's modulus in their jump leg compared to lead leg (all p<0.05). There were no jump versus lead leg differences in AT stiffness or Young's modulus within controls (all p>0.05). ATs chronically exposed to elevated mechanical loading were found to exhibit greater mechanical (stiffness) and material (Young's modulus) properties.
+27282454	0	15	Achilles tendon	T023	C0001074
+27282454	16	35	material properties	T070	C3658372
+27282454	40	47	greater	T081	C1704243
+27282454	55	63	jump leg	T023	C1140621
+27282454	67	74	jumping	T056	C0221189
+27282454	75	83	athletes	T097	C0238703
+27282454	88	103	Achilles tendon	T023	C0001074
+27282454	105	107	AT	T023	C0001074
+27282454	123	127	meet	T067	C1550543
+27282454	128	135	changes	T169	C0392747
+27282454	139	146	demands	T078	C0699784
+27282454	168	170	AT	T023	C0001074
+27282454	171	181	adaptation	T040	C0000934
+27282454	185	194	comparing	T052	C1707455
+27282454	195	205	properties	T080	C0871161
+27282454	217	221	jump	T056	C0221189
+27282454	226	234	non-jump	T033	C0243095
+27282454	235	239	legs	T023	C1140621
+27282454	243	250	jumping	T056	C0221189
+27282454	251	259	athletes	T097	C0238703
+27282454	261	272	Non-jumping	T033	C0243095
+27282454	273	289	control athletes	T097	C0238703
+27282454	295	303	included	T169	C0332257
+27282454	307	314	control	T080	C0243148
+27282454	315	319	limb	T023	C0015385
+27282454	320	329	dominance	T078	C0870441
+27282454	330	337	effects	T080	C1280500
+27282454	339	341	AT	T023	C0001074
+27282454	342	352	properties	T080	C0871161
+27282454	358	366	assessed	T052	C1516048
+27282454	374	383	preferred	T078	C0558295
+27282454	385	389	jump	T056	C0221189
+27282454	395	408	non-preferred	T033	C0243095
+27282454	416	423	jumping	T056	C0221189
+27282454	424	428	legs	T023	C1140621
+27282454	432	436	male	T032	C0086582
+27282454	437	453	collegiate-level	T080	C0441889
+27282454	454	458	long	T080	C0205166
+27282454	466	470	high	T080	C0205250
+27282454	471	475	jump	T056	C0221189
+27282454	477	484	jumpers	T098	C1257890
+27282454	496	509	cross-country	T083	C0454664
+27282454	511	519	controls	T097	C0238703
+27282454	527	535	athletes	T097	C0238703
+27282454	537	557	Cross-sectional area	T082	C0205146
+27282454	559	562	CSA	T082	C0205146
+27282454	565	575	elongation	T067	C1254366
+27282454	581	586	force	T067	C0441722
+27282454	594	616	isometric contractions	T042	C0022205
+27282454	630	638	estimate	T081	C0750572
+27282454	643	656	morphological	T082	C0543482
+27282454	658	668	mechanical	T070	C3658372
+27282454	673	692	material properties	T070	C3658372
+27282454	700	703	ATs	T023	C0001074
+27282454	704	715	bilaterally	T082	C0238767
+27282454	717	724	Jumpers	T098	C1257890
+27282454	725	732	exposed	T080	C0332157
+27282454	739	742	ATs	T023	C0001074
+27282454	751	756	force	T067	C0441722
+27282454	761	767	stress	T033	C0038435
+27282454	773	781	controls	T097	C0238703
+27282454	796	798	AT	T023	C0001074
+27282454	799	804	force	T067	C0441722
+27282454	809	815	stress	T033	C0038435
+27282454	826	833	greater	T081	C1704243
+27282454	841	845	jump	T056	C0221189
+27282454	846	849	leg	T023	C1140621
+27282454	858	865	jumpers	T098	C1257890
+27282454	870	878	controls	T097	C0238703
+27282454	891	899	lead leg	T023	C1140621
+27282454	914	921	Jumpers	T098	C1257890
+27282454	932	939	greater	T081	C1704243
+27282454	940	942	AT	T023	C0001074
+27282454	943	952	stiffness	T184	C0427008
+27282454	963	970	greater	T081	C1704243
+27282454	971	986	Young's modulus	T081	C2350289
+27282454	996	1000	jump	T056	C0221189
+27282454	1001	1004	leg	T023	C1140621
+27282454	1005	1013	compared	T052	C1707455
+27282454	1017	1025	lead leg	T023	C1140621
+27282454	1054	1058	jump	T056	C0221189
+27282454	1066	1074	lead leg	T023	C1140621
+27282454	1075	1086	differences	T080	C1705242
+27282454	1090	1092	AT	T023	C0001074
+27282454	1093	1102	stiffness	T184	C0427008
+27282454	1106	1121	Young's modulus	T081	C2350289
+27282454	1129	1137	controls	T097	C0238703
+27282454	1152	1155	ATs	T023	C0001074
+27282454	1156	1167	chronically	T079	C0205191
+27282454	1168	1175	exposed	T080	C0332157
+27282454	1179	1187	elevated	T080	C3163633
+27282454	1188	1206	mechanical loading	T067	C0563538
+27282454	1229	1236	greater	T081	C1704243
+27282454	1237	1247	mechanical	T070	C3658372
+27282454	1249	1258	stiffness	T184	C0427008
+27282454	1264	1272	material	T070	C3658372
+27282454	1274	1289	Young's modulus	T081	C2350289
+27282454	1291	1301	properties	T080	C0871161
+
+27274893|t|Comparison of sonoelastography with sonourethrography and retrograde urethrography in the evaluation of male anterior urethral strictures
+27274893|a|Retrograde urethrography (RUG) is the most common and preferred imaging modality for imaging of the anterior urethral strictures despite its well-known limitations and disadvantages. Sonourethrography (SUG) was introduced in 1988 to overcome the limitations of RUG and to provide more accurate results. As proper selection of imaging modality is very important for planning the treatment, various advances in this area are required. One of the major factors for recurrence of stricture disease is spongiofibrosis. Sonoelastography (SE) is a newer technique, tried in various other pathologies. In this study, we have used this technique for the first time to assess its efficacy in the evaluation of anterior urethral stricture disease by comparison with RUG and SUG. Between August 2014 and May 2015, 77 patients with clinical features of anterior urethral stricture disease were included in the study and evaluated by RUG followed by SUG and SE for stricture location, length, depth of spongiofibrosis and periurethral pathologies. The results were then correlated with operative and histopathological findings. Overall diagnostic accuracy of SE, SUG, and RGU for the estimation of stricture location, and length were estimated 92.68% vs. 91.54%, 79% vs. 78.87% and 80.48% vs. 43.66%, respectively, while for depth of spongiofibrosis SE, and SUG had accuracy rates of 87.3%, 48%, respectively. The mean length measured on SE was nearest to the mean intra-operative stricture length (21.34+11.8 mm). SE findings significantly correlated with the colour of bladder mucosa on cystoscopic examination (p=0.003) whereas the association was non-significant (p=0.127) for difficulty in incision. While a nonsignificant correlation existed between SUG findings related both to the colour of the bladder mucosa and difficulty in incision on cystoscopy, SE findings had a significant association (p<0.001) with histopathology findings for severe degree of fibrosis. Sonoelastography estimates stricture site and length better in comparison with RUG and SUG. It estimates degree of spongiofibrosis which serves as an important prognostic factor for stricture recurrence more accurately than SUG.
+27274893	14	30	sonoelastography	T060	C1955929
+27274893	36	53	sonourethrography	T060	C0581495
+27274893	58	82	retrograde urethrography	T060	C0845989
+27274893	90	100	evaluation	T058	C0220825
+27274893	104	108	male	T032	C0086582
+27274893	109	137	anterior urethral strictures	T190	C1720814
+27274893	138	162	Retrograde urethrography	T060	C0845989
+27274893	164	167	RUG	T060	C0845989
+27274893	202	218	imaging modality	T169	C1275506
+27274893	223	230	imaging	T060	C0011923
+27274893	238	266	anterior urethral strictures	T190	C1720814
+27274893	290	301	limitations	T169	C0449295
+27274893	321	338	Sonourethrography	T060	C0581495
+27274893	340	343	SUG	T060	C0581495
+27274893	371	379	overcome	T052	C2983310
+27274893	384	395	limitations	T169	C0449295
+27274893	399	402	RUG	T060	C0845989
+27274893	423	439	accurate results	T080	C0598285
+27274893	464	480	imaging modality	T169	C1275506
+27274893	503	525	planning the treatment	T170	C0599880
+27274893	600	610	recurrence	T067	C0034897
+27274893	614	631	stricture disease	T047	C0041974
+27274893	635	650	spongiofibrosis	T046	C0016059
+27274893	652	668	Sonoelastography	T060	C1955929
+27274893	670	672	SE	T060	C1955929
+27274893	679	694	newer technique	T062	C1519842
+27274893	719	730	pathologies	T091	C0030664
+27274893	808	816	efficacy	T080	C2348251
+27274893	838	873	anterior urethral stricture disease	T190	C1720814
+27274893	893	896	RUG	T060	C0845989
+27274893	901	904	SUG	T060	C0581495
+27274893	943	951	patients	T101	C0030705
+27274893	978	1013	anterior urethral stricture disease	T190	C1720814
+27274893	1058	1061	RUG	T060	C0845989
+27274893	1074	1077	SUG	T060	C0581495
+27274893	1082	1084	SE	T060	C1955929
+27274893	1089	1098	stricture	T047	C1389955
+27274893	1099	1107	location	T082	C0450429
+27274893	1109	1115	length	T081	C1444754
+27274893	1117	1122	depth	T201	C1827571
+27274893	1126	1141	spongiofibrosis	T046	C0016059
+27274893	1146	1158	periurethral	T029	C3828581
+27274893	1159	1170	pathologies	T091	C0030664
+27274893	1224	1250	histopathological findings	T169	C0243140
+27274893	1260	1279	diagnostic accuracy	T080	C0598285
+27274893	1283	1285	SE	T060	C1955929
+27274893	1287	1290	SUG	T060	C0581495
+27274893	1296	1299	RGU	T060	C0845989
+27274893	1322	1331	stricture	T047	C1389955
+27274893	1332	1340	location	T082	C0450429
+27274893	1346	1352	length	T081	C1444754
+27274893	1449	1454	depth	T201	C1827571
+27274893	1458	1473	spongiofibrosis	T046	C0016059
+27274893	1474	1476	SE	T060	C1955929
+27274893	1482	1485	SUG	T060	C0581495
+27274893	1490	1504	accuracy rates	T080	C0443131
+27274893	1562	1564	SE	T060	C1955929
+27274893	1589	1604	intra-operative	T079	C0456904
+27274893	1605	1614	stricture	T047	C1389955
+27274893	1615	1621	length	T081	C1444754
+27274893	1639	1641	SE	T060	C1955929
+27274893	1685	1709	colour of bladder mucosa	T033	C0475705
+27274893	1713	1736	cystoscopic examination	T060	C0401483
+27274893	1819	1827	incision	T061	C0184898
+27274893	1880	1883	SUG	T060	C0581495
+27274893	1913	1941	colour of the bladder mucosa	T033	C0475705
+27274893	1960	1968	incision	T061	C0184898
+27274893	1972	1982	cystoscopy	T060	C0010702
+27274893	1984	1986	SE	T060	C1955929
+27274893	2041	2064	histopathology findings	T169	C0243140
+27274893	2076	2094	degree of fibrosis	T060	C4285457
+27274893	2096	2112	Sonoelastography	T060	C1955929
+27274893	2123	2148	stricture site and length	T082	C1254362
+27274893	2175	2178	RUG	T060	C0845989
+27274893	2183	2186	SUG	T060	C0581495
+27274893	2211	2226	spongiofibrosis	T046	C0016059
+27274893	2256	2273	prognostic factor	T201	C1514474
+27274893	2278	2298	stricture recurrence	T067	C0034897
+27274893	2304	2314	accurately	T080	C0443131
+27274893	2320	2323	SUG	T060	C0581495
+
+27250949|t|Strategies for Assaying Lysosomal Membrane Permeabilization
+27250949|a|Late endosomal organelles have an acidic pH and contain hydrolytic enzymes to degrade cargo delivered either from the extracellular environment by endocytosis or from within the cell itself by autophagy. In the event of lysosomal membrane permeabilization (LMP), the contents of late endosomes and lysosomes can be released into the cytosol and then initiate apoptosis. Compounds that can trigger LMP are therefore candidates for the induction of apoptosis, in particular in anticancer therapy. Alternatively, drug-delivery systems, such as nanoparticles, can have side effects that can include LMP, which has toxic consequences for the cells. To determine when, to what extent, and with what consequences LMP occurs is therefore of paramount importance for the evaluation of new potentially LMP - inducing compounds. In this introduction, we provide an overview of some basic assays for assessing LMP, such as staining with lysosomotropic dyes and measurement of cysteine cathepsin activity, and discuss additional strategies for the detection of the release of endogenous lysosomal molecules or preloaded exogenous tracers into the cytosol.
+27250949	0	10	Strategies	T061	C0184661
+27250949	15	23	Assaying	T059	C1510438
+27250949	24	42	Lysosomal Membrane	T026	C0230812
+27250949	43	59	Permeabilization	T043	C0007613
+27250949	60	74	Late endosomal	T026	C1166848
+27250949	75	85	organelles	T026	C0029219
+27250949	94	103	acidic pH	T081	C0020283
+27250949	116	134	hydrolytic enzymes	T116,T126	C0020289
+27250949	138	145	degrade	T169	C0243125
+27250949	178	191	extracellular	T026	C0521119
+27250949	192	203	environment	T082	C0014406
+27250949	207	218	endocytosis	T043	C0014139
+27250949	238	242	cell	T025	C0007634
+27250949	253	262	autophagy	T043	C0004391
+27250949	280	298	lysosomal membrane	T026	C0230812
+27250949	299	315	permeabilization	T043	C0007613
+27250949	317	320	LMP	T043	C0007613
+27250949	339	353	late endosomes	T026	C1166848
+27250949	358	367	lysosomes	T026	C0024369
+27250949	393	400	cytosol	T026	C1383501
+27250949	419	428	apoptosis	T043	C0162638
+27250949	430	439	Compounds	T080	C0205198
+27250949	457	460	LMP	T043	C0007613
+27250949	494	503	induction	T169	C0205263
+27250949	507	516	apoptosis	T043	C0162638
+27250949	535	553	anticancer therapy	T061	C0920425
+27250949	570	591	drug-delivery systems	T074	C0085104
+27250949	601	614	nanoparticles	T073	C1450054
+27250949	655	658	LMP	T043	C0007613
+27250949	670	688	toxic consequences	T037	C0600688
+27250949	697	702	cells	T025	C0007634
+27250949	753	765	consequences	T078	C1547646
+27250949	766	769	LMP	T043	C0007613
+27250949	793	813	paramount importance	T080	C3898777
+27250949	822	832	evaluation	T058	C0220825
+27250949	836	839	new	T080	C0205314
+27250949	840	851	potentially	T080	C3245505
+27250949	852	855	LMP	T043	C0007613
+27250949	858	876	inducing compounds	T080	C0205198
+27250949	931	943	basic assays	T059	C1510438
+27250949	948	957	assessing	T058	C0184514
+27250949	958	961	LMP	T043	C0007613
+27250949	985	1004	lysosomotropic dyes	T130	C0013343
+27250949	1024	1032	cysteine	T116,T123	C0010654
+27250949	1033	1042	cathepsin	T116,T126	C0007428
+27250949	1043	1051	activity	T044	C0243102
+27250949	1076	1086	strategies	T061	C0184661
+27250949	1095	1104	detection	T061	C1511790
+27250949	1112	1119	release	T169	C1283071
+27250949	1123	1133	endogenous	T169	C0205227
+27250949	1134	1143	lysosomal	T026	C0024369
+27250949	1144	1153	molecules	T167	C0567416
+27250949	1167	1176	exogenous	T169	C0205228
+27250949	1177	1184	tracers	T130	C1522485
+27250949	1194	1201	cytosol	T026	C1383501
+
+27283994|t|Juglone ameliorates skin wound healing by promoting skin cell migration through Rac1 / Cdc42 / PAK pathway
+27283994|a|Skin cell regeneration and wound healing are key processes in the recovery from skin injuries. Rapid cell migration and regeneration of skin cells lead to faster and better healing of wounded skin. In the present study, we aimed to investigate the wound healing potential of juglone, a naturally occurring Pin1 inhibitor found in walnuts. Cultured skin cells (NHDF and HaCaT) and hairless mice were treated with juglone after wound creation to examine its effects on cell migration and wound healing rate. The expressions of cell migration related proteins (Rac1, Cdc42, and α-PAK), collagen deposition, and angiogenesis were analyzed. Juglone treatment resulted in faster rate of growth and migration and recovered cell morphology, particularly at a concentration of 5 µM, in skin cells compared to the untreated group. In vivo experiments showed that mice treated with juglone showed faster wound healing rate with better skin morphology and collagen deposition than the vehicle group. Furthermore, juglone increased the activation and/or expression of Cdc42, Rac1, and α-pak in HaCaT cells, and resulted in enhanced angiogenesis in endothelial cells (HUVECs). Juglone also activated MAPKs signaling by activation of ERK, JNK, and p38 proteins. Taken together, these data suggest that juglone may be a potential candidate for wound healing and skin regeneration which ameliorates wound healing mainly by promoting skin cell migration through Rac1 / Cdc42 / PAK pathway.
+27283994	0	7	Juglone	T109,T121	C0064170
+27283994	8	19	ameliorates	T080	C0205556
+27283994	20	24	skin	T022	C1123023
+27283994	25	38	wound healing	T040	C0043240
+27283994	42	51	promoting	T052	C0033414
+27283994	52	56	skin	T022	C1123023
+27283994	57	71	cell migration	T043	C1622501
+27283994	80	84	Rac1	T116,T126	C0139880
+27283994	87	92	Cdc42	T116,T126	C0082645
+27283994	95	98	PAK	T116,T126	C0072402
+27283994	99	106	pathway	T043	C0037083
+27283994	107	116	Skin cell	T025	C0814995
+27283994	117	129	regeneration	T042	C0034963
+27283994	134	147	wound healing	T040	C0043240
+27283994	173	181	recovery	T040	C2004454
+27283994	187	200	skin injuries	T037	C0281980
+27283994	202	207	Rapid	T080	C0456962
+27283994	208	222	cell migration	T043	C1622501
+27283994	227	239	regeneration	T042	C0034963
+27283994	243	253	skin cells	T025	C0814995
+27283994	280	287	healing	T040	C0043240
+27283994	291	298	wounded	T033	C0332797
+27283994	299	303	skin	T022	C1123023
+27283994	339	350	investigate	T169	C1292732
+27283994	355	368	wound healing	T040	C0043240
+27283994	369	378	potential	T080	C3245505
+27283994	382	389	juglone	T109,T121	C0064170
+27283994	413	417	Pin1	T116,T126	C1453967
+27283994	418	427	inhibitor	T121	C0014432
+27283994	437	444	walnuts	T168	C0993635
+27283994	446	465	Cultured skin cells	T025	C0007635
+27283994	467	471	NHDF	T025	C0007634
+27283994	476	481	HaCaT	T025	C0007634
+27283994	487	500	hairless mice	T015	C0025924
+27283994	506	518	treated with	T061	C0332293
+27283994	519	526	juglone	T109,T121	C0064170
+27283994	574	588	cell migration	T043	C1622501
+27283994	617	628	expressions	T045	C1171362
+27283994	632	646	cell migration	T043	C1622501
+27283994	655	663	proteins	T116,T123	C0033684
+27283994	665	669	Rac1	T116,T126	C0139880
+27283994	671	676	Cdc42	T116,T126	C0082645
+27283994	682	687	α-PAK	T116,T126	C0299856
+27283994	690	698	collagen	T116	C0009325
+27283994	699	709	deposition	T169	C0333562
+27283994	715	727	angiogenesis	T042	C0302600
+27283994	733	741	analyzed	T062	C0936012
+27283994	743	750	Juglone	T109,T121	C0064170
+27283994	751	760	treatment	T061	C0087111
+27283994	788	794	growth	T043	C0007595
+27283994	799	808	migration	T043	C1622501
+27283994	823	838	cell morphology	T201	C1521816
+27283994	858	871	concentration	T081	C1446561
+27283994	884	894	skin cells	T025	C0814995
+27283994	911	920	untreated	T033	C0332155
+27283994	921	926	group	T098	C1257890
+27283994	928	935	In vivo	T082	C1515655
+27283994	936	947	experiments	T062	C0681814
+27283994	960	964	mice	T015	C0026809
+27283994	965	977	treated with	T061	C0332293
+27283994	978	985	juglone	T109,T121	C0064170
+27283994	1000	1013	wound healing	T040	C0043240
+27283994	1031	1035	skin	T022	C1123023
+27283994	1036	1046	morphology	T080	C0332437
+27283994	1051	1059	collagen	T116	C0009325
+27283994	1060	1070	deposition	T169	C0333562
+27283994	1080	1093	vehicle group	T096	C0009932
+27283994	1108	1115	juglone	T109,T121	C0064170
+27283994	1130	1140	activation	T044	C3822610
+27283994	1148	1158	expression	T045	C1171362
+27283994	1162	1167	Cdc42	T116,T126	C0082645
+27283994	1169	1173	Rac1	T116,T126	C0139880
+27283994	1179	1184	α-pak	T116,T126	C0299856
+27283994	1188	1199	HaCaT cells	T025	C0007634
+27283994	1217	1225	enhanced	T052	C2349975
+27283994	1226	1238	angiogenesis	T042	C0302600
+27283994	1242	1259	endothelial cells	T025	C0225336
+27283994	1261	1267	HUVECs	T025	C3179121
+27283994	1270	1277	Juglone	T109,T121	C0064170
+27283994	1293	1308	MAPKs signaling	T044	C0752320
+27283994	1312	1322	activation	T044	C3822610
+27283994	1326	1329	ERK	T116,T126	C0600388
+27283994	1331	1334	JNK	T116,T126	C0248813
+27283994	1340	1343	p38	T116,T126	C1120843
+27283994	1344	1352	proteins	T116,T123	C0033684
+27283994	1394	1401	juglone	T109,T121	C0064170
+27283994	1435	1448	wound healing	T040	C0043240
+27283994	1453	1457	skin	T022	C1123023
+27283994	1458	1470	regeneration	T042	C0034963
+27283994	1477	1488	ameliorates	T080	C0205556
+27283994	1489	1502	wound healing	T040	C0043240
+27283994	1513	1522	promoting	T052	C0033414
+27283994	1523	1527	skin	T022	C1123023
+27283994	1528	1542	cell migration	T043	C1622501
+27283994	1551	1555	Rac1	T116,T126	C0139880
+27283994	1558	1563	Cdc42	T116,T126	C0082645
+27283994	1566	1569	PAK	T116,T126	C0072402
+27283994	1570	1577	pathway	T043	C0037083
+
+27280485|t|Hepatitis E virus in donor plasma collected in Japan
+27280485|a|Human hepatitis E virus (HEV) is prevalent worldwide. Iatrogenic HEV has recently been identified based on the reports of transfusion-transmitted cases. The detection rate of HEV-RNA and seroprevalence of HEV-IgG / IgM have been regionally evaluated in Japan, and donor plasma collected in Hokkaido is currently screened by nucleic acid amplification testing. However, the detection rate of HEV-RNA in blood donors in Japan outside of Hokkaido has not been reported. A total of 620 140 qualified donor plasma samples from Japanese regions excluding Hokkaido were tested for HEV-RNA (pools of 50 or 500) between 2004 and 2014. HEV-RNA-positive plasma bags were identified, and the HEV viral load, genotype and anti-HEV immunoglobulin (Ig)G/IgM were evaluated. The detection rate of HEV-RNA (pools of 50) was 1/15 075 and higher in eastern than in western Japan. All 36 HEV-RNA-positive samples were genotype 3 with viral load ranging from <1·69 to 7·22 log10 copies/ml. Our detection rate of HEV-RNA in donor populations in Japan outside Hokkaido (1/15 075 donations) is generally lower than reported in Europe and lower than previously reported for Hokkaido (1/8173 donations). As methods varied, we cannot exclude that these differences are reflective of differing RNA detection limits. In contrast to Hokkaido where genotype 4 has been reported among blood donations, all our positive donations were genotype 3, which is less pathogenic.
+27280485	0	17	Hepatitis E virus	T005	C0085294
+27280485	21	26	donor	T098	C0013018
+27280485	27	33	plasma	T031	C0032105
+27280485	47	52	Japan	T083	C0022341
+27280485	53	58	Human	T016	C0086418
+27280485	59	76	hepatitis E virus	T005	C0085294
+27280485	78	81	HEV	T005	C0085294
+27280485	86	105	prevalent worldwide	T033	C0243095
+27280485	107	117	Iatrogenic	T080	C0439669
+27280485	118	121	HEV	T005	C0085294
+27280485	140	150	identified	T080	C0205396
+27280485	164	171	reports	T170	C0684224
+27280485	175	204	transfusion-transmitted cases	T169	C0868928
+27280485	210	224	detection rate	T081	C1521828
+27280485	228	235	HEV-RNA	T114	C3263637
+27280485	240	254	seroprevalence	T062	C0600367
+27280485	258	265	HEV-IgG	T116,T129	C0806349
+27280485	268	271	IgM	T116,T129	C0806350
+27280485	282	302	regionally evaluated	T058	C0220825
+27280485	306	311	Japan	T083	C0022341
+27280485	317	322	donor	T098	C0013018
+27280485	323	329	plasma	T031	C0032105
+27280485	343	351	Hokkaido	T083	C0454745
+27280485	365	373	screened	T169	C1305399
+27280485	377	411	nucleic acid amplification testing	T059	C0200932
+27280485	426	440	detection rate	T081	C1521828
+27280485	444	451	HEV-RNA	T114	C3263637
+27280485	455	467	blood donors	T098	C0005795
+27280485	471	476	Japan	T083	C0022341
+27280485	488	496	Hokkaido	T083	C0454745
+27280485	549	554	donor	T098	C0013018
+27280485	555	569	plasma samples	T031	C0444263
+27280485	575	591	Japanese regions	T083	C0022341
+27280485	602	610	Hokkaido	T083	C0454745
+27280485	616	622	tested	T169	C0039593
+27280485	627	634	HEV-RNA	T114	C3263637
+27280485	679	695	HEV-RNA-positive	T114	C3263637
+27280485	696	707	plasma bags	T031	C1292468
+27280485	713	723	identified	T080	C0205396
+27280485	733	736	HEV	T005	C0085294
+27280485	737	747	viral load	T059	C1261478
+27280485	749	757	genotype	T032	C0017431
+27280485	762	795	anti-HEV immunoglobulin (Ig)G/IgM	T116,T129	C0312636
+27280485	816	830	detection rate	T081	C1521828
+27280485	834	841	HEV-RNA	T114	C3263637
+27280485	883	890	eastern	T083	C0022341
+27280485	899	912	western Japan	T083	C0022341
+27280485	921	937	HEV-RNA-positive	T114	C3263637
+27280485	938	945	samples	T031	C0444263
+27280485	951	961	genotype 3	T032	C0017431
+27280485	967	977	viral load	T033	C0376705
+27280485	1026	1040	detection rate	T081	C1521828
+27280485	1044	1051	HEV-RNA	T114	C3263637
+27280485	1055	1072	donor populations	T098	C0013018
+27280485	1076	1081	Japan	T083	C0022341
+27280485	1090	1098	Hokkaido	T083	C0454745
+27280485	1109	1118	donations	T058	C0005794
+27280485	1156	1162	Europe	T083	C0015176
+27280485	1202	1210	Hokkaido	T083	C0454745
+27280485	1219	1228	donations	T058	C0005794
+27280485	1319	1322	RNA	T114	C0035668
+27280485	1323	1339	detection limits	T081	C2718050
+27280485	1356	1364	Hokkaido	T083	C0454745
+27280485	1371	1381	genotype 4	T032	C0017431
+27280485	1406	1421	blood donations	T058	C0005794
+27280485	1431	1439	positive	T033	C1446409
+27280485	1440	1449	donations	T058	C0005794
+27280485	1455	1465	genotype 3	T032	C0017431
+27280485	1481	1491	pathogenic	T033	C3816499
+
+27241291|t|In Search of the E. coli Compounds that Change the Antibiotic Production Pattern of Streptomyces coelicolor During Inter-species Interaction
+27241291|a|The aim of this work was to investigate the interaction between E.coli and Streptomyces coelicolor A3 (2) for the increased production of undecylprodigiosin and identify the E. coli actives mediating this inter-species interaction. The antibiotics of interest were the red-pigmented undecylprodigiosin and blue-pigmented actinorhodin. Pure cultures of S. coelicolor in a defined medium produced higher concentrations of actinorhodin compared to those of undecylprodigiosin. The latter however, is more important due to its immunosuppressive and antitumor properties. As a strategy to increase undecylprodigiosin production, we added separately, live cells and heat-killed cells of E. coli C600, and the cell-free supernatant of E. coli culture to S. coelicolor cultures in shake flasks. The interaction with live cells of E. coli altered the antibiotic production pattern and undecylprodigiosin production was enhanced by 3.5-fold compared to the pure cultures of S. coelicolor and actinorhodin decreased by 15-fold. The heat-killed cells of E. coli however, had no effect on antibiotic production. In all cases, growth and glucose consumption of S. coelicolor remained almost the same as those observed in the pure culture indicating that the changes in antibiotic production were not due to nutritional stress. Results with cell-free supernatant of E. coli culture indicated that the interaction between S. coelicolor and E. coli was mediated via diffusible molecule(s). Using a set of extraction procedures and agar-well diffusion bioassays, we isolated and preliminarily identified a class of compounds. For the preliminary verification, we added the compound which was the common chemical structural moiety in this class of compounds to the pure S. coelicolor cultures. We observed similar effects on antibiotic production as with the live E. coli cells and their supernatant indicating that this class of compounds secreted by E. coli indeed could act as actives during interspecies interaction and increase the production of undecylprodigiosin.
+27241291	17	24	E. coli	T007	C0014834
+27241291	25	34	Compounds	T123	C0574031
+27241291	51	61	Antibiotic	T195	C0003232
+27241291	62	72	Production	T169	C0205245
+27241291	84	107	Streptomyces coelicolor	T007	C0995741
+27241291	115	140	Inter-species Interaction	T054	C0870742
+27241291	169	180	investigate	T169	C1292732
+27241291	185	196	interaction	T169	C1704675
+27241291	205	211	E.coli	T007	C0014834
+27241291	216	246	Streptomyces coelicolor A3 (2)	T007	C1449847
+27241291	255	264	increased	T081	C0205217
+27241291	265	275	production	T169	C0205245
+27241291	279	297	undecylprodigiosin	T109,T121	C0077826
+27241291	315	322	E. coli	T007	C0014834
+27241291	323	330	actives	T169	C0205177
+27241291	331	340	mediating	T054	C0086597
+27241291	346	371	inter-species interaction	T054	C0870742
+27241291	377	388	antibiotics	T195	C0003232
+27241291	410	442	red-pigmented undecylprodigiosin	T109,T121	C0526040
+27241291	447	461	blue-pigmented	T080	C0333610
+27241291	462	474	actinorhodin	T109,T195	C0050663
+27241291	481	489	cultures	T059	C0430402
+27241291	493	506	S. coelicolor	T007	C0995741
+27241291	520	526	medium	T130	C0010454
+27241291	543	557	concentrations	T081	C1264643
+27241291	561	573	actinorhodin	T109,T195	C0050663
+27241291	574	582	compared	T052	C1707455
+27241291	595	613	undecylprodigiosin	T109,T121	C0077826
+27241291	664	681	immunosuppressive	T040	C0021080
+27241291	686	706	antitumor properties	T042	C1516031
+27241291	725	733	increase	T169	C0442805
+27241291	734	752	undecylprodigiosin	T109,T121	C0077826
+27241291	753	763	production	T169	C0205245
+27241291	786	796	live cells	T025	C1441322
+27241291	801	812	heat-killed	T067	C1522240
+27241291	813	818	cells	T025	C0007634
+27241291	822	834	E. coli C600	T007	C0014834
+27241291	844	865	cell-free supernatant	T031	C1550101
+27241291	869	876	E. coli	T007	C0014834
+27241291	877	884	culture	T059	C0430402
+27241291	888	901	S. coelicolor	T007	C0995741
+27241291	902	926	cultures in shake flasks	T059	C3179108
+27241291	932	943	interaction	T169	C1704675
+27241291	949	959	live cells	T025	C1441322
+27241291	963	970	E. coli	T007	C0014834
+27241291	983	993	antibiotic	T195	C0003232
+27241291	994	1004	production	T169	C0205245
+27241291	1017	1035	undecylprodigiosin	T109,T121	C0077826
+27241291	1036	1046	production	T169	C0205245
+27241291	1051	1059	enhanced	T052	C2349975
+27241291	1088	1101	pure cultures	T059	C0430402
+27241291	1105	1118	S. coelicolor	T007	C0995741
+27241291	1123	1135	actinorhodin	T109,T195	C0050663
+27241291	1136	1145	decreased	T081	C0205216
+27241291	1162	1173	heat-killed	T067	C1522240
+27241291	1174	1179	cells	T025	C0007634
+27241291	1183	1190	E. coli	T007	C0014834
+27241291	1204	1213	no effect	T080	C1301751
+27241291	1217	1227	antibiotic	T195	C0003232
+27241291	1228	1238	production	T169	C0205245
+27241291	1254	1260	growth	T040	C0178747
+27241291	1265	1284	glucose consumption	T033	C0556133
+27241291	1288	1301	S. coelicolor	T007	C0995741
+27241291	1322	1326	same	T080	C0445247
+27241291	1336	1344	observed	T169	C1441672
+27241291	1352	1364	pure culture	T059	C0430402
+27241291	1385	1392	changes	T169	C0392747
+27241291	1396	1406	antibiotic	T195	C0003232
+27241291	1407	1417	production	T169	C0205245
+27241291	1434	1445	nutritional	T040	C1442959
+27241291	1446	1452	stress	T033	C0038435
+27241291	1454	1461	Results	T169	C1274040
+27241291	1467	1488	cell-free supernatant	T031	C1550101
+27241291	1492	1499	E. coli	T007	C0014834
+27241291	1500	1507	culture	T059	C0430402
+27241291	1527	1538	interaction	T169	C1704675
+27241291	1547	1560	S. coelicolor	T007	C0995741
+27241291	1565	1572	E. coli	T007	C0014834
+27241291	1577	1585	mediated	T054	C0086597
+27241291	1590	1612	diffusible molecule(s)	T123	C0574031
+27241291	1629	1650	extraction procedures	T059	C0684295
+27241291	1655	1684	agar-well diffusion bioassays	T059	C0005507
+27241291	1689	1697	isolated	T169	C0205409
+27241291	1716	1726	identified	T080	C0205396
+27241291	1729	1747	class of compounds	T123	C0574031
+27241291	1769	1781	verification	T169	C1711411
+27241291	1796	1804	compound	T123	C0574031
+27241291	1826	1852	chemical structural moiety	T104	C1254350
+27241291	1861	1879	class of compounds	T123	C0574031
+27241291	1892	1905	S. coelicolor	T007	C0995741
+27241291	1906	1914	cultures	T059	C1331092
+27241291	1936	1943	effects	T080	C1280500
+27241291	1947	1957	antibiotic	T195	C0003232
+27241291	1958	1968	production	T169	C0205245
+27241291	1986	1993	E. coli	T007	C0014834
+27241291	1994	1999	cells	T025	C0007634
+27241291	2010	2021	supernatant	T031	C1550101
+27241291	2043	2061	class of compounds	T123	C0574031
+27241291	2062	2070	secreted	T043	C1327616
+27241291	2074	2081	E. coli	T007	C0014834
+27241291	2102	2109	actives	T169	C0205177
+27241291	2117	2141	interspecies interaction	T054	C0870742
+27241291	2146	2154	increase	T169	C0442805
+27241291	2159	2169	production	T169	C0205245
+27241291	2173	2191	undecylprodigiosin	T109,T121	C0077826
+
+27272523|t|Intron Derived Size Polymorphism in the Mitochondrial Genomes of Closely Related Chrysoporthe Species
+27272523|a|In this study, the complete mitochondrial (mt) genomes of Chrysoporthe austroafricana (190,834 bp), C. cubensis (89,084 bp) and C. deuterocubensis (124,412 bp) were determined. Additionally, the mitochondrial genome of another member of the Cryphonectriaceae, namely Cryphonectria parasitica (158,902 bp), was retrieved and annotated for comparative purposes. These genomes showed high levels of synteny, especially in regions including genes involved in oxidative phosphorylation and electron transfer, unique open reading frames (uORFs), ribosomal RNAs (rRNAs) and transfer RNAs (tRNAs), as well as intron positions. Comparative analyses revealed signatures of duplication events, intron number and length variation, and varying intronic ORFs which highlighted the genetic diversity of mt genomes among the Cryphonectriaceae. These mt genomes showed remarkable size polymorphism. The size polymorphism in the mt genomes of these closely related Chrysoporthe species was attributed to the varying number and length of introns, coding sequences and to a lesser extent, intergenic sequences. Compared to publicly available fungal mt genomes, the C. austroafricana mt genome is the second largest in the Ascomycetes thus far.
+27272523	0	6	Intron	T114,T123	C0021920
+27272523	7	14	Derived	T080	C1441547
+27272523	15	19	Size	T082	C0456389
+27272523	20	32	Polymorphism	T045	C0032529
+27272523	40	61	Mitochondrial Genomes	T028	C1819716
+27272523	65	80	Closely Related	T080	C0439849
+27272523	81	101	Chrysoporthe Species	T004	C1633289
+27272523	121	129	complete	T080	C0205197
+27272523	130	156	mitochondrial (mt) genomes	T028	C1819716
+27272523	160	187	Chrysoporthe austroafricana	T004	C1907678
+27272523	202	213	C. cubensis	T004	C1641019
+27272523	230	248	C. deuterocubensis	T004	C3717325
+27272523	267	277	determined	T080	C0521095
+27272523	297	317	mitochondrial genome	T028	C1819716
+27272523	343	360	Cryphonectriaceae	T004	C1947056
+27272523	369	393	Cryphonectria parasitica	T004	C0997457
+27272523	412	421	retrieved	T080	C0205556
+27272523	426	435	annotated	T080	C1552720
+27272523	440	460	comparative purposes	T062	C0683941
+27272523	468	475	genomes	T028	C0017428
+27272523	498	505	synteny	T044	C0314656
+27272523	521	528	regions	T082	C1254362
+27272523	529	538	including	T169	C0332257
+27272523	539	544	genes	T028	C0017337
+27272523	545	556	involved in	T169	C1314939
+27272523	557	582	oxidative phosphorylation	T044	C0030013
+27272523	587	604	electron transfer	T044	C0013846
+27272523	606	632	unique open reading frames	T028	C0079941
+27272523	633	640	(uORFs)	T028	C0079941
+27272523	642	656	ribosomal RNAs	T114,T123	C0035701
+27272523	657	664	(rRNAs)	T114,T123	C0035701
+27272523	669	682	transfer RNAs	T114,T123	C0035711
+27272523	683	690	(tRNAs)	T114,T123	C0035711
+27272523	703	709	intron	T114,T123	C0021920
+27272523	710	719	positions	T082	C0733755
+27272523	721	741	Comparative analyses	T062	C0683941
+27272523	742	750	revealed	T080	C0443289
+27272523	751	761	signatures	T169	C1708225
+27272523	765	776	duplication	T045	C0017261
+27272523	777	783	events	T051	C0441471
+27272523	785	791	intron	T114,T123	C0021920
+27272523	792	819	number and length variation	T070	C0042333
+27272523	825	832	varying	T070	C0042333
+27272523	833	841	intronic	T114,T123	C0021920
+27272523	842	846	ORFs	T028	C0079941
+27272523	869	886	genetic diversity	T070	C0042333
+27272523	890	900	mt genomes	T028	C1819716
+27272523	911	928	Cryphonectriaceae	T004	C1947056
+27272523	936	946	mt genomes	T028	C1819716
+27272523	965	969	size	T082	C0456389
+27272523	970	982	polymorphism	T045	C0032529
+27272523	988	992	size	T082	C0456389
+27272523	993	1005	polymorphism	T045	C0032529
+27272523	1013	1023	mt genomes	T028	C1819716
+27272523	1033	1048	closely related	T080	C0439849
+27272523	1049	1069	Chrysoporthe species	T004	C1633289
+27272523	1092	1117	varying number and length	T070	C0042333
+27272523	1121	1128	introns	T114,T123	C0021920
+27272523	1130	1146	coding sequences	T028	C0079941
+27272523	1156	1162	lesser	T080	C0547044
+27272523	1163	1169	extent	T082	C0439792
+27272523	1171	1191	intergenic sequences	T114,T123	C0887857
+27272523	1193	1201	Compared	T052	C1707455
+27272523	1224	1230	fungal	T169	C0521033
+27272523	1231	1241	mt genomes	T028	C1819716
+27272523	1247	1264	C. austroafricana	T004	C1907678
+27272523	1265	1274	mt genome	T028	C1819716
+27272523	1289	1296	largest	T081	C0443228
+27272523	1304	1315	Ascomycetes	T004	C1960228
+
+27251800|t|Early assessment of bilateral inguinal hernia repair: A comparison between the laparoscopic total extraperitoneal and Stoppa approaches
+27251800|a|The present clinical trial was designed to compare the results of bilateral inguinal hernia repair between patients who underwent the conventional Stoppa technique and laparoscopic total extraperitoneal repair (LTE) with a single mesh and without staple fixation. This controlled, randomised clinical trial was conducted at General Surgery and Trauma of the Clinics Hospital, Medical School, the University of Sγo Paulo between September 2010 and February 2011. Totally, 50 male patients, with a bilateral inguinal hernia, older than 25 years were considered eligible for the study. The following parameters were analysed during the early post-operative period: (1) The intensity of surgical trauma, operation time, C-reactive protein (CRP) levels, white blood cell count, bleeding and pain intensity; (2) quality of life assessment; and (3) post-operative complications. LTE procedure was longer than the Stoppa procedure (134.6 min ΁ 38.3 vs. 90.6 min ΁ 41.3; P < 0.05). The levels of CRP were higher in the Stoppa group (P < 0.05) but the number of leucocytes, haematocrit, and haemoglobin were similar between the groups (P > 0.05). There was no difference in pain during the 1 st and 7 th post-operative, physical functioning, physical limitation, the impact of pain on daily activities, and the Carolinas Comfort Scale during the 7 th and 15 th post-operative (P > 0.05). Complications occurred in 88% of Stoppa group (22 patients) and 64% in LTE group (16 patients) (P < 0.05). The comparative study between the Stoppa and LTE approaches for the bilateral inguinal hernia repair demonstrated that: (1) The LTE approach showed less surgical trauma despite the longer operation time; (2) Quality of life during the early post-operative period were similar; and (3) Complication rates were higher in the Stoppa group.
+27251800	0	5	Early	T079	C1279919
+27251800	6	16	assessment	T058	C0220825
+27251800	20	52	bilateral inguinal hernia repair	T061	C0198737
+27251800	56	66	comparison	T052	C1707455
+27251800	79	113	laparoscopic total extraperitoneal	T061	C0087111
+27251800	118	135	Stoppa approaches	T061	C0087111
+27251800	140	147	present	T079	C0521116
+27251800	148	162	clinical trial	T062	C0008976
+27251800	179	186	compare	T052	C1707455
+27251800	191	198	results	T169	C1274040
+27251800	202	234	bilateral inguinal hernia repair	T061	C0198737
+27251800	243	251	patients	T101	C0030705
+27251800	270	282	conventional	T169	C0443177
+27251800	283	299	Stoppa technique	T061	C0087111
+27251800	304	345	laparoscopic total extraperitoneal repair	T061	C0521293
+27251800	347	350	LTE	T061	C0521293
+27251800	366	370	mesh	T074	C0181805
+27251800	383	398	staple fixation	T061	C1293125
+27251800	417	427	randomised	T062	C0034656
+27251800	428	442	clinical trial	T062	C0008976
+27251800	460	510	General Surgery and Trauma of the Clinics Hospital	T093	C1708333
+27251800	512	526	Medical School	T093	C1708333
+27251800	532	555	University of Sγo Paulo	T093	C1708333
+27251800	610	614	male	T032	C0086582
+27251800	615	623	patients	T101	C0030705
+27251800	632	657	bilateral inguinal hernia	T190	C0267672
+27251800	673	678	years	T079	C0439234
+27251800	695	703	eligible	T080	C1548635
+27251800	712	717	study	T062	C2603343
+27251800	733	743	parameters	T077	C0549193
+27251800	749	757	analysed	T062	C0936012
+27251800	769	774	early	T079	C1279919
+27251800	775	796	post-operative period	T079	C0032790
+27251800	806	815	intensity	T080	C0522510
+27251800	819	834	surgical trauma	T033	C4060629
+27251800	836	850	operation time	T079	C3494201
+27251800	852	870	C-reactive protein	T116,T129	C0006560
+27251800	872	875	CRP	T116,T129	C0006560
+27251800	877	883	levels	T080	C0441889
+27251800	885	907	white blood cell count	T059	C0023508
+27251800	909	917	bleeding	T046	C0019080
+27251800	922	936	pain intensity	T201	C1320357
+27251800	942	957	quality of life	T078	C0034380
+27251800	958	968	assessment	T058	C0220825
+27251800	978	1006	post-operative complications	T046	C0032787
+27251800	1008	1021	LTE procedure	T061	C0521293
+27251800	1026	1032	longer	T080	C0205166
+27251800	1042	1058	Stoppa procedure	T061	C0087111
+27251800	1113	1119	levels	T080	C0441889
+27251800	1123	1126	CRP	T116,T129	C0006560
+27251800	1132	1138	higher	T080	C0205250
+27251800	1146	1152	Stoppa	T061	C0087111
+27251800	1153	1158	group	T078	C0441833
+27251800	1188	1198	leucocytes	T025	C0023516
+27251800	1200	1211	haematocrit	T033	C0518014
+27251800	1217	1228	haemoglobin	T116,T123	C0019046
+27251800	1234	1241	similar	T080	C2348205
+27251800	1254	1260	groups	T078	C0441833
+27251800	1283	1296	no difference	T033	C3842396
+27251800	1300	1304	pain	T184	C0030193
+27251800	1330	1344	post-operative	T033	C0241311
+27251800	1346	1366	physical functioning	T033	C0516981
+27251800	1368	1387	physical limitation	T169	C0449295
+27251800	1393	1399	impact	T080	C4049986
+27251800	1403	1407	pain	T184	C0030193
+27251800	1411	1427	daily activities	T056	C0871707
+27251800	1437	1460	Carolinas Comfort Scale	T170	C0349674
+27251800	1487	1501	post-operative	T033	C0241311
+27251800	1514	1527	Complications	T046	C0009566
+27251800	1547	1553	Stoppa	T061	C0087111
+27251800	1554	1559	group	T078	C0441833
+27251800	1564	1572	patients	T101	C0030705
+27251800	1585	1588	LTE	T061	C0521293
+27251800	1589	1594	group	T078	C0441833
+27251800	1599	1607	patients	T101	C0030705
+27251800	1625	1642	comparative study	T062	C1579762
+27251800	1655	1661	Stoppa	T061	C0087111
+27251800	1666	1669	LTE	T061	C0521293
+27251800	1689	1721	bilateral inguinal hernia repair	T061	C0198737
+27251800	1749	1752	LTE	T061	C0521293
+27251800	1774	1789	surgical trauma	T033	C4060629
+27251800	1802	1808	longer	T080	C0205166
+27251800	1809	1823	operation time	T079	C3494201
+27251800	1829	1844	Quality of life	T078	C0034380
+27251800	1856	1861	early	T079	C1279919
+27251800	1862	1883	post-operative period	T079	C0032790
+27251800	1889	1896	similar	T080	C2348205
+27251800	1906	1918	Complication	T046	C0009566
+27251800	1919	1924	rates	T081	C1521828
+27251800	1930	1936	higher	T080	C0205250
+27251800	1944	1950	Stoppa	T061	C0087111
+27251800	1951	1956	group	T078	C0441833
+
+27245335|t|The effects of paternal high-fat diet exposure on offspring metabolism with epigenetic changes in the mouse adiponectin and leptin gene promoters
+27245335|a|Recent studies have demonstrated that epigenetic changes resulting from malnutrition might play important roles in transgenerational links with metabolic diseases. Previously, we observed that exposure to a high-fat diet (HFD) in utero caused a metabolic syndrome -like phenomenon through epigenetic modifications of the adiponectin and leptin genes that persisted for multiple generations. Recent etiological studies indicated that paternal BMI had effects on offspring BMI that were independent of but additive to maternal BMI effects. Thus, we examined whether paternal HFD - induced obesity affected the metabolic status of offspring through epigenetic changes in the adiponectin and leptin genes. Additionally, we investigated whether a normal diet during subsequent generations abolished the epigenetic changes associated with paternal HFD exposure before conception. We observed the effects of paternal HFD exposure before conception over multiple generations on offspring metabolic traits, including weight and fat gain, glucose intolerance, hypertriglyceridemia, abnormal adipocytokine levels, hypertension, and adiponectin and leptin gene expression and epigenetic changes. Normal diet consumption by male offspring during the subsequent generation following paternal HFD exposure diminished whereas consumption for two generations completely abolished the effect of paternal HFD exposure on metabolic traits and adipocytokine promoter epigenetic changes in the offspring. The effects of paternal HFD exposure on offspring were relatively weaker than those following HFD exposure in utero. However, paternal HFD exposure had an additive metabolic effect for two generations, suggesting that both paternal and maternal nutrition might affect offspring metabolism through epigenetic modifications of adipocytokine genes for multiple generations.
+27245335	4	14	effects of	T080	C1704420
+27245335	15	23	paternal	T080	C0337493
+27245335	24	37	high-fat diet	T168	C0012155
+27245335	38	46	exposure	T080	C0332157
+27245335	50	59	offspring	T099	C0680063
+27245335	60	70	metabolism	T040	C0025519
+27245335	76	94	epigenetic changes	T045	C1516924
+27245335	108	119	adiponectin	T028	C1540187
+27245335	124	130	leptin	T028	C1416825
+27245335	131	145	gene promoters	T028	C0314621
+27245335	153	160	studies	T062	C2603343
+27245335	184	202	epigenetic changes	T045	C1516924
+27245335	218	230	malnutrition	T047	C0162429
+27245335	252	257	roles	T077	C1705810
+27245335	261	284	transgenerational links	T102	C0871541
+27245335	290	308	metabolic diseases	T047	C0025517
+27245335	325	333	observed	T169	C1441672
+27245335	339	347	exposure	T080	C0332157
+27245335	353	366	high-fat diet	T168	C0012155
+27245335	368	371	HFD	T168	C0012155
+27245335	373	381	in utero	T100	C1708480
+27245335	382	388	caused	T169	C0015127
+27245335	391	400	metabolic	T169	C0311400
+27245335	401	409	syndrome	T047	C0039082
+27245335	416	426	phenomenon	T067	C1882365
+27245335	427	434	through	T169	C0332273
+27245335	435	459	epigenetic modifications	T045	C1516924
+27245335	467	478	adiponectin	T028	C1540187
+27245335	483	495	leptin genes	T028	C1416825
+27245335	515	523	multiple	T081	C0439064
+27245335	524	535	generations	T079	C0079411
+27245335	544	555	etiological	T169	C0015127
+27245335	556	563	studies	T062	C2603343
+27245335	564	573	indicated	T033	C1444656
+27245335	579	587	paternal	T080	C0337493
+27245335	588	591	BMI	T201	C1305855
+27245335	596	603	effects	T080	C1280500
+27245335	607	616	offspring	T099	C0680063
+27245335	617	620	BMI	T201	C1305855
+27245335	631	645	independent of	T169	C0332291
+27245335	650	658	additive	T080	C0442796
+27245335	662	670	maternal	T033	C1858460
+27245335	671	674	BMI	T201	C1305855
+27245335	675	682	effects	T080	C1280500
+27245335	710	718	paternal	T080	C0337493
+27245335	719	722	HFD	T168	C0012155
+27245335	725	732	induced	T169	C0205263
+27245335	733	740	obesity	T047	C0028754
+27245335	741	749	affected	T080	C1280500
+27245335	754	763	metabolic	T169	C0311400
+27245335	764	770	status	T080	C0449438
+27245335	774	783	offspring	T099	C0680063
+27245335	784	791	through	T169	C0332273
+27245335	792	810	epigenetic changes	T045	C1516924
+27245335	818	829	adiponectin	T028	C1540187
+27245335	834	846	leptin genes	T028	C1416825
+27245335	865	877	investigated	T169	C1292732
+27245335	888	899	normal diet	T056	C0184625
+27245335	900	906	during	T079	C0347984
+27245335	907	929	subsequent generations	T078	C1136186
+27245335	930	939	abolished	T052	C1947925
+27245335	944	962	epigenetic changes	T045	C1516924
+27245335	963	978	associated with	T080	C0332281
+27245335	979	987	paternal	T080	C0337493
+27245335	988	991	HFD	T168	C0012155
+27245335	992	1000	exposure	T080	C0332157
+27245335	1001	1007	before	T079	C0332152
+27245335	1008	1018	conception	T040	C0009637
+27245335	1023	1031	observed	T169	C1441672
+27245335	1036	1046	effects of	T080	C1704420
+27245335	1047	1055	paternal	T080	C0337493
+27245335	1056	1059	HFD	T168	C0012155
+27245335	1060	1068	exposure	T080	C0332157
+27245335	1069	1075	before	T079	C0332152
+27245335	1076	1086	conception	T040	C0009637
+27245335	1092	1100	multiple	T081	C0439064
+27245335	1101	1112	generations	T079	C0079411
+27245335	1116	1125	offspring	T099	C0680063
+27245335	1126	1135	metabolic	T169	C0311400
+27245335	1136	1142	traits	T032	C0599883
+27245335	1144	1153	including	T169	C0332257
+27245335	1154	1160	weight	T033	C0043094
+27245335	1165	1168	fat	T109,T121	C0015677
+27245335	1169	1173	gain	T081	C1517378
+27245335	1175	1194	glucose intolerance	T047	C0271650
+27245335	1196	1216	hypertriglyceridemia	T047	C0020557
+27245335	1218	1240	abnormal adipocytokine	T116,T123	C1955907
+27245335	1241	1247	levels	T080	C0441889
+27245335	1249	1261	hypertension	T047	C0020538
+27245335	1267	1278	adiponectin	T028	C1540187
+27245335	1283	1294	leptin gene	T028	C1416825
+27245335	1295	1305	expression	T045	C0017262
+27245335	1310	1328	epigenetic changes	T045	C1516924
+27245335	1330	1341	Normal diet	T056	C0184625
+27245335	1362	1371	offspring	T099	C0680063
+27245335	1415	1423	paternal	T080	C0337493
+27245335	1424	1427	HFD	T168	C0012155
+27245335	1428	1436	exposure	T080	C0332157
+27245335	1437	1447	diminished	T081	C0205216
+27245335	1456	1467	consumption	T052	C2983605
+27245335	1476	1487	generations	T079	C0079411
+27245335	1499	1508	abolished	T052	C1947925
+27245335	1513	1519	effect	T080	C1280500
+27245335	1523	1531	paternal	T080	C0337493
+27245335	1532	1535	HFD	T168	C0012155
+27245335	1536	1544	exposure	T080	C0332157
+27245335	1548	1557	metabolic	T169	C0311400
+27245335	1558	1564	traits	T032	C0599883
+27245335	1569	1582	adipocytokine	T116,T123	C1955907
+27245335	1592	1610	epigenetic changes	T045	C1516924
+27245335	1618	1627	offspring	T099	C0680063
+27245335	1633	1643	effects of	T080	C1704420
+27245335	1644	1652	paternal	T080	C0337493
+27245335	1653	1656	HFD	T168	C0012155
+27245335	1657	1665	exposure	T080	C0332157
+27245335	1669	1678	offspring	T099	C0680063
+27245335	1695	1701	weaker	T080	C1762617
+27245335	1713	1722	following	T079	C0332282
+27245335	1723	1726	HFD	T168	C0012155
+27245335	1727	1735	exposure	T080	C0332157
+27245335	1736	1744	in utero	T100	C1708480
+27245335	1755	1763	paternal	T080	C0337493
+27245335	1764	1767	HFD	T168	C0012155
+27245335	1768	1776	exposure	T080	C0332157
+27245335	1784	1792	additive	T080	C0442796
+27245335	1793	1802	metabolic	T169	C0311400
+27245335	1803	1809	effect	T080	C1280500
+27245335	1818	1829	generations	T079	C0079411
+27245335	1852	1860	paternal	T080	C0337493
+27245335	1865	1873	maternal	T033	C1858460
+27245335	1874	1883	nutrition	T040	C1442959
+27245335	1890	1896	affect	T080	C1280500
+27245335	1897	1906	offspring	T099	C0680063
+27245335	1907	1917	metabolism	T040	C0025519
+27245335	1918	1925	through	T169	C0332273
+27245335	1926	1950	epigenetic modifications	T045	C1516924
+27245335	1954	1973	adipocytokine genes	T028	C0017337
+27245335	1978	1986	multiple	T081	C0439064
+27245335	1987	1998	generations	T079	C0079411
+
+27261525|t|The N-Methyl d-Aspartate Glutamate Receptor Antagonist Ketamine Disrupts the Functional State of the Corticothalamic Pathway
+27261525|a|The non-competitive N-methyl d-aspartate glutamate receptor (NMDAR) antagonist ketamine elicits a brain state resembling high-risk states for developing psychosis and early stages of schizophrenia characterized by sensory and cognitive deficits and aberrant ongoing gamma oscillations (30-80 Hz)in cortical and subcortical structures, including the thalamus. The underlying mechanisms are unknown. The goal of the present study was to determine whether a ketamine - induced psychotic - relevant state disturbs the functional state of the corticothalamic (CT) pathway. Multisite field recordings were performed in the somatosensory CT system of the sedated rat. Baseline activity was challenged by activation of vibrissa - related prethalamic inputs. The sensory - evoked thalamic response was characterized by a short - latency (∼4 ms) prethalamic -mediated negative sharp potential and a longer latency (∼10 ms) CT -mediated negative potential. Following a single subcutaneous injection of ketamine (2.5 mg/kg), spontaneously occurring and sensory - evoked thalamic gamma oscillations increased and decreased in power, respectively. The power of the sensory -related gamma oscillations was positively correlated with both the amplitude and the area under the curve of the corresponding CT potential but not with the prethalamic potential. The present results show that the layer VI CT pathway significantly contributes in thalamic gamma oscillations, and they support the hypothesis that reduced NMDAR activation disturbs the functional state of CT and corticocortical networks.
+27261525	4	54	N-Methyl d-Aspartate Glutamate Receptor Antagonist	T121	C0598695
+27261525	55	63	Ketamine	T109,T121	C0022614
+27261525	64	72	Disrupts	T080	C0332454
+27261525	77	87	Functional	T169	C0205245
+27261525	88	93	State	T169	C1442792
+27261525	101	116	Corticothalamic	T023	C1184631
+27261525	117	124	Pathway	T077	C1705987
+27261525	129	144	non-competitive	UnknownType	C0815027
+27261525	145	203	N-methyl d-aspartate glutamate receptor (NMDAR) antagonist	T121	C0598695
+27261525	204	212	ketamine	T109,T121	C0022614
+27261525	223	228	brain	T023	C0006104
+27261525	229	234	state	T169	C1442792
+27261525	246	255	high-risk	T033	C0332167
+27261525	256	262	states	T169	C1442792
+27261525	278	287	psychosis	T048	C0033975
+27261525	292	304	early stages	T079	C2363430
+27261525	308	321	schizophrenia	T048	C0036341
+27261525	322	335	characterized	T052	C1880022
+27261525	339	346	sensory	T047	C0748618
+27261525	351	369	cognitive deficits	T048	C0009241
+27261525	383	390	ongoing	T078	C0549178
+27261525	391	409	gamma oscillations	T042	C0678909
+27261525	423	431	cortical	T023	C0007776
+27261525	436	447	subcortical	T029	C0815275
+27261525	448	458	structures	T082	C0678594
+27261525	474	482	thalamus	T023	C0039729
+27261525	499	509	mechanisms	T169	C0441712
+27261525	514	521	unknown	T080	C0439673
+27261525	527	531	goal	T170	C0018017
+27261525	539	546	present	T079	C0521116
+27261525	547	552	study	T062	C2603343
+27261525	580	588	ketamine	T109,T121	C0022614
+27261525	591	598	induced	T169	C0205263
+27261525	599	608	psychotic	T048	C0033975
+27261525	611	619	relevant	T080	C2347946
+27261525	620	625	state	T169	C1442792
+27261525	626	634	disturbs	T080	C2699787
+27261525	639	649	functional	T169	C0205245
+27261525	650	655	state	T169	C1442792
+27261525	663	678	corticothalamic	T023	C1184631
+27261525	680	682	CT	T023	C1184631
+27261525	684	691	pathway	T077	C1705987
+27261525	693	719	Multisite field recordings	T060	C0430022
+27261525	725	734	performed	T169	C0884358
+27261525	742	765	somatosensory CT system	T022	C0682661
+27261525	773	780	sedated	T033	C0235195
+27261525	781	784	rat	T015	C0034721
+27261525	786	794	Baseline	T081	C1442488
+27261525	795	803	activity	T052	C0441655
+27261525	822	832	activation	T052	C1879547
+27261525	836	844	vibrissa	T023	C0042640
+27261525	847	854	related	T080	C0439849
+27261525	855	866	prethalamic	T029	C0152349
+27261525	867	873	inputs	T077	C1708517
+27261525	879	886	sensory	T080	C0445254
+27261525	889	913	evoked thalamic response	T042	C0015214
+27261525	918	931	characterized	T052	C1880022
+27261525	937	942	short	T081	C1806781
+27261525	945	952	latency	T080	C0205275
+27261525	961	972	prethalamic	T029	C0152349
+27261525	983	991	negative	T080	C2825491
+27261525	998	1007	potential	T043	C0001272
+27261525	1014	1020	longer	T080	C0205166
+27261525	1021	1028	latency	T080	C0205275
+27261525	1038	1040	CT	T023	C1184631
+27261525	1051	1059	negative	T080	C2825491
+27261525	1060	1069	potential	T043	C0001272
+27261525	1083	1089	single	T081	C0205171
+27261525	1090	1112	subcutaneous injection	T169	C0021499
+27261525	1116	1124	ketamine	T109,T121	C0022614
+27261525	1138	1151	spontaneously	T169	C0205359
+27261525	1166	1173	sensory	T080	C0445254
+27261525	1176	1210	evoked thalamic gamma oscillations	T042	C0015214
+27261525	1211	1220	increased	T081	C0205217
+27261525	1225	1234	decreased	T081	C0205216
+27261525	1238	1243	power	T081	C3854080
+27261525	1263	1268	power	T081	C3854080
+27261525	1276	1283	sensory	T080	C0445254
+27261525	1293	1311	gamma oscillations	T042	C0678909
+27261525	1316	1326	positively	T033	C1446409
+27261525	1327	1337	correlated	T080	C1707520
+27261525	1352	1361	amplitude	T082	C2346753
+27261525	1370	1390	area under the curve	T081	C0376690
+27261525	1412	1414	CT	T023	C1184631
+27261525	1415	1424	potential	T043	C0001272
+27261525	1442	1453	prethalamic	T029	C0152349
+27261525	1454	1463	potential	T043	C0001272
+27261525	1469	1476	present	T079	C0521116
+27261525	1477	1484	results	T169	C1274040
+27261525	1499	1507	layer VI	T023	C2322689
+27261525	1508	1510	CT	T023	C1184631
+27261525	1511	1518	pathway	T077	C1705987
+27261525	1533	1544	contributes	T052	C1880177
+27261525	1548	1556	thalamic	T023	C0039729
+27261525	1557	1575	gamma oscillations	T042	C0678909
+27261525	1598	1608	hypothesis	T078	C1512571
+27261525	1614	1621	reduced	T080	C0392756
+27261525	1622	1627	NMDAR	T116,T192	C0080093
+27261525	1628	1638	activation	T043	C1514758
+27261525	1639	1647	disturbs	T080	C2699787
+27261525	1652	1662	functional	T169	C0205245
+27261525	1663	1668	state	T169	C1442792
+27261525	1672	1674	CT	T023	C1184631
+27261525	1679	1694	corticocortical	T023	C0007776
+27261525	1695	1703	networks	T040	C0598941
+
+27061776|t|Nosocomial pneumonia caused by methicillin-resistant Staphylococcus aureus treated with linezolid or vancomycin: A secondary economic analysis of resource use from a Spanish perspective
+27061776|a|Adopting a unique Spanish perspective, this study aims to assess healthcare resource utilization (HCRU) and the costs of treating nosocomial pneumonia (NP) produced by methicillin-resistant Staphylococcus aureus (MRSA) in hospitalized adults using linezolid or vancomycin. An evaluation is also made of the renal failure rate and related economic outcomes between study groups. An economic post hoc evaluation of a randomized, double-blind, multicenter phase 4 study was carried out. Nosocomial pneumonia due to MRSA in hospitalized adults. The modified intent to treat (mITT) population comprised 224 linezolid - and 224 vancomycin - treated patients. Costs and HCRU were evaluated between patients administered either linezolid or vancomycin, and between patients who developed renal failure and those who did not. Analysis of HCRU outcomes and costs. Total costs were similar between the linezolid - (€17,782±€9,615) and vancomycin - treated patients (€17,423±€9,460) (P=.69). The renal failure rate was significantly lower in the linezolid - treated patients (4% vs. 15%; P<.001). The total costs tended to be higher in patients who developed renal failure (€19,626±€10,840 vs. €17,388±€9,369; P=.14). Among the patients who developed renal failure, HCRU (days on mechanical ventilation: 13.2±10.7 vs. 7.6±3.6 days; P=.21; ICU stay: 14.4±10.5 vs. 9.9±6.6 days; P=.30; hospital stay: 19.5±9.5 vs. 16.1±11.0 days; P=.26) and cost (€17,219±€8,792 vs. €20,263±€11,350; P=.51) tended to be lower in the linezolid - vs. vancomycin - treated patients. There were no statistically significant differences in costs per patient - day between cohorts after correcting for mortality (€1000 vs. €1,010; P=.98). From a Spanish perspective, there were no statistically significant differences in total costs between the linezolid and vancomycin pneumonia cohorts. The drug cost corresponding to linezolid was partially offset by fewer renal failure adverse events.
+27061776	0	20	Nosocomial pneumonia	T047	C0949083
+27061776	31	74	methicillin-resistant Staphylococcus aureus	T007	C1265292
+27061776	75	87	treated with	T061	C0332293
+27061776	88	97	linezolid	T109,T121	C0663241
+27061776	101	111	vancomycin	T116,T195	C0042313
+27061776	125	142	economic analysis	T057	C0680954
+27061776	146	158	resource use	T078	C1704738
+27061776	166	173	Spanish	T083	C0037747
+27061776	174	185	perspective	UnknownType	C0680951
+27061776	204	211	Spanish	T083	C0037747
+27061776	212	223	perspective	UnknownType	C0680951
+27061776	230	235	study	T062	C2603343
+27061776	251	282	healthcare resource utilization	T078	C1704738
+27061776	284	288	HCRU	T078	C1704738
+27061776	298	303	costs	T081	C0085552
+27061776	307	315	treating	T169	C1522326
+27061776	316	336	nosocomial pneumonia	T047	C0949083
+27061776	338	340	NP	T047	C0949083
+27061776	354	397	methicillin-resistant Staphylococcus aureus	T007	C1265292
+27061776	399	403	MRSA	T007	C1265292
+27061776	408	427	hospitalized adults	T033	C0701159
+27061776	434	443	linezolid	T109,T121	C0663241
+27061776	447	457	vancomycin	T116,T195	C0042313
+27061776	493	506	renal failure	T047	C0035078
+27061776	507	511	rate	T081	C1521828
+27061776	524	541	economic outcomes	T169	C1274040
+27061776	550	562	study groups	UnknownType	C0681860
+27061776	576	595	post hoc evaluation	T058	C1254363
+27061776	601	611	randomized	T062	C2986910
+27061776	613	625	double-blind	T062	C0013072
+27061776	627	652	multicenter phase 4 study	T062	C0282462
+27061776	670	690	Nosocomial pneumonia	T047	C0949083
+27061776	698	702	MRSA	T007	C1265292
+27061776	706	725	hospitalized adults	T033	C0701159
+27061776	731	755	modified intent to treat	T169	C1292734
+27061776	757	761	mITT	T169	C1292734
+27061776	763	773	population	T098	C1257890
+27061776	788	797	linezolid	T109,T121	C0663241
+27061776	808	818	vancomycin	T116,T195	C0042313
+27061776	821	828	treated	T061	C0332293
+27061776	829	837	patients	T101	C0030705
+27061776	839	844	Costs	T081	C0085552
+27061776	849	853	HCRU	T078	C1704738
+27061776	877	885	patients	T101	C0030705
+27061776	886	898	administered	T169	C1521801
+27061776	906	915	linezolid	T109,T121	C0663241
+27061776	919	929	vancomycin	T116,T195	C0042313
+27061776	943	951	patients	T101	C0030705
+27061776	966	979	renal failure	T047	C0035078
+27061776	1015	1019	HCRU	T078	C1704738
+27061776	1020	1028	outcomes	T169	C1274040
+27061776	1033	1038	costs	T081	C0085552
+27061776	1046	1051	costs	T081	C0085552
+27061776	1077	1086	linezolid	T109,T121	C0663241
+27061776	1110	1120	vancomycin	T116,T195	C0042313
+27061776	1123	1130	treated	T061	C0332293
+27061776	1131	1139	patients	T101	C0030705
+27061776	1170	1183	renal failure	T047	C0035078
+27061776	1184	1188	rate	T081	C1521828
+27061776	1220	1229	linezolid	T109,T121	C0663241
+27061776	1232	1239	treated	T061	C0332293
+27061776	1240	1248	patients	T101	C0030705
+27061776	1281	1286	costs	T081	C0085552
+27061776	1310	1318	patients	T101	C0030705
+27061776	1333	1346	renal failure	T047	C0035078
+27061776	1402	1410	patients	T101	C0030705
+27061776	1425	1438	renal failure	T047	C0035078
+27061776	1440	1444	HCRU	T078	C1704738
+27061776	1446	1450	days	T079	C0439228
+27061776	1454	1476	mechanical ventilation	T061	C0199470
+27061776	1500	1504	days	T079	C0439228
+27061776	1513	1521	ICU stay	T079	C1254367
+27061776	1545	1549	days	T079	C0439228
+27061776	1558	1571	hospital stay	T079	C3489408
+27061776	1596	1600	days	T079	C0439228
+27061776	1613	1617	cost	T081	C0085552
+27061776	1688	1697	linezolid	T109,T121	C0663241
+27061776	1704	1714	vancomycin	T116,T195	C0042313
+27061776	1717	1724	treated	T061	C0332293
+27061776	1725	1733	patients	T101	C0030705
+27061776	1790	1795	costs	T081	C0085552
+27061776	1800	1807	patient	T101	C0030705
+27061776	1810	1813	day	T079	C0439228
+27061776	1822	1829	cohorts	T098	C0599755
+27061776	1851	1860	mortality	T081	C0392762
+27061776	1895	1902	Spanish	T083	C0037747
+27061776	1903	1914	perspective	UnknownType	C0680951
+27061776	1977	1982	costs	T081	C0085552
+27061776	1995	2004	linezolid	T109,T121	C0663241
+27061776	2009	2019	vancomycin	T116,T195	C0042313
+27061776	2020	2029	pneumonia	T047	C0032285
+27061776	2030	2037	cohorts	T098	C0599755
+27061776	2043	2052	drug cost	T081	C0085123
+27061776	2070	2079	linezolid	T109,T121	C0663241
+27061776	2094	2100	offset	T081	C1711330
+27061776	2110	2123	renal failure	T047	C0035078
+27061776	2124	2138	adverse events	T046	C0877248
+
+27271770|t|Interleukin-1β induced Stress Granules Sequester COX-2 mRNA and Regulates its Stability and Translation in Human OA Chondrocytes
+27271770|a|Enhanced and immediate expression of cyclooxygenase-2 (COX-2) mRNA is observed in IL-1β - stimulated OA chondrocytes but the synthesis of protein found significantly delayed. Here we investigated the role of stress granules (SGs), ribonucleoprotein complexes that regulate mRNA translation, in the delayed translation of COX-2 mRNAs in IL-1β - stimulated OA chondrocytes. Stimulation of human chondrocytes with IL-1β activated the stress response genes and the phosphorylation of eIF2α that triggered the assembly of SGs. Using combined immunofluorescence staining of SGs markers and COX-2 protein, RNA fluorescence in situ hybridization and RNA immunoprecipitation, the COX-2 mRNAs were found sequestered in SGs in IL-1β - stimulated OA chondrocytes. No increase in COX-2 protein expression was observed during the persistence of SGs but enhanced expression of COX-2 protein was noted upon clearance of the SGs. Inhibition of SGs clearance blocked COX-2 mRNA translation whereas blocking the assembly of SGs by TIA-1 depletion resulted in rapid and increased production of COX-2 and PGE2. Our findings show for the first time assembly of SGs and sequestration of COX-2 mRNAs in human OA chondrocytes under pathological conditions. Post-transcriptional regulation of COX-2 mRNAs translation by SGs indicates a role in IL-1β -mediated catabolic response that could be therapeutically targeted in OA.
+27271770	0	14	Interleukin-1β	T116,T129	C0021753
+27271770	23	38	Stress Granules	T026	C1325596
+27271770	39	48	Sequester	T169	C0333312
+27271770	49	54	COX-2	T116,T126	C0387583
+27271770	55	59	mRNA	T114,T123	C0035696
+27271770	64	73	Regulates	T038	C1327622
+27271770	78	87	Stability	T080	C2350440
+27271770	92	103	Translation	UnknownType	C0678935
+27271770	107	112	Human	T016	C0086418
+27271770	113	115	OA	T047	C0029408
+27271770	116	128	Chondrocytes	T025	C0225369
+27271770	129	137	Enhanced	T052	C2349975
+27271770	152	162	expression	T045	C0017262
+27271770	166	182	cyclooxygenase-2	T028	C1367485
+27271770	184	189	COX-2	T028	C1367485
+27271770	191	195	mRNA	T114,T123	C0035696
+27271770	211	216	IL-1β	T116,T129	C0021753
+27271770	219	229	stimulated	T061	C1292856
+27271770	230	232	OA	T047	C0029408
+27271770	233	245	chondrocytes	T025	C0225369
+27271770	254	274	synthesis of protein	T044	C0597295
+27271770	295	302	delayed	T079	C0205421
+27271770	337	352	stress granules	T026	C1325596
+27271770	354	357	SGs	T026	C1325596
+27271770	360	387	ribonucleoprotein complexes	T026	C1167298
+27271770	393	401	regulate	T038	C1327622
+27271770	402	418	mRNA translation	UnknownType	C0678935
+27271770	427	434	delayed	T079	C0205421
+27271770	435	446	translation	UnknownType	C0678935
+27271770	450	455	COX-2	T028	C1367485
+27271770	456	461	mRNAs	T114,T123	C0035696
+27271770	465	470	IL-1β	T116,T129	C0021753
+27271770	473	483	stimulated	T061	C1292856
+27271770	484	486	OA	T047	C0029408
+27271770	487	499	chondrocytes	T025	C0225369
+27271770	501	512	Stimulation	T061	C1292856
+27271770	516	521	human	T016	C0086418
+27271770	522	534	chondrocytes	T025	C0225369
+27271770	540	545	IL-1β	T116,T129	C0021753
+27271770	560	575	stress response	T039	C0149784
+27271770	576	581	genes	T028	C0017337
+27271770	590	605	phosphorylation	T044	C1158886
+27271770	609	614	eIF2α	T116,T123	C0013733
+27271770	620	629	triggered	T080	C1444748
+27271770	634	649	assembly of SGs	T045	C2247634
+27271770	666	693	immunofluorescence staining	T059	C0079603
+27271770	697	700	SGs	T026	C1325596
+27271770	701	708	markers	T201	C0005516
+27271770	713	726	COX-2 protein	T116,T126	C0387583
+27271770	728	731	RNA	T114	C0035668
+27271770	732	766	fluorescence in situ hybridization	T063	C0162789
+27271770	771	774	RNA	T114	C0035668
+27271770	775	794	immunoprecipitation	T059	C0021069
+27271770	800	805	COX-2	T028	C1367485
+27271770	806	811	mRNAs	T114,T123	C0035696
+27271770	823	834	sequestered	T169	C0333312
+27271770	838	841	SGs	T026	C1325596
+27271770	845	850	IL-1β	T116,T129	C0021753
+27271770	853	863	stimulated	T061	C1292856
+27271770	864	866	OA	T047	C0029408
+27271770	867	879	chondrocytes	T025	C0225369
+27271770	881	883	No	T033	C1513916
+27271770	884	892	increase	T169	C0442805
+27271770	896	901	COX-2	T116,T126	C0387583
+27271770	902	920	protein expression	T045	C1171362
+27271770	945	956	persistence	T079	C0439590
+27271770	960	963	SGs	T026	C1325596
+27271770	968	976	enhanced	T052	C2349975
+27271770	977	987	expression	T045	C1171362
+27271770	991	1004	COX-2 protein	T116,T126	C0387583
+27271770	1020	1029	clearance	T080	C0449297
+27271770	1037	1040	SGs	T026	C1325596
+27271770	1042	1052	Inhibition	T052	C3463820
+27271770	1056	1059	SGs	T026	C1325596
+27271770	1060	1069	clearance	T080	C0449297
+27271770	1070	1077	blocked	T169	C0332206
+27271770	1078	1083	COX-2	T028	C1367485
+27271770	1084	1088	mRNA	T114,T123	C0035696
+27271770	1089	1100	translation	UnknownType	C0678935
+27271770	1109	1117	blocking	T169	C0332206
+27271770	1122	1137	assembly of SGs	T045	C2247634
+27271770	1141	1146	TIA-1	T116,T129	C1429678
+27271770	1147	1156	depletion	T169	C0333668
+27271770	1179	1188	increased	T081	C0205217
+27271770	1189	1199	production	T169	C0005572
+27271770	1203	1208	COX-2	T116,T126	C0387583
+27271770	1213	1217	PGE2	T109,T121,T125	C0012472
+27271770	1256	1271	assembly of SGs	T045	C2247634
+27271770	1276	1289	sequestration	T169	C0333312
+27271770	1293	1298	COX-2	T028	C1367485
+27271770	1299	1304	mRNAs	T114,T123	C0035696
+27271770	1308	1313	human	T016	C0086418
+27271770	1314	1316	OA	T047	C0029408
+27271770	1317	1329	chondrocytes	T025	C0225369
+27271770	1336	1359	pathological conditions	T184	C0039058
+27271770	1361	1392	Post-transcriptional regulation	T045	C1514248
+27271770	1396	1401	COX-2	T028	C1367485
+27271770	1402	1419	mRNAs translation	UnknownType	C0678935
+27271770	1423	1426	SGs	T026	C1325596
+27271770	1447	1452	IL-1β	T116,T129	C0021753
+27271770	1463	1472	catabolic	T169	C0311402
+27271770	1473	1481	response	T032	C0871261
+27271770	1496	1511	therapeutically	T061	C0087111
+27271770	1524	1526	OA	T047	C0029408
+
+27254091|t|Using Evolutionary Theory to Guide Mental Health Research
+27254091|a|Evolutionary approaches to medicine can shed light on the origins and etiology of disease. Such an approach may be especially useful in psychiatry, which frequently addresses conditions with heterogeneous presentation and unknown causes. We review several previous applications of evolutionary theory that highlight the ways in which psychiatric conditions may persist despite and because of natural selection. One lesson from the evolutionary approach is that some conditions currently classified as disorders (because they cause distress and impairment) may actually be caused by functioning adaptations operating " normally " (as designed by natural selection). Such conditions suggest an alternative illness model that may generate alternative intervention strategies. Thus, the evolutionary approach suggests that psychiatry should sometimes think differently about distress and impairment. The complexity of the human brain, including normal functioning and potential for dysfunctions, has developed over evolutionary time and has been shaped by natural selection. Understanding the evolutionary origins of psychiatric conditions is therefore a crucial component to a complete understanding of etiology.
+27254091	6	25	Evolutionary Theory	T170	C0237604
+27254091	35	48	Mental Health	T041	C0025353
+27254091	49	57	Research	T062	C0035168
+27254091	58	81	Evolutionary approaches	T082	C0449445
+27254091	85	93	medicine	T091	C0025118
+27254091	98	108	shed light	T052	C2986669
+27254091	116	123	origins	T079	C0439659
+27254091	128	147	etiology of disease	T169	C1314792
+27254091	157	165	approach	T082	C0449445
+27254091	194	204	psychiatry	T058	C3526598
+27254091	233	243	conditions	T080	C0348080
+27254091	249	262	heterogeneous	T080	C0019409
+27254091	280	294	unknown causes	T033	C3840856
+27254091	299	305	review	T078	C1552617
+27254091	323	335	applications	UnknownType	C0869019
+27254091	339	358	evolutionary theory	T170	C0237604
+27254091	392	414	psychiatric conditions	T047	C1718246
+27254091	450	467	natural selection	T070	C0086685
+27254091	489	510	evolutionary approach	T082	C0449445
+27254091	524	534	conditions	T080	C0348080
+27254091	545	555	classified	T185	C0008902
+27254091	559	568	disorders	T048	C0004936
+27254091	589	597	distress	T033	C0231303
+27254091	602	612	impairment	T046	C0684336
+27254091	640	651	functioning	T169	C0205245
+27254091	652	663	adaptations	T038	C0392673
+27254091	676	684	normally	T080	C0205307
+27254091	703	720	natural selection	T070	C0086685
+27254091	728	738	conditions	T080	C0348080
+27254091	762	775	illness model	T050	C0684309
+27254091	806	829	intervention strategies	T061	C0184661
+27254091	841	862	evolutionary approach	T082	C0449445
+27254091	877	887	psychiatry	T058	C3526598
+27254091	911	922	differently	T080	C1705242
+27254091	929	937	distress	T033	C0231303
+27254091	942	952	impairment	T046	C0684336
+27254091	958	968	complexity	T080	C0439855
+27254091	976	981	human	T016	C0086418
+27254091	982	987	brain	T023	C0006104
+27254091	999	1005	normal	T080	C0205307
+27254091	1006	1017	functioning	T042	C0678908
+27254091	1022	1031	potential	T080	C3245505
+27254091	1036	1048	dysfunctions	T047	C0262405
+27254091	1069	1086	evolutionary time	T079	C0040223
+27254091	1110	1127	natural selection	T070	C0086685
+27254091	1147	1167	evolutionary origins	T079	C0439659
+27254091	1171	1193	psychiatric conditions	T047	C1718246
+27254091	1209	1216	crucial	T080	C1511545
+27254091	1217	1226	component	T077	C1705248
+27254091	1258	1266	etiology	T169	C1314792
+
+27244841|t|Improving Early Identification and Ongoing Care of Children With Autism Spectrum Disorder
+27244841|a|Poor adherence to recommended screening for autism spectrum disorder (ASD) and pediatricians ' lack of confidence in providing care for children with ASD reflect quality gaps in primary care. This study aimed to increase the proportion of toddlers screened for ASD and improve physicians ' self-efficacy in providing care to children with ASD. Twenty-six Utah primary care practices participated in a 3 to 6 month learning collaborative (LC) to improve identification and ongoing care of children with ASD. Monthly chart audits assessed whether an ASD screening tool was administered at 18- and 24- month visits. Physicians completed pre-LC and post-LC surveys to assess changes in self-efficacy in providing care and changes in perceived barriers to implementation of screening and caring for children with ASD. Before the LC, 15% of 18- and 24- month visits had documented ASD screening, compared with 91% during the last month of the LC (P < .001). This rate of ASD screening was sustained 4 years after the LC by most practices. Compared with survey responses before the LC, physicians reported significant improvement in their ability to care for children with ASD and decreases in their perceived barriers to screening and caring for children with ASD. The LC was effective in increasing and sustaining recommended ASD screening of toddlers and improving physicians ' perceived self-efficacy in caring for children with ASD. Improving primary care screening, skills, and knowledge may improve the timing of diagnosis, initiation of treatment, quality of care, and outcomes for children with ASD.
+27244841	0	9	Improving	T080	C1272745
+27244841	10	30	Early Identification	T061	C0814435
+27244841	43	47	Care	T052	C1947933
+27244841	51	59	Children	T100	C0008059
+27244841	65	89	Autism Spectrum Disorder	T033	C4315362
+27244841	120	129	screening	T058	C1710032
+27244841	134	158	autism spectrum disorder	T033	C4315362
+27244841	160	163	ASD	T033	C4315362
+27244841	169	182	pediatricians	T097	C0237433
+27244841	185	203	lack of confidence	T033	C0558092
+27244841	217	221	care	T052	C1947933
+27244841	226	234	children	T100	C0008059
+27244841	240	243	ASD	T033	C4315362
+27244841	268	280	primary care	T058	C0033137
+27244841	287	292	study	T062	C2603343
+27244841	329	337	toddlers	T100	C0682053
+27244841	351	354	ASD	T033	C4315362
+27244841	359	366	improve	T033	C0184511
+27244841	367	377	physicians	T097	C0031831
+27244841	380	393	self-efficacy	T041	C0600564
+27244841	407	411	care	T052	C1947933
+27244841	415	423	children	T100	C0008059
+27244841	429	432	ASD	T033	C4315362
+27244841	450	472	primary care practices	T058	C0033137
+27244841	498	503	month	T079	C0439231
+27244841	504	526	learning collaborative	T092	C1561598
+27244841	528	530	LC	T092	C1561598
+27244841	535	542	improve	T033	C0184511
+27244841	543	557	identification	T041	C0020792
+27244841	570	574	care	T052	C1947933
+27244841	578	586	children	T100	C0008059
+27244841	592	595	ASD	T033	C4315362
+27244841	597	604	Monthly	T079	C0332177
+27244841	605	617	chart audits	UnknownType	C0184805
+27244841	638	641	ASD	T033	C4315362
+27244841	642	656	screening tool	T058	C1710032
+27244841	689	694	month	T079	C0439231
+27244841	695	701	visits	T058	C1512346
+27244841	703	713	Physicians	T097	C0031831
+27244841	724	730	pre-LC	T079	C1254367
+27244841	735	742	post-LC	T079	C1254367
+27244841	743	750	surveys	T170	C0038951
+27244841	761	768	changes	T169	C0392747
+27244841	772	785	self-efficacy	T041	C0600564
+27244841	799	803	care	T052	C1947933
+27244841	819	828	perceived	T041	C0030971
+27244841	829	837	barriers	T080	C0679881
+27244841	841	855	implementation	T052	C1708476
+27244841	859	868	screening	T058	C1710032
+27244841	873	879	caring	T052	C1947933
+27244841	884	892	children	T100	C0008059
+27244841	898	901	ASD	T033	C4315362
+27244841	914	916	LC	T092	C1561598
+27244841	937	942	month	T079	C0439231
+27244841	943	949	visits	T058	C1512346
+27244841	954	964	documented	T058	C1301725
+27244841	965	968	ASD	T033	C4315362
+27244841	969	978	screening	T058	C1710032
+27244841	1014	1019	month	T079	C0439231
+27244841	1027	1029	LC	T092	C1561598
+27244841	1055	1058	ASD	T033	C4315362
+27244841	1059	1068	screening	T058	C1710032
+27244841	1085	1090	years	T079	C0439234
+27244841	1101	1103	LC	T092	C1561598
+27244841	1137	1143	survey	T062	C0018762
+27244841	1165	1167	LC	T092	C1561598
+27244841	1169	1179	physicians	T097	C0031831
+27244841	1201	1212	improvement	T077	C2986411
+27244841	1233	1237	care	T052	C1947933
+27244841	1242	1250	children	T100	C0008059
+27244841	1256	1259	ASD	T033	C4315362
+27244841	1283	1292	perceived	T041	C0030971
+27244841	1293	1301	barriers	T080	C0679881
+27244841	1305	1314	screening	T058	C1710032
+27244841	1319	1325	caring	T052	C1947933
+27244841	1330	1338	children	T100	C0008059
+27244841	1344	1347	ASD	T033	C4315362
+27244841	1353	1355	LC	T092	C1561598
+27244841	1411	1414	ASD	T033	C4315362
+27244841	1415	1424	screening	T058	C1710032
+27244841	1428	1436	toddlers	T100	C0682053
+27244841	1451	1461	physicians	T097	C0031831
+27244841	1474	1487	self-efficacy	T041	C0600564
+27244841	1491	1497	caring	T055	C0150499
+27244841	1502	1510	children	T100	C0008059
+27244841	1516	1519	ASD	T033	C4315362
+27244841	1531	1543	primary care	T058	C0033137
+27244841	1544	1553	screening	T058	C1710032
+27244841	1555	1561	skills	T080	C0008973
+27244841	1567	1576	knowledge	T033	C0518904
+27244841	1581	1588	improve	T033	C0184511
+27244841	1593	1599	timing	T079	C0449243
+27244841	1603	1612	diagnosis	T062	C1704656
+27244841	1614	1624	initiation	T169	C1704686
+27244841	1628	1637	treatment	T061	C0087111
+27244841	1639	1654	quality of care	T058	C0034379
+27244841	1660	1668	outcomes	T169	C1274040
+27244841	1673	1681	children	T100	C0008059
+27244841	1687	1690	ASD	T033	C4315362
+
+27242550|t|Mitochondrial Ultrastructure and Glucose Signaling Pathways Attributed to the Kv1.3 Ion Channel
+27242550|a|Gene-targeted deletion of the potassium channel Kv1.3 (Kv1.3(-∕-)) results i n "S uper-smeller" mice with a se nsory p h enotype t hat includes an increased olfactory ability linked to changes in olfactory circuitry, increased abundance of olfactory cilia, and increased expression of odorant receptors and the G-protein, Golf. Kv1.3(-∕-) mice a lso have a metabolic p h enotype i ncluding lo wer b o dy weight a nd de creased a d iposity, in creased total energy expenditure (TEE), increased locomotor activity, and resistance to both diet - and genetic-induced obesity. We explored two cellular aspects to elucidate the mechanism by which loss of Kv1.3 channel in the olfactory bulb (OB) may enhance glucose utilization and metabolic rate. First, using in situ hybridization we find that Kv1.3 and the insulin - dependent glucose transporter type 4 (GLUT4) are co-localized to the mitral cell layer of the OB. Disruption of Kv1.3 conduction via construction of a pore mutation (W386F Kv1.3) was sufficient to independently translocate GLUT4 to the plasma membrane in HEK 293 cells. Because olfactory sensory perception and the maintenance of action potential (AP) firing frequency by mitral cells of the OB is highly energy demanding and Kv1.3 is also expressed in mitochondria, we next explored the structure of this organelle in mitral cells. We challenged wildtype (WT) and Kv1.3(-∕-) male mice with a m oderately high-fat diet (M HF, 31.8 % kcal fat) for 4 months and then examined OB ultrastructure using transmission electron microscopy. In WT mice, mitochondria were significantly enlarged following diet-induced obesity (DIO) and there were fewer mitochondria, likely due to mitophagy. Interestingly, mitochondria were significantly smaller in Kv1.3(-∕-) mice c ompared with that of W T mice. Similar to their m etabolic r esistance to D IO, the K v1.3(-∕-) mice ha d unchanged mit ochondria in terms of cros s sectional area and abundance following a challenge with modified diet. We are very interested to understand how targeted disruption of the Kv1.3 channel in the OB can modify TEE. Our study demonstrates that Kv1.3 regulates mitochondrial structure and alters glucose utilization; two important metabolic changes that could drive whole system changes in metabolism initiated at the OB.
+27242550	0	13	Mitochondrial	T026	C0026237
+27242550	14	28	Ultrastructure	T025	C3825563
+27242550	33	59	Glucose Signaling Pathways	T044	C1622453
+27242550	78	95	Kv1.3 Ion Channel	T116,T123	C0290730
+27242550	96	109	Gene-targeted	T063	C0242613
+27242550	110	118	deletion	T045	C0017260
+27242550	126	149	potassium channel Kv1.3	T116,T123	C0290730
+27242550	151	172	Kv1.3(-∕-)) results i	T034	C0456984
+27242550	178	196	uper-smeller" mice	T015	C0025929
+27242550	207	214	nsory p	T080	C0445254
+27242550	217	226	enotype t	T032	C0031437
+27242550	243	252	increased	T081	C0205217
+27242550	253	262	olfactory	T040	C0439826
+27242550	263	270	ability	T032	C0085732
+27242550	292	301	olfactory	T040	C0439826
+27242550	302	311	circuitry	UnknownType	C0260041
+27242550	313	322	increased	T081	C0205217
+27242550	323	332	abundance	T080	C2346714
+27242550	336	351	olfactory cilia	T026	C0230758
+27242550	357	366	increased	T081	C0205217
+27242550	367	377	expression	T045	C0597360
+27242550	381	398	odorant receptors	T116,T192	C0164313
+27242550	407	422	G-protein, Golf	T116,T123	C0033684
+27242550	424	441	Kv1.3(-∕-) mice a	T015	C0025929
+27242550	453	464	metabolic p	T169	C0311400
+27242550	467	476	enotype i	T032	C0031437
+27242550	489	494	wer b	T081	C1611820
+27242550	497	508	dy weight a	T032	C0005910
+27242550	515	524	creased a	T081	C0205216
+27242550	527	535	iposity,	T032	C1563743
+27242550	539	571	creased total energy expenditure	T033	C0429629
+27242550	573	576	TEE	T033	C0429629
+27242550	579	588	increased	T081	C0205217
+27242550	589	607	locomotor activity	T040	C0023946
+27242550	613	623	resistance	T041	C0237834
+27242550	632	636	diet	T168	C0012155
+27242550	643	658	genetic-induced	T045	C0017391
+27242550	659	666	obesity	T047	C0028754
+27242550	684	700	cellular aspects	T080	C0935919
+27242550	718	727	mechanism	T169	C0441712
+27242550	737	741	loss	T081	C1517945
+27242550	745	758	Kv1.3 channel	T116,T123	C0290730
+27242550	766	780	olfactory bulb	T023	C0028936
+27242550	782	784	OB	T023	C0028936
+27242550	798	817	glucose utilization	T044	C1148560
+27242550	822	836	metabolic rate	T039	C0870882
+27242550	851	872	in situ hybridization	T063	C0162788
+27242550	886	891	Kv1.3	T116,T123	C0290730
+27242550	900	907	insulin	T116,T121,T125	C0021641
+27242550	910	919	dependent	T080	C1701901
+27242550	920	946	glucose transporter type 4	T116,T123	C0166441
+27242550	948	953	GLUT4	T116,T123	C0166441
+27242550	979	985	mitral	T023	C0026264
+27242550	986	996	cell layer	T025	C0007634
+27242550	1004	1006	OB	T023	C0028936
+27242550	1008	1018	Disruption	T169	C0332453
+27242550	1022	1027	Kv1.3	T116,T123	C0290730
+27242550	1028	1038	conduction	T070	C0457405
+27242550	1061	1074	pore mutation	T045	C0026882
+27242550	1076	1087	W386F Kv1.3	T045	C0026882
+27242550	1121	1132	translocate	T043	C0599893
+27242550	1133	1138	GLUT4	T116,T123	C0166441
+27242550	1146	1161	plasma membrane	T026	C0007603
+27242550	1165	1178	HEK 293 cells	T025	C2936239
+27242550	1188	1216	olfactory sensory perception	T040	C0037361
+27242550	1225	1236	maintenance	T052	C0024501
+27242550	1240	1261	action potential (AP)	T043	C0001272
+27242550	1282	1288	mitral	T023	C0026264
+27242550	1289	1294	cells	T025	C0007634
+27242550	1302	1304	OB	T023	C0028936
+27242550	1336	1341	Kv1.3	T116,T123	C0290730
+27242550	1363	1375	mitochondria	T026	C0026237
+27242550	1416	1425	organelle	T026	C0029219
+27242550	1429	1435	mitral	T023	C0026264
+27242550	1436	1441	cells	T025	C0007634
+27242550	1457	1465	wildtype	T015	C1520150
+27242550	1467	1469	WT	T015	C1520150
+27242550	1475	1495	Kv1.3(-∕-) male mice	T015	C0025929
+27242550	1505	1530	oderately high-fat diet (	T061	C0521974
+27242550	1532	1535	HF,	T061	C0521974
+27242550	1559	1565	months	T079	C0439231
+27242550	1584	1586	OB	T023	C0028936
+27242550	1587	1601	ultrastructure	T025	C3825563
+27242550	1608	1640	transmission electron microscopy	T059	C0678118
+27242550	1645	1652	WT mice	T015	C1520150
+27242550	1654	1666	mitochondria	T026	C0026237
+27242550	1686	1694	enlarged	T080	C0442800
+27242550	1705	1725	diet-induced obesity	T047	C0028754
+27242550	1727	1730	DIO	T047	C0028754
+27242550	1753	1765	mitochondria	T026	C0026237
+27242550	1781	1790	mitophagy	T043	C1820119
+27242550	1807	1819	mitochondria	T026	C0026237
+27242550	1839	1846	smaller	T080	C0547044
+27242550	1850	1867	Kv1.3(-∕-) mice c	T015	C0025929
+27242550	1891	1898	T mice.	T015	C1520150
+27242550	1918	1928	etabolic r	T169	C0311400
+27242550	1944	1947	IO,	T047	C0028754
+27242550	1954	1971	v1.3(-∕-) mice ha	T015	C0025929
+27242550	1988	2000	ochondria in	T026	C0026237
+27242550	2015	2026	s sectional	T082	C0552389
+27242550	2027	2031	area	T082	C0205146
+27242550	2036	2045	abundance	T080	C2346714
+27242550	2073	2086	modified diet	T061	C0521974
+27242550	2138	2148	disruption	T169	C0332453
+27242550	2156	2169	Kv1.3 channel	T116,T123	C0290730
+27242550	2177	2179	OB	T023	C0028936
+27242550	2191	2194	TEE	T033	C0429629
+27242550	2224	2229	Kv1.3	T116,T123	C0290730
+27242550	2240	2263	mitochondrial structure	T026	C0026237
+27242550	2275	2294	glucose utilization	T044	C1148560
+27242550	2310	2319	metabolic	T169	C0311400
+27242550	2369	2379	metabolism	T040	C0025519
+27242550	2397	2399	OB	T023	C0028936
+
+27252074|t|The Chinese Herbal Mixture Tien-Hsien Liquid Augments the Anticancer Immunity in Tumor Cell - Vaccinated Mice
+27252074|a|Background The Chinese herbal mixture, Tien-Hsien liquid (THL), has been used as an anticancer dietary supplement for more than 20 years. Our previous studies have shown that THL can modulate immune response and inhibit tumor growth. In this study, we further evaluated the effect of THL on anticancer immune response in mice vaccinated with γ-ray - irradiated tumor cells. Methods The antitumor effect of THL was determined in mice vaccinated with low-tumorigenic CT-26-low colon cancer cells or γ-ray-irradiated high-tumorigenic CT-26-high colon cancer cells. The number of natural killer (NK) cells and T lymphocytes in the spleen was analyzed by flow cytometry. The tumor - killing activities of NK cells and cytotoxic T lymphocytes (CTLs) were analyzed by flow cytometry using YAC-1 and CT-26-high cells, respectively, as target cells. The levels of IFN-γ, IL-2, and TNF-α were determined by ELISA. Results THL suppressed the growth of CT-26-high tumor in mice previously vaccinated with low-tumorigenic CT-26-low cells or γ-irradiated CT-26-high cells. THL increased the populations of NK cells and CD4+ T lymphocytes in the spleen and enhanced the tumor - killing activities of NK cells and CTL in mice vaccinated with γ-irradiated CT-26-high cells. THL increased the production of IFN-γ, IL-2, and TNF-α in mice vaccinated with γ-irradiated CT-26-high cells. Conclusion THL can enhance the antitumor immune responses in mice vaccinated with killed tumor cells. These results suggest that THL may be used as a complementary medicine for cancer patients previously treated with killed tumor cell vaccines, radiotherapy, or chemotherapy.
+27252074	4	18	Chinese Herbal	T080	C3146288
+27252074	19	26	Mixture	T167	C0439962
+27252074	27	44	Tien-Hsien Liquid	T109,T121	C1528399
+27252074	45	53	Augments	T081	C0205217
+27252074	58	68	Anticancer	T080	C2986475
+27252074	69	77	Immunity	T039	C0020964
+27252074	81	91	Tumor Cell	T025	C0597032
+27252074	94	104	Vaccinated	T033	C1116171
+27252074	105	109	Mice	T015	C0025929
+27252074	125	139	Chinese herbal	T080	C3146288
+27252074	140	147	mixture	T167	C0439962
+27252074	149	166	Tien-Hsien liquid	T109,T121	C1528399
+27252074	168	171	THL	T109,T121	C1528399
+27252074	194	204	anticancer	T080	C2986475
+27252074	205	223	dietary supplement	T168	C0242295
+27252074	241	246	years	T079	C0439234
+27252074	252	260	previous	T079	C0205156
+27252074	261	268	studies	T062	C2603343
+27252074	285	288	THL	T109,T121	C1528399
+27252074	293	301	modulate	T082	C0443264
+27252074	302	317	immune response	T042	C0301872
+27252074	322	329	inhibit	T052	C3463820
+27252074	330	342	tumor growth	T191	C0598934
+27252074	352	357	study	T062	C2603343
+27252074	370	379	evaluated	T058	C0220825
+27252074	384	390	effect	T080	C1280500
+27252074	394	397	THL	T109,T121	C1528399
+27252074	401	411	anticancer	T080	C2986475
+27252074	412	427	immune response	T042	C0301872
+27252074	431	435	mice	T015	C0025929
+27252074	436	446	vaccinated	T033	C1116171
+27252074	452	457	γ-ray	T070	C0017011
+27252074	460	470	irradiated	T070	C1282930
+27252074	471	482	tumor cells	T025	C0597032
+27252074	496	505	antitumor	T080	C2986475
+27252074	506	512	effect	T080	C1280500
+27252074	516	519	THL	T109,T121	C1528399
+27252074	524	534	determined	T080	C0521095
+27252074	538	542	mice	T015	C0025929
+27252074	543	553	vaccinated	T033	C1116171
+27252074	559	603	low-tumorigenic CT-26-low colon cancer cells	T025	C0085983
+27252074	607	623	γ-ray-irradiated	T061	C2985557
+27252074	624	670	high-tumorigenic CT-26-high colon cancer cells	T025	C0085983
+27252074	676	682	number	T081	C0237753
+27252074	686	711	natural killer (NK) cells	T025	C0022688
+27252074	716	729	T lymphocytes	T025	C0039194
+27252074	737	743	spleen	T023	C0037993
+27252074	748	756	analyzed	T062	C0936012
+27252074	760	774	flow cytometry	T059	C0016263
+27252074	780	785	tumor	T191	C0027651
+27252074	788	795	killing	T043	C0599733
+27252074	796	806	activities	T052	C0441655
+27252074	810	818	NK cells	T025	C0022688
+27252074	823	846	cytotoxic T lymphocytes	T025	C0039195
+27252074	848	852	CTLs	T025	C0039195
+27252074	859	867	analyzed	T062	C0936012
+27252074	871	885	flow cytometry	T059	C0016263
+27252074	892	897	YAC-1	T025	C0085983
+27252074	902	918	CT-26-high cells	T025	C0085983
+27252074	937	943	target	T169	C1521840
+27252074	944	949	cells	T025	C0007634
+27252074	955	961	levels	T080	C0441889
+27252074	965	970	IFN-γ	T116,T121,T129	C0021745
+27252074	972	976	IL-2	T116,T129	C0021756
+27252074	982	987	TNF-α	T116,T129	C1456820
+27252074	993	1006	determined by	T080	C0521095
+27252074	1007	1012	ELISA	T059	C0014441
+27252074	1022	1025	THL	T109,T121	C1528399
+27252074	1026	1036	suppressed	T169	C1260953
+27252074	1041	1047	growth	T040	C0018270
+27252074	1051	1067	CT-26-high tumor	T025	C0085983
+27252074	1071	1075	mice	T015	C0025929
+27252074	1087	1097	vaccinated	T033	C1116171
+27252074	1103	1134	low-tumorigenic CT-26-low cells	T025	C0085983
+27252074	1138	1150	γ-irradiated	T061	C2985557
+27252074	1151	1167	CT-26-high cells	T025	C0085983
+27252074	1169	1172	THL	T109,T121	C1528399
+27252074	1173	1182	increased	T081	C0205217
+27252074	1202	1210	NK cells	T025	C0022688
+27252074	1215	1233	CD4+ T lymphocytes	T025	C0039215
+27252074	1241	1247	spleen	T023	C0037993
+27252074	1252	1260	enhanced	T052	C2349975
+27252074	1265	1270	tumor	T191	C0027651
+27252074	1273	1280	killing	T043	C0599733
+27252074	1281	1291	activities	T052	C0441655
+27252074	1295	1303	NK cells	T025	C0022688
+27252074	1308	1311	CTL	T025	C0039195
+27252074	1315	1319	mice	T015	C0025929
+27252074	1320	1330	vaccinated	T033	C1116171
+27252074	1336	1348	γ-irradiated	T061	C2985557
+27252074	1349	1365	CT-26-high cells	T025	C0085983
+27252074	1367	1370	THL	T109,T121	C1528399
+27252074	1371	1380	increased	T081	C0205217
+27252074	1385	1395	production	T169	C0205245
+27252074	1399	1404	IFN-γ	T116,T121,T129	C0021745
+27252074	1406	1410	IL-2	T116,T129	C0021756
+27252074	1416	1421	TNF-α	T116,T129	C1456820
+27252074	1425	1429	mice	T015	C0025929
+27252074	1430	1440	vaccinated	T033	C1116171
+27252074	1446	1458	γ-irradiated	T061	C2985557
+27252074	1459	1475	CT-26-high cells	T025	C0085983
+27252074	1488	1491	THL	T109,T121	C1528399
+27252074	1496	1503	enhance	T052	C2349975
+27252074	1508	1517	antitumor	T080	C2986475
+27252074	1518	1534	immune responses	T042	C0301872
+27252074	1538	1542	mice	T015	C0025929
+27252074	1543	1553	vaccinated	T033	C1116171
+27252074	1559	1565	killed	T169	C0205245
+27252074	1566	1577	tumor cells	T025	C0597032
+27252074	1585	1592	results	T169	C1274040
+27252074	1606	1609	THL	T109,T121	C1528399
+27252074	1627	1649	complementary medicine	T091	C1148474
+27252074	1654	1660	cancer	T191	C0006826
+27252074	1661	1669	patients	T101	C0030705
+27252074	1670	1680	previously	T079	C0205156
+27252074	1681	1688	treated	T169	C1522326
+27252074	1694	1720	killed tumor cell vaccines	T116,T121,T129	C0376659
+27252074	1722	1734	radiotherapy	T061	C1522449
+27252074	1739	1751	chemotherapy	T061	C3665472
+
+27245303|t|Dynamics of intestinal metabolites and morphology in response to necrotic enteritis challenge in broiler chickens
+27245303|a|Despite the relatively small contribution to metabolizable energy that volatile fatty acids (VFAs) provide in chickens, these organic acids have been reported to play beneficial roles in the gastrointestinal tract (GIT) of birds, for example, inhibition of the growth of some pathogenic bacteria. However, information regarding the dynamics of these metabolites in the GIT of chickens is still scarce, especially under disease conditions such as necrotic enteritis (NE). Here, we investigated the dynamics of VFAs and lactic acid, and intestinal morphology in response to NE predisposing factors, that is, excessive dietary fishmeal and Eimeria inoculation, and causative agent Clostridium perfringens producing NetB toxin. The experiment was designed in a 2 × 2 × 2 factorial arrangement of treatments with or without: fishmeal feeding, Eimeria inoculation and C. perfringens challenge. The results showed that these factors significantly influenced composition and concentration of VFAs and lactic acids, pH and histomorphometry in one way or another. These changes may be important for the onset of NE or only the synergetic responses to micro environmental stress. Eimeria appeared to be more important than fishmeal in predisposing birds to NE, thus the application of Eimeria in NE challenge provides more consistent success in inducing the disease. The metabolic responses to various adverse factors such as excessive dietary fishmeal and Eimeria infection are complex. Thus, intensive efforts are required to better understand NE so as to achieve the control of the disease in the absence of antibiotics.
+27245303	0	8	Dynamics	T070	C3826426
+27245303	12	22	intestinal	T023	C0021853
+27245303	23	34	metabolites	T123	C0870883
+27245303	39	49	morphology	T080	C0332437
+27245303	53	61	response	T032	C0871261
+27245303	65	83	necrotic enteritis	T047	C0267454
+27245303	84	93	challenge	T058	C0805586
+27245303	97	113	broiler chickens	T012	C2698565
+27245303	126	136	relatively	T080	C0205345
+27245303	137	142	small	T081	C0700321
+27245303	143	155	contribution	T052	C1880177
+27245303	159	172	metabolizable	T169	C0311400
+27245303	173	179	energy	T081	C1442080
+27245303	185	205	volatile fatty acids	T109,T123	C0015691
+27245303	207	211	VFAs	T109,T123	C0015691
+27245303	213	220	provide	T052	C1999230
+27245303	224	232	chickens	T012	C2698565
+27245303	240	253	organic acids	T109	C0369760
+27245303	264	272	reported	T058	C0700287
+27245303	281	291	beneficial	T081	C0086387
+27245303	292	297	roles	T077	C1705810
+27245303	305	327	gastrointestinal tract	T022	C0017189
+27245303	329	332	GIT	T022	C0017189
+27245303	337	342	birds	T012	C0005595
+27245303	357	381	inhibition of the growth	T040	C2249823
+27245303	390	400	pathogenic	T001	C0450254
+27245303	401	409	bacteria	T007	C0004611
+27245303	420	431	information	T078	C1533716
+27245303	446	454	dynamics	T070	C3826426
+27245303	464	475	metabolites	T123	C0870883
+27245303	483	486	GIT	T022	C0017189
+27245303	490	498	chickens	T012	C2698565
+27245303	508	514	scarce	T080	C0231180
+27245303	516	526	especially	T080	C0205555
+27245303	533	551	disease conditions	T033	C1299555
+27245303	560	578	necrotic enteritis	T047	C0267454
+27245303	580	582	NE	T047	C0267454
+27245303	594	606	investigated	T169	C1292732
+27245303	611	619	dynamics	T070	C3826426
+27245303	623	627	VFAs	T109,T123	C0015691
+27245303	632	643	lactic acid	T109,T121,T123	C0064582
+27245303	649	659	intestinal	T023	C0021853
+27245303	660	670	morphology	T080	C0332437
+27245303	674	682	response	T032	C0871261
+27245303	686	688	NE	T047	C0267454
+27245303	689	709	predisposing factors	T079	C0032946
+27245303	720	729	excessive	T080	C0442802
+27245303	730	737	dietary	T168	C0012155
+27245303	738	746	fishmeal	T167	C3687772
+27245303	751	758	Eimeria	T204	C0013739
+27245303	759	770	inoculation	T061	C2987620
+27245303	776	791	causative agent	T033	C0449411
+27245303	792	815	Clostridium perfringens	T007	C0009063
+27245303	826	836	NetB toxin	T116,T123,T131	C3492213
+27245303	842	852	experiment	T062	C0205664
+27245303	857	865	designed	T062	C0015320
+27245303	881	890	factorial	UnknownType	C0681865
+27245303	891	902	arrangement	T058	C0586001
+27245303	906	916	treatments	T061	C0087111
+27245303	934	942	fishmeal	T167	C3687772
+27245303	943	950	feeding	T052	C2987508
+27245303	952	959	Eimeria	T204	C0013739
+27245303	960	971	inoculation	T061	C2987620
+27245303	976	990	C. perfringens	T007	C0009063
+27245303	991	1000	challenge	T058	C0805586
+27245303	1006	1013	results	T033	C0683954
+27245303	1032	1039	factors	T169	C1521761
+27245303	1040	1053	significantly	T078	C0750502
+27245303	1054	1064	influenced	T077	C4054723
+27245303	1065	1076	composition	T201	C0486616
+27245303	1081	1094	concentration	T081	C1446561
+27245303	1098	1102	VFAs	T109,T123	C0015691
+27245303	1107	1119	lactic acids	T109,T121,T123	C0064582
+27245303	1121	1123	pH	T081	C0020283
+27245303	1128	1144	histomorphometry	UnknownType	C0679557
+27245303	1174	1181	changes	T169	C0392747
+27245303	1189	1198	important	T080	C3898777
+27245303	1207	1215	onset of	T080	C0332162
+27245303	1216	1218	NE	T047	C0267454
+27245303	1231	1251	synergetic responses	T032	C0871261
+27245303	1255	1274	micro environmental	T082	C4072789
+27245303	1275	1281	stress	T033	C0038435
+27245303	1283	1290	Eimeria	T204	C0013739
+27245303	1306	1310	more	T081	C0205172
+27245303	1311	1320	important	T080	C3898777
+27245303	1326	1334	fishmeal	T167	C3687772
+27245303	1338	1350	predisposing	T169	C0231203
+27245303	1351	1356	birds	T012	C0005595
+27245303	1360	1362	NE	T047	C0267454
+27245303	1373	1384	application	T169	C0542341
+27245303	1388	1395	Eimeria	T204	C0013739
+27245303	1399	1401	NE	T047	C0267454
+27245303	1402	1411	challenge	T058	C0805586
+27245303	1412	1420	provides	T052	C1999230
+27245303	1426	1436	consistent	T078	C0332290
+27245303	1437	1444	success	T080	C0679864
+27245303	1448	1456	inducing	T169	C0205263
+27245303	1461	1468	disease	T047	C0012634
+27245303	1474	1483	metabolic	T169	C0311400
+27245303	1484	1493	responses	T032	C0871261
+27245303	1505	1512	adverse	T046	C0879626
+27245303	1513	1520	factors	T169	C1521761
+27245303	1529	1538	excessive	T080	C0442802
+27245303	1539	1546	dietary	T168	C0012155
+27245303	1547	1555	fishmeal	T167	C3687772
+27245303	1560	1567	Eimeria	T204	C0013739
+27245303	1568	1577	infection	T046	C3714514
+27245303	1582	1589	complex	T080	C0439855
+27245303	1597	1606	intensive	T080	C0522510
+27245303	1607	1614	efforts	T040	C0015264
+27245303	1619	1627	required	T169	C1514873
+27245303	1631	1637	better	T080	C0332272
+27245303	1638	1648	understand	T041	C0162340
+27245303	1649	1651	NE	T047	C0267454
+27245303	1673	1695	control of the disease	T058	C0085557
+27245303	1703	1710	absence	T169	C0332197
+27245303	1714	1725	antibiotics	T195	C0003232
+
+27261587|t|Combination of telmisartan with sildenafil ameliorate progression of diabetic nephropathy in streptozotocin - induced diabetic model
+27261587|a|Diabetic nephropathy (DN) is a leading cause of end-stage renal disease in the world. Several signaling pathways are involved in the pathogenesis of DN including elevation in level of angiotensin II, formation of advanced glycation end products (AGE), activation of protein kinase c (PKC), and lipid accumulation. These pathways activate one another mutually leading to oxidative stress, increasing expression of transforming growth factor beta-1 (TGF-β 1) and release of interleukins and adhesion molecules, so the aim of this study is to interrupt more than pathogenic pathway to ameliorate the progression of DN. In the present study, white male rats (N=48) were divided into six groups (8 rats each), the first two groups served as normal control and a control vehicle group while the remaining four groups were rendered diabetic by a single intraperitoneal injection of Streptozotocin (STZ) and being left for 4 weeks to develop DN. Thereafter, the rats were divided into DN group, DN group receiving Telmisartan or Sildenafil or Telmisartan Sildenafil combination. After the specified treatment period, urine samples were collected (using metabolic cages) to measure proteinuria, animals were then euthanized, blood and tissue samples were collected for measurement of Blood glucose, BUN, S.Cr, LDL, NO, TGF-β1, IL-1β, AGEPs, and SOD. The combination therapy showed significant decrease in BUN, S.Cr, LDL, TGF-β1, IL-1β, Proteinuria and AGEPs and significant increase in SOD and NO. The findings showed that combination therapy was able to ameliorate DN and that the effects were superior to the single drugs alone.
+27261587	0	11	Combination	T121	C0013162
+27261587	15	26	telmisartan	T109,T121	C0248719
+27261587	32	42	sildenafil	T109,T121	C0529793
+27261587	43	53	ameliorate	T080	C0205556
+27261587	54	65	progression	T046	C0242656
+27261587	69	89	diabetic nephropathy	T047	C0011881
+27261587	93	107	streptozotocin	T109,T195	C0038432
+27261587	110	117	induced	T169	C0205263
+27261587	118	126	diabetic	T033	C0241863
+27261587	133	153	Diabetic nephropathy	T047	C0011881
+27261587	155	157	DN	T047	C0011881
+27261587	181	204	end-stage renal disease	T047	C0022661
+27261587	227	245	signaling pathways	T044	C0037080
+27261587	266	278	pathogenesis	T046	C0699748
+27261587	282	284	DN	T047	C0011881
+27261587	295	304	elevation	T082	C0702240
+27261587	317	331	angiotensin II	T116,T121,T123	C0003009
+27261587	333	342	formation	T169	C1522492
+27261587	346	377	advanced glycation end products	T109,T123	C0162574
+27261587	379	382	AGE	T109,T123	C0162574
+27261587	385	395	activation	T043	C1819041
+27261587	399	415	protein kinase c	T116,T126	C0033634
+27261587	417	420	PKC	T116,T126	C0033634
+27261587	427	445	lipid accumulation	T033	C0333574
+27261587	453	461	pathways	T044	C0037080
+27261587	462	470	activate	T052	C1879547
+27261587	503	519	oxidative stress	T049	C0242606
+27261587	532	542	expression	T045	C1171362
+27261587	546	579	transforming growth factor beta-1	T116,T121,T123	C1704256
+27261587	581	588	TGF-β 1	T116,T121,T123	C1704256
+27261587	594	601	release	T169	C1283071
+27261587	605	617	interleukins	T116,T129	C0021764
+27261587	622	640	adhesion molecules	T116,T123	C0007578
+27261587	693	703	pathogenic	T033	C3816499
+27261587	704	711	pathway	T077	C1705987
+27261587	715	725	ameliorate	T080	C0205556
+27261587	730	741	progression	T046	C0242656
+27261587	745	747	DN	T047	C0011881
+27261587	764	769	study	T062	C0008972
+27261587	771	786	white male rats	T015	C0684072
+27261587	826	830	rats	T015	C0684072
+27261587	869	883	normal control	T096	C0009932
+27261587	890	911	control vehicle group	T096	C0009932
+27261587	958	966	diabetic	T033	C0241863
+27261587	979	1004	intraperitoneal injection	T061	C0021493
+27261587	1008	1022	Streptozotocin	T109,T195	C0038432
+27261587	1024	1027	STZ	T109,T195	C0038432
+27261587	1067	1069	DN	T047	C0011881
+27261587	1087	1091	rats	T015	C0684072
+27261587	1110	1112	DN	T047	C0011881
+27261587	1120	1122	DN	T047	C0011881
+27261587	1139	1150	Telmisartan	T109,T121	C0248719
+27261587	1154	1164	Sildenafil	T109,T121	C0529793
+27261587	1168	1179	Telmisartan	T109,T121	C0248719
+27261587	1180	1190	Sildenafil	T109,T121	C0529793
+27261587	1191	1202	combination	T121	C0013162
+27261587	1214	1223	specified	T080	C0205369
+27261587	1224	1233	treatment	T169	C0039798
+27261587	1234	1240	period	T079	C1948053
+27261587	1242	1255	urine samples	T031	C1610733
+27261587	1261	1270	collected	T078	C1516695
+27261587	1278	1293	metabolic cages	T073	C3273359
+27261587	1306	1317	proteinuria	T033	C0033687
+27261587	1319	1326	animals	T008	C0003062
+27261587	1337	1347	euthanized	T054	C0162665
+27261587	1349	1354	blood	T031	C0178913
+27261587	1359	1373	tissue samples	T024	C1292533
+27261587	1379	1388	collected	T078	C1516695
+27261587	1393	1421	measurement of Blood glucose	T059	C0392201
+27261587	1423	1426	BUN	T059	C0005845
+27261587	1428	1432	S.Cr	T059	C0201976
+27261587	1434	1437	LDL	T059	C0202117
+27261587	1439	1441	NO	T059	C3810607
+27261587	1443	1449	TGF-β1	T059	C3889969
+27261587	1451	1456	IL-1β	T059	C3815172
+27261587	1458	1463	AGEPs	T059	C0022885
+27261587	1469	1472	SOD	T059	C0022885
+27261587	1478	1497	combination therapy	T061	C0013218
+27261587	1529	1532	BUN	T123,T197	C0600137
+27261587	1534	1538	S.Cr	T109,T123	C0010294
+27261587	1540	1543	LDL	T109,T123	C0023823
+27261587	1545	1551	TGF-β1	T116,T121,T123	C1704256
+27261587	1553	1558	IL-1β	T116,T129	C0021753
+27261587	1560	1571	Proteinuria	T033	C0033687
+27261587	1576	1581	AGEPs	T109,T123	C0162574
+27261587	1610	1613	SOD	T116,T121,T126	C0038838
+27261587	1618	1620	NO	T121,T123,T197	C0028128
+27261587	1647	1666	combination therapy	T061	C0013218
+27261587	1679	1689	ameliorate	T080	C0205556
+27261587	1690	1692	DN	T047	C0011881
+27261587	1719	1727	superior	T080	C0205556
+27261587	1742	1747	drugs	T121	C0013227
+
+27265654|t|Conservation education and habitat restoration for the endangered Sagalla caecilian (Boulengerula niedeni) in Sagalla Hill, Kenya
+27265654|a|The Sagalla caecilian (Boulengerula niedeni) is an endangered amphibian endemic to Sagalla Hill in the Taita Hills. This burrowing worm -like species prefers soft soil with high moisture and organic matter. The major threats to the Sagalla caecilian are soil erosion caused by steep slopes, bare ground and water siphoning / soil hardening from exotic eucalyptus trees. The purpose of this study was to get a better understanding of the local people's attitude towards this species and how they can contribute to its continued conservation through restoration of its remaining habitat. In this study, it was found that 96% of Sagalla people are aware of the species, its habits and its association with soils high in organic matter. It was also found that 96% of Sagalla people use organic manure from cow dung in their farms. Habitat restoration through planting of indigenous plants was found to be ongoing, especially on compounds of public institutions as well as on private lands. Although drought was found to be a challenge for seedlings development especially on the low elevation sites, destruction by livestock especially during the dry season is also a major threat. In this study, it was recommended that any future habitat restoration initiative should include strong chain-link fencing to protect the seedlings from livestock activity. Recognizing that the preferred habitats for the species are in the valleys, systematic planting of keystone plant species such as fig trees (Ficus) creates the best microhabitats. These are better than general woodlots of indigenous trees.
+27265654	0	22	Conservation education	T065	C0013652
+27265654	27	34	habitat	T082	C0871648
+27265654	35	46	restoration	T169	C0205245
+27265654	55	65	endangered	T098	C2717882
+27265654	66	83	Sagalla caecilian	T011	C2999417
+27265654	85	105	Boulengerula niedeni	T011	C2999417
+27265654	110	122	Sagalla Hill	T083	C0022558
+27265654	124	129	Kenya	T083	C0022558
+27265654	134	151	Sagalla caecilian	T011	C2999417
+27265654	153	173	Boulengerula niedeni	T011	C2999417
+27265654	181	191	endangered	T098	C2717882
+27265654	192	201	amphibian	T011	C0002668
+27265654	202	209	endemic	UnknownType	C0681784
+27265654	213	225	Sagalla Hill	T083	C0022558
+27265654	233	244	Taita Hills	T083	C0022558
+27265654	251	265	burrowing worm	T204	C0018893
+27265654	272	279	species	T185	C1705920
+27265654	288	292	soft	T080	C0205358
+27265654	293	297	soil	T167	C0037592
+27265654	303	307	high	T080	C0205250
+27265654	308	316	moisture	T167	C0868994
+27265654	321	335	organic matter	T167	C0439861
+27265654	341	346	major	T080	C0205164
+27265654	347	354	threats	T078	C0749385
+27265654	362	379	Sagalla caecilian	T011	C2999417
+27265654	384	396	soil erosion	T070	C1254365
+27265654	397	403	caused	T169	C0678227
+27265654	407	419	steep slopes	T082	C1254362
+27265654	426	432	ground	T083	C0242744
+27265654	437	452	water siphoning	T067	C1254366
+27265654	455	469	soil hardening	T067	C1254366
+27265654	475	498	exotic eucalyptus trees	T002	C0015148
+27265654	520	525	study	T062	C2603343
+27265654	539	545	better	T080	C0332272
+27265654	546	559	understanding	T041	C0162340
+27265654	567	572	local	T082	C0205276
+27265654	573	581	people's	T098	C0027361
+27265654	582	590	attitude	T041	C0004271
+27265654	604	611	species	T185	C1705920
+27265654	629	639	contribute	T052	C1880177
+27265654	647	656	continued	T078	C0549178
+27265654	657	669	conservation	T080	C2347858
+27265654	678	689	restoration	T169	C0205245
+27265654	697	706	remaining	T080	C1527428
+27265654	707	714	habitat	T082	C0871648
+27265654	724	729	study	T062	C2603343
+27265654	738	743	found	T033	C0150312
+27265654	756	763	Sagalla	T083	C0022558
+27265654	764	770	people	T098	C0027361
+27265654	775	780	aware	T041	C0004448
+27265654	788	795	species	T185	C1705920
+27265654	801	807	habits	T055	C0018464
+27265654	833	838	soils	T167	C0037592
+27265654	839	843	high	T080	C0205250
+27265654	847	861	organic matter	T167	C0439861
+27265654	875	880	found	T033	C0150312
+27265654	893	900	Sagalla	T083	C0022558
+27265654	901	907	people	T098	C0027361
+27265654	912	919	organic	T080	C0747055
+27265654	920	926	manure	T167	C0024765
+27265654	932	935	cow	T015	C0007452
+27265654	936	940	dung	T031	C0015733
+27265654	950	955	farms	T082	C0557759
+27265654	957	964	Habitat	T082	C0871648
+27265654	965	976	restoration	T169	C0205245
+27265654	985	993	planting	T052	C0441655
+27265654	997	1007	indigenous	T082	C0205276
+27265654	1008	1014	plants	T002	C0032098
+27265654	1019	1024	found	T033	C0150312
+27265654	1031	1038	ongoing	T078	C0549178
+27265654	1040	1050	especially	T080	C0205555
+27265654	1054	1063	compounds	T103	C1706082
+27265654	1067	1086	public institutions	T092	C1552744
+27265654	1101	1114	private lands	UnknownType	C0681784
+27265654	1125	1132	drought	T070	C0013140
+27265654	1137	1142	found	T033	C0150312
+27265654	1165	1174	seedlings	T002	C0242437
+27265654	1175	1186	development	T169	C1527148
+27265654	1205	1208	low	T080	C0205251
+27265654	1209	1218	elevation	T082	C0702240
+27265654	1219	1224	sites	T082	C0205145
+27265654	1226	1237	destruction	T052	C1948029
+27265654	1241	1250	livestock	T008	C2936506
+27265654	1262	1268	during	T079	C0347984
+27265654	1273	1276	dry	T080	C0205222
+27265654	1277	1283	season	T079	C0036497
+27265654	1294	1299	major	T080	C0205164
+27265654	1300	1306	threat	T078	C0749385
+27265654	1316	1321	study	T062	C2603343
+27265654	1330	1341	recommended	T078	C0034866
+27265654	1351	1357	future	T079	C0016884
+27265654	1358	1365	habitat	T082	C0871648
+27265654	1366	1377	restoration	T169	C0205245
+27265654	1378	1388	initiative	T041	C0424093
+27265654	1396	1403	include	T169	C0332257
+27265654	1404	1410	strong	T080	C0442821
+27265654	1411	1421	chain-link	T073	C3273359
+27265654	1422	1429	fencing	T052	C0441655
+27265654	1445	1454	seedlings	T002	C0242437
+27265654	1460	1469	livestock	T008	C2936506
+27265654	1470	1478	activity	T052	C0441655
+27265654	1501	1510	preferred	T078	C0558295
+27265654	1511	1519	habitats	T082	C0871648
+27265654	1528	1535	species	T185	C1705920
+27265654	1547	1554	valleys	T082	C0563004
+27265654	1556	1566	systematic	T169	C0220922
+27265654	1567	1575	planting	T052	C0441655
+27265654	1579	1593	keystone plant	T002	C0032098
+27265654	1594	1601	species	T185	C1705920
+27265654	1610	1619	fig trees	T002	C0969754
+27265654	1621	1626	Ficus	T002	C0969754
+27265654	1628	1635	creates	T052	C1706214
+27265654	1645	1658	microhabitats	T082	C0871648
+27265654	1670	1676	better	T080	C0332272
+27265654	1682	1689	general	T082	C0205246
+27265654	1690	1698	woodlots	T082	C1254362
+27265654	1702	1712	indigenous	T082	C0205276
+27265654	1713	1718	trees	T002	C0040811
